@@ -1,0 +1,198 @@
+other manipulation of lacrimal passage	is a	medical procedure
+other manipulation of lacrimal passage	used for	treating blocked tear ducts
+dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+dacryocystorhinostomy	used for	creating a new tear duct opening
+dacryocystorhinostomy	can alleviate	chronic tearing
+Jones tube placement	is a type of	other manipulation of lacrimal passage
+Jones tube placement	used for	managing blocked tear ducts
+Jones tube placement	can facilitate	drainage of tears
+probing and irrigation	is a type of	other manipulation of lacrimal passage
+probing and irrigation	used for	removing obstructions in the tear duct
+probing and irrigation	can clear	blocked tear ducts
+balloon catheter dilation	is a type of	other manipulation of lacrimal passage
+balloon catheter dilation	used for	widening the tear duct
+balloon catheter dilation	can improve	tear drainage
+stent placement	is a type of	other manipulation of lacrimal passage
+stent placement	used for	keeping the tear duct open
+stent placement	can prevent	tear duct blockage
+endoscopic dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic dacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic endonasal dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic endonasal dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic endonasal dacryocystorhinostomy	can alleviate	chronic tearing
+dacryocystectomy	is a type of	other manipulation of lacrimal passage
+dacryocystectomy	used for	removing the tear sac
+dacryocystectomy	can treat	severe blockage in the tear duct
+bicanalicular intubation	is a type of	other manipulation of lacrimal passage
+bicanalicular intubation	used for	placing tubes in the tear duct
+bicanalicular intubation	can improve	tear drainage
+conjunctivodacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+conjunctivodacryocystorhinostomy	used for	creating a new tear duct opening
+conjunctivodacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic nasolacrimal duct bypass	is a type of	other manipulation of lacrimal passage
+endoscopic nasolacrimal duct bypass	used for	bypassing the blocked tear duct
+endoscopic nasolacrimal duct bypass	can improve	tear drainage
+endoscopic nasolacrimal duct recanalization	is a type of	other manipulation of lacrimal passage
+endoscopic nasolacrimal duct recanalization	used for	reopening blocked tear ducts
+endoscopic nasolacrimal duct recanalization	can restore	normal tear drainage
+balloon dacryoplasty	is a type of	other manipulation of lacrimal passage
+balloon dacryoplasty	used for	widening the tear duct
+balloon dacryoplasty	can improve	tear drainage
+lacrimal stenting	is a type of	other manipulation of lacrimal passage
+lacrimal stenting	used for	keeping the tear duct open
+lacrimal stenting	can prevent	tear duct blockage
+dacryoendoscopic rhinostomy	is a type of	other manipulation of lacrimal passage
+dacryoendoscopic rhinostomy	used for	creating a new tear duct opening
+dacryoendoscopic rhinostomy	can alleviate	chronic tearing
+endoscopic transcanalicular dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic transcanalicular dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic transcanalicular dacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic transnasal dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic transnasal dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic transnasal dacryocystorhinostomy	can alleviate	chronic tearing
+phenol punctal cautery	is a type of	other manipulation of lacrimal passage
+phenol punctal cautery	used for	closing punctal openings
+phenol punctal cautery	can reduce	excessive tearing
+conjunctivoplasty	is a type of	other manipulation of lacrimal passage
+conjunctivoplasty	used for	reconstructing the tear duct
+conjunctivoplasty	can improve	tear drainage
+macroplastique injection	is a type of	other manipulation of lacrimal passage
+macroplastique injection	used for	treating blocked tear ducts
+macroplastique injection	can improve	tear drainage
+bicanalicular silicone intubation	is a type of	other manipulation of lacrimal passage
+bicanalicular silicone intubation	used for	keeping the tear duct open
+bicanalicular silicone intubation	can prevent	tear duct blockage
+nasal endoscopy	is a type of	other manipulation of lacrimal passage
+nasal endoscopy	used for	examining the nasal cavity
+nasal endoscopy	can detect	nasal abnormalities
+denervation of the lacrimal gland capsule	is a type of	other manipulation of lacrimal passage
+denervation of the lacrimal gland capsule	used for	reducing tear production
+denervation of the lacrimal gland capsule	can treat	excessive tearing
+dacryocystoplasty	is a type of	other manipulation of lacrimal passage
+dacryocystoplasty	used for	widening the tear duct
+dacryocystoplasty	can improve	tear drainage
+external dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+external dacryocystorhinostomy	used for	creating a new tear duct opening
+external dacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic transcaruncular dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic transcaruncular dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic transcaruncular dacryocystorhinostomy	can alleviate	chronic tearing
+canaliculotomy	is a type of	other manipulation of lacrimal passage
+canaliculotomy	used for	widening the tear duct
+canaliculotomy	can improve	tear drainage
+glandular dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+glandular dacryocystorhinostomy	used for	creating a new tear duct opening
+glandular dacryocystorhinostomy	can alleviate	chronic tearing
+trephination of lacrimal sac	is a type of	other manipulation of lacrimal passage
+trephination of lacrimal sac	used for	creating an opening in the tear sac
+trephination of lacrimal sac	can facilitate	tear drainage
+anasal punctoplasty	is a type of	other manipulation of lacrimal passage
+anasal punctoplasty	used for	repairing the tear duct
+anasal punctoplasty	can improve	tear drainage
+endoscopic conjunctivodacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic conjunctivodacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic conjunctivodacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic endoturbinate dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic endoturbinate dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic endoturbinate dacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic endoturbinate endonasal dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic endoturbinate endonasal dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic endoturbinate endonasal dacryocystorhinostomy	can alleviate	chronic tearing
+endoscopic guided navigation dacryocystorhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic guided navigation dacryocystorhinostomy	used for	creating a new tear duct opening
+endoscopic guided navigation dacryocystorhinostomy	can alleviate	chronic tearing
+bicanalicular biliary stenting	is a type of	other manipulation of lacrimal passage
+bicanalicular biliary stenting	used for	keeping the bile duct open
+bicanalicular biliary stenting	can prevent	bile duct blockage
+tubularized Bracka flap urethroplasty	is a type of	other manipulation of lacrimal passage
+tubularized Bracka flap urethroplasty	used for	repairing the urethra
+tubularized Bracka flap urethroplasty	can restore	urinary function
+endoscopic endoadrenal surgery	is a type of	other manipulation of lacrimal passage
+endoscopic endoadrenal surgery	used for	removing adrenal tumors
+endoscopic endoadrenal surgery	can treat	adrenal gland disorders
+endoscopic cystolithopaxy	is a type of	other manipulation of lacrimal passage
+endoscopic cystolithopaxy	used for	removing bladder stones
+endoscopic cystolithopaxy	can alleviate	bladder pain
+endoscopic endoventricular surgery	is a type of	other manipulation of lacrimal passage
+endoscopic endoventricular surgery	used for	repairing heart defects
+endoscopic endoventricular surgery	can improve	heart function
+endoscopic submandibular gland removal	is a type of	other manipulation of lacrimal passage
+endoscopic submandibular gland removal	used for	removing the submandibular gland
+endoscopic submandibular gland removal	can treat	salivary gland infections
+endoscopic sphincterotomy	is a type of	other manipulation of lacrimal passage
+endoscopic sphincterotomy	used for	treating bile duct stones
+endoscopic sphincterotomy	can alleviate	gallstone related symptoms
+endoscopic endobronchial stent placement	is a type of	other manipulation of lacrimal passage
+endoscopic endobronchial stent placement	used for	keeping the airway open
+endoscopic endobronchial stent placement	can improve	lung function
+endoscopic DCR with created rhinostomy	is a type of	other manipulation of lacrimal passage
+endoscopic DCR with created rhinostomy	used for	creating a new tear duct opening
+endoscopic dacryocystorhinostomy with balloon dilation	is a type of	other manipulation of lacrimal passage
+endoscopic dacryocystorhinostomy with balloon dilation	used for	widening the tear duct
+endoscopic dacryocystorhinostomy with balloon dilation	can improve	tear drainage
+maxillary endoscopic sinus surgery	is a type of	other manipulation of lacrimal passage
+maxillary endoscopic sinus surgery	used for	treating sinus conditions
+maxillary endoscopic sinus surgery	can alleviate	sinus symptoms
+endoscopic synovectomy	is a type of	other manipulation of lacrimal passage
+endoscopic synovectomy	used for	removing inflamed joint lining
+endoscopic synovectomy	can relieve	joint pain
+endoscopic septoplasty	is a type of	other manipulation of lacrimal passage
+endoscopic septoplasty	used for	correcting deviated septum
+endoscopic septoplasty	can improve	nasal airflow
+endoscopic sphenoidotomy	is a type of	other manipulation of lacrimal passage
+endoscopic sphenoidotomy	used for	accessing the sphenoid sinuses
+endoscopic sphenoidotomy	can treat	sinus infections
+endoscopic thoracic sympathectomy	is a type of	other manipulation of lacrimal passage
+endoscopic thoracic sympathectomy	used for	treating hyperhidrosis
+endoscopic thoracic sympathectomy	can reduce	excessive sweating
+endoscopic transnasal cholangiopancreatography	is a type of	other manipulation of lacrimal passage
+endoscopic transnasal cholangiopancreatography	used for	diagnosing pancreatic and biliary disorders
+endoscopic transnasal cholangiopancreatography	can detect	pancreatic and biliary abnormalities
+endoscopic ultrasound-guided biliary drainage	is a type of	other manipulation of lacrimal passage
+endoscopic ultrasound-guided biliary drainage	used for	draining bile ducts
+endoscopic ultrasound-guided biliary drainage	can relieve	bile duct obstruction
+endoscopic retromastoid craniectomy	is a type of	other manipulation of lacrimal passage
+endoscopic retromastoid craniectomy	used for	accessing the skull base
+endoscopic retromastoid craniectomy	can treat	skull base tumors
+endoscopic third ventriculostomy	is a type of	other manipulation of lacrimal passage
+endoscopic third ventriculostomy	used for	treating hydrocephalus
+endoscopic third ventriculostomy	can improve	cerebrospinal fluid circulation
+endoscopic temporomandibular joint surgery	is a type of	other manipulation of lacrimal passage
+endoscopic temporomandibular joint surgery	used for	treating TMJ disorders
+endoscopic temporomandibular joint surgery	can relieve	jaw pain
+vitreoretinal surgery	is a type of	other manipulation of lacrimal passage
+vitreoretinal surgery	used for	treating retinal conditions
+vitreoretinal surgery	can improve	visual function
+conjunctival rhinoplasty	is a type of	other manipulation of lacrimal passage
+conjunctival rhinoplasty	used for	nasal reconstruction
+conjunctival rhinoplasty	can improve	nasal appearance
+conjunctivodacryocystorhinotomy	is a type of	other manipulation of lacrimal passage
+conjunctivodacryocystorhinotomy	used for	creating a new tear duct opening
+conjunctivodacryocystorhinotomy	can alleviate	chronic tearing
+dacryoplasty	is a type of	other manipulation of lacrimal passage
+dacryoplasty	used for	widening the tear duct
+dacryoplasty	can improve	tear drainage
+lacrimal sac drainage	is a type of	other manipulation of lacrimal passage
+lacrimal sac drainage	used for	draining the tear sac
+lacrimal sac drainage	can alleviate	chronic tearing
+endoscopic retrograde cholangiopancreatography	is a type of	other manipulation of lacrimal passage
+endoscopic retrograde cholangiopancreatography	used for	diagnosing pancreatic and biliary disorders
+endoscopic retrograde cholangiopancreatography	can detect	pancreatic and biliary abnormalities
+endoscopic tumor removal	is a type of	other manipulation of lacrimal passage
+endoscopic tumor removal	used for	removing tumors
+endoscopic tumor removal	can treat	various types of tumors
+lacrimal sac intubation	is a type of	other manipulation of lacrimal passage
+lacrimal sac intubation	used for	placing tubes in the tear duct
+lacrimal sac intubation	can improve	tear drainage
+alveoloplasty	is a type of	other manipulation of lacrimal passage
+alveoloplasty	used for	reshaping the dental ridge
+alveoloplasty	can improve	denture fit
+uveoscleral outflow procedure	is a type of	other manipulation of lacrimal passage
+uveoscleral outflow procedure	used for	improving aqueous humor outflow
+uveoscleral outflow procedure	can reduce	intraocular pressure
+dacryocystoclasis	is a type of	other manipulation of lacrimal passage
+dacryocystoclasis	used for	breaking down scar tissue
+dacryocystoclasis	can restore	tear drainage
+lid tightening procedure	is a type of	other manipulation of lacrimal passage
+lid tightening procedure	used for	correcting eyelid malposition

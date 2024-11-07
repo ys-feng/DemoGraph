@@ -1,0 +1,70 @@
+#### general settings
+name: PPI_LP_GCN
+train_type: gnnppi
+gpu_ids: '0'
+
+#### datasets
+datasets:
+  name: "ppi"
+  dataset_path: "/tmp/PPI/raw"
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: true
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: false
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GCN_PPI"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005
+  weight_decay: 0.0005
+
+#### GNN settings
+GNN:
+  name: "GCN"
+  num_layers: 2
+  in_dim: 50
+  hidden_dim: 128
+  out_dim: 121
+  feat_drop: 0
+  nec: 100
+
+
+
+
+#### training settings
+train:
+  num_epochs: 300
+  batch_size: 32
+  temperature: 0.001
+
+logging:
+  mode: online  #online, disabled, offline
+  tags: [
+      "PPI",
+      "GCN",
+      "100triples",
+      "25concepts"
+#      "temp_anneal"
+    ]

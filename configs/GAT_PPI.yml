@@ -1,0 +1,72 @@
+#### general settings
+name: PPI_LP_GAT
+train_type: gnnppi
+gpu_ids: '0'
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: false
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: true
+
+#### datasets
+datasets:
+  name: "ppi"
+  dataset_path: "/tmp/PPI/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GAT_PPI"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.005
+  weight_decay: 0
+
+#### GNN settings
+GNN:
+  name: "GAT"
+  num_layers: 2
+  in_dim: 50
+  hidden_dim: 128
+  out_dim: 121
+  attn_drop: 0
+  feat_drop: 0.05
+  num_heads: 4
+  num_out_heads: 6
+  negative_slope: 0.1
+  linear: False
+  nec: 3
+
+
+#### training settings
+train:
+  num_epochs: 600
+  batch_size: 32
+
+logging:
+  mode: online
+  tags: [
+      "PPI",
+      "GAT",
+#      "Baseline"
+      "Concept25",
+      "CGAug"
+    ]

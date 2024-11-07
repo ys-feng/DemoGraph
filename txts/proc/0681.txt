@@ -1,0 +1,23 @@
+complete parathyroidectomy	is a	surgical procedure
+complete parathyroidectomy	used for	treating hyperparathyroidism
+complete parathyroidectomy	can cause	hypocalcemia
+hypocalcemia	increases the risk of	tetany
+complete parathyroidectomy	may require	calcium replacement therapy
+calcium replacement therapy	can prevent	hypocalcemia
+complete parathyroidectomy	may result in	hypoparathyroidism
+hypoparathyroidism	requires	lifelong calcium and vitamin D supplementation
+complete parathyroidectomy	can be performed	as an open surgery
+complete parathyroidectomy	can also be performed	as a minimally invasive surgery
+minimally invasive surgery	offers	shorter recovery time
+complete parathyroidectomy	may have	complications such as bleeding or infection
+complications such as bleeding or infection	may require	additional medical intervention
+complete parathyroidectomy	has a	success rate of over 95%
+complete parathyroidectomy	is usually performed	under general anesthesia
+complete parathyroidectomy	requires	preoperative evaluation of parathyroid hormone levels
+complete parathyroidectomy	may be followed by	postoperative monitoring of calcium levels
+postoperative monitoring of calcium levels	helps in	detecting and managing postoperative hypocalcemia
+complete parathyroidectomy	may be accompanied by	removal of lymph nodes in certain cases
+complete parathyroidectomy	carries	a risk of vocal cord paralysis
+vocal cord paralysis	can result in	hoarseness or difficulty speaking
+complete parathyroidectomy	may have	long-term implications on bone health
+bone health	can be evaluated	through bone density scans

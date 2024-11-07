@@ -1,0 +1,116 @@
+other parathyroidectomy	is a	surgical procedure
+other parathyroidectomy	used for	treating hyperparathyroidism
+hyperparathyroidism	can cause	bone loss
+hyperparathyroidism	can cause	kidney stones
+hyperparathyroidism	can cause	fatigue
+hyperparathyroidism	can cause	muscle weakness
+hyperparathyroidism	can cause	osteoporosis
+hyperparathyroidism	can cause	abdominal pain
+hyperparathyroidism	can cause	constipation
+hyperparathyroidism	can cause	depression
+hyperparathyroidism	can cause	memory problems
+hyperparathyroidism	can cause	increased urination
+hyperparathyroidism	can cause	thirst
+hyperparathyroidism	can cause	joint pain
+hyperparathyroidism	can cause	frequent infections
+hyperparathyroidism	can cause	high blood pressure
+hyperparathyroidism	can cause	weight loss
+hyperparathyroidism	can cause	loss of appetite
+hyperparathyroidism	can cause	nausea
+hyperparathyroidism	can cause	vomiting
+hyperparathyroidism	can cause	confusion
+hyperparathyroidism	can cause	difficulty concentrating
+hyperparathyroidism	can cause	irritability
+hyperparathyroidism	can cause	anxiety
+hyperparathyroidism	can cause	tingling or numbness in the hands or feet
+hyperparathyroidism	can cause	thinning hair
+hyperparathyroidism	can cause	dry skin
+hyperparathyroidism	can cause	brittle nails
+hyperparathyroidism	can cause	muscle spasms
+hyperparathyroidism	can cause	heart palpitations
+hyperparathyroidism	can cause	irregular heartbeat
+hyperparathyroidism	can cause	shortness of breath
+hyperparathyroidism	can cause	chest pain
+hyperparathyroidism	can cause	poor growth in children
+hyperparathyroidism	can cause	delayed puberty
+hyperparathyroidism	can cause	infertility in women
+hyperparathyroidism	can cause	erectile dysfunction in men
+hyperparathyroidism	can cause	miscarriage
+hyperparathyroidism	can cause	stillbirth
+hyperparathyroidism	can cause	pancreatitis
+hyperparathyroidism	can cause	anemia
+hyperparathyroidism	can cause	high calcium levels in the blood
+hyperparathyroidism	can cause	low phosphorus levels in the blood
+hyperparathyroidism	can cause	high parathyroid hormone levels in the blood
+hyperparathyroidism	can cause	high alkaline phosphatase levels in the blood
+hyperparathyroidism	can cause	high creatinine levels in the blood
+hyperparathyroidism	can cause	high blood urea nitrogen levels
+hyperparathyroidism	can cause	low vitamin D levels in the blood
+hyperparathyroidism	can cause	high potassium levels in the blood
+hyperparathyroidism	can cause	high magnesium levels in the blood
+hyperparathyroidism	can cause	low albumin levels in the blood
+hyperparathyroidism	can cause	high phosphorus levels in the urine
+hyperparathyroidism	can cause	low calcium levels in the urine
+hyperparathyroidism	can cause	low citrate levels in the urine
+hyperparathyroidism	can cause	high oxalate levels in the urine
+hyperparathyroidism	can cause	low magnesium levels in the urine
+hyperparathyroidism	can cause	low phosphorus levels in the urine
+hyperparathyroidism	can cause	high parathyroid hormone levels in the urine
+hyperparathyroidism	can cause	high 24-hour urinary calcium levels
+hyperparathyroidism	can cause	low urinary cyclic AMP levels
+hyperparathyroidism	can cause	low urinary phosphate levels
+hyperparathyroidism	can cause	low urinary creatinine levels
+hyperparathyroidism	can cause	low urinary adenylate/guanosine levels
+hyperparathyroidism	can cause	low urinary calcium-to-creatinine ratio
+hyperparathyroidism	can cause	low urinary calcium-to-creatinine clearance ratio
+hyperparathyroidism	can cause	low urinary calcium-to-urine volume ratio
+hyperparathyroidism	can cause	low urinary calcium-to-citrate ratio
+hyperparathyroidism	can cause	low urinary calcium-to-magnesium ratio
+hyperparathyroidism	can cause	low urinary calcium-to-phosphate ratio
+hyperparathyroidism	can cause	low urinary calcium-to-oxalate ratio
+hyperparathyroidism	can cause	low urinary calcium-to-dihydroxy vitamin D ratio
+hyperparathyroidism	can cause	low urinary calcium-to-retinol binding protein ratio
+hyperparathyroidism	can cause	low urinary calcium-to-beta 2-microglobulin ratio
+hyperparathyroidism	can cause	low urinary calcium-to-creatinine clearance over filtration fraction ratio
+hyperparathyroidism	can cause	low urinary calcium-to-bicarbonate ratio
+hyperparathyroidism	can cause	high 1,25-dihydroxy vitamin D levels in the blood
+hyperparathyroidism	can cause	low 25-hydroxy vitamin D levels in the blood
+hyperparathyroidism	can cause	high calcitonin levels in the blood
+hyperparathyroidism	can cause	high fibroblast growth factor 23 levels in the blood
+hyperparathyroidism	can cause	high phosphate levels in the blood
+hyperparathyroidism	can cause	high parathyroid hormone-related peptide levels in the blood
+hyperparathyroidism	can cause	high bone-specific alkaline phosphatase levels in the blood
+hyperparathyroidism	can cause	high type 1 collagen C-terminal telopeptide levels in the blood
+hyperparathyroidism	can cause	high osteocalcin levels in the blood
+hyperparathyroidism	can cause	high tartrate-resistant acid phosphatase 5b levels in the blood
+hyperparathyroidism	can cause	high alkaline phosphatase levels in the urine
+hyperparathyroidism	can cause	high beta 2-microglobulin levels in the urine
+hyperparathyroidism	can cause	high calcium levels in the urine
+hyperparathyroidism	can cause	high phosphorus levels in the urine
+hyperparathyroidism	can cause	high oxalate levels in the urine
+hyperparathyroidism	can cause	high citrate levels in the urine
+hyperparathyroidism	can cause	high magnesium levels in the urine
+hyperparathyroidism	can cause	high potassium levels in the urine
+hyperparathyroidism	can cause	high sodium levels in the urine
+hyperparathyroidism	can cause	high beta 2-microglobulin levels in the urine
+hyperparathyroidism	can cause	high N-acetyl-beta-D-glucoseaminidase levels in the urine
+hyperparathyroidism	can cause	high a1-microglobulin levels in the urine
+hyperparathyroidism	can cause	high retinol binding protein levels in the urine
+hyperparathyroidism	can cause	high human chorionic gonadotropin levels in the urine
+hyperparathyroidism	can cause	high bone-specific alkaline phosphatase levels in the urine
+hyperparathyroidism	can cause	high parathyroid hormone levels in the urine
+hyperparathyroidism	can cause	high urine calcium-to-urine creatinine ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine phosphate ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine magnesium ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine sulfate ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine citrate ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine beta-hydroxybutyrate ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine 2-methyl-3-hydroxy butyrate ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine retinol ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine retinol binding protein ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine beta 2-microglobulin ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine alpha 1-microglobulin ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine microalbumin ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine total protein ratio
+hyperparathyroidism	can cause	high urine calcium-to-urine parathyroid hormone ratio
+hyperparathyroidism	can cause	high urinary calcium-to-urinary creatinine clearance over filtration fraction ratio

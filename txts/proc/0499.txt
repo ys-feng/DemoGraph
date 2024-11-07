@@ -1,0 +1,84 @@
+operations	can be performed on	cranial and peripheral nerves
+operations	used for	treatment
+nerve decompression	is a type of	operation
+nerve decompression	used for	relieving nerve compression
+nerve decompression	can improve	symptoms
+nerve grafting	is a type of	operation
+nerve grafting	used for	repairing damaged nerves
+neurolysis	is a type of	operation
+neurolysis	used for	releasing nerve entrapment
+neurolysis	can relieve	pain
+neurectomy	is a type of	operation
+neurectomy	used for	removing a section of nerve
+neurectomy	can relieve	chronic pain
+neurorrhaphy	is a type of	operation
+neurorrhaphy	used for	joining severed nerves
+neurorrhaphy	can restore	nerve function
+nerve stimulation	is a type of	operation
+nerve stimulation	used for	treating nerve disorders
+nerve stimulation	can alleviate	symptoms
+neurotization	is a type of	operation
+neurotization	used for	transferring a healthy nerve to a damaged area
+neurotization	can restore	nerve function
+neuroplasty	is a type of	operation
+neuroplasty	used for	repairing damaged nerves
+neuroplasty	can improve	nerve function
+neurectomy	can be performed on	cranial and peripheral nerves
+nerve decompression	can be performed on	cranial and peripheral nerves
+nerve grafting	can be performed on	cranial and peripheral nerves
+neurolysis	can be performed on	cranial and peripheral nerves
+neurorrhaphy	can be performed on	cranial and peripheral nerves
+nerve stimulation	can be performed on	cranial and peripheral nerves
+neurotization	can be performed on	cranial and peripheral nerves
+neuroplasty	can be performed on	cranial and peripheral nerves
+cranial nerves	can undergo	operations
+peripheral nerves	can undergo	operations
+cranial nerves	can benefit from	nerve decompression
+peripheral nerves	can benefit from	nerve decompression
+cranial nerves	can benefit from	nerve grafting
+peripheral nerves	can benefit from	nerve grafting
+cranial nerves	can benefit from	neurolysis
+peripheral nerves	can benefit from	neurolysis
+cranial nerves	can benefit from	neurectomy
+peripheral nerves	can benefit from	neurectomy
+cranial nerves	can benefit from	neurorrhaphy
+peripheral nerves	can benefit from	neurorrhaphy
+cranial nerves	can benefit from	nerve stimulation
+peripheral nerves	can benefit from	nerve stimulation
+cranial nerves	can benefit from	neurotization
+peripheral nerves	can benefit from	neurotization
+cranial nerves	can benefit from	neuroplasty
+peripheral nerves	can benefit from	neuroplasty
+nerve compression	can cause	symptoms
+damaged nerves	can be repaired using	nerve grafting
+nerve entrapment	can cause	pain
+chronic pain	can be relieved by	neurectomy
+severed nerves	can be joined using	neurorrhaphy
+neurological disorders	can be treated using	nerve stimulation
+damaged nerves	can be repaired using	neurotization
+nerve disorders	can be treated using	nerve stimulation
+damaged nerves	can be repaired using	neuroplasty
+cranial nerves	can undergo	nerve decompression
+peripheral nerves	can undergo	nerve decompression
+cranial nerves	can undergo	nerve grafting
+peripheral nerves	can undergo	nerve grafting
+cranial nerves	can undergo	neurolysis
+peripheral nerves	can undergo	neurolysis
+cranial nerves	can undergo	neurectomy
+peripheral nerves	can undergo	neurectomy
+cranial nerves	can undergo	neurorrhaphy
+peripheral nerves	can undergo	neurorrhaphy
+cranial nerves	can undergo	nerve stimulation
+peripheral nerves	can undergo	nerve stimulation
+cranial nerves	can undergo	neurotization
+peripheral nerves	can undergo	neurotization
+cranial nerves	can undergo	neuroplasty
+peripheral nerves	can undergo	neuroplasty
+nerve decompression	can relieve	nerve compression
+nerve grafting	can repair	damaged nerves
+neurolysis	can release	nerve entrapment
+neurectomy	can remove	a section of nerve
+neurorrhaphy	can join	severed nerves
+nerve stimulation	can treat	nerve disorders
+neurotization	can transfer	a healthy nerve to a damaged area
+neuroplasty	can repair	damaged nerves

@@ -1,0 +1,50 @@
+Intubation
+Mechanical Ventilation
+Central Venous Catheterization
+Hemodialysis
+Cardiopulmonary Resuscitation (CPR)
+Tracheostomy
+Blood Transfusion
+Surgical Drain Management
+Parenteral Nutrition
+Enteral Nutrition
+Antibiotics
+Anticoagulants
+Vasopressors
+Diuretics
+Insulin Therapy
+Analgesics
+Sedatives
+Antiarrhythmics
+Antihypertensives
+Steroids
+Complete Blood Count (CBC)
+Blood Chemistry Panel
+Arterial Blood Gases (ABG)
+Echocardiogram
+Electrocardiogram (ECG)
+Chest X-Ray
+CT Scan
+MRI
+Ultrasound
+Microbiological Cultures
+Age
+Gender
+Medical History
+Surgical History
+Body Mass Index (BMI)
+Sepsis
+Acute Respiratory Distress Syndrome (ARDS)
+Myocardial Infarction
+Stroke
+Diabetes Mellitus
+Chronic Kidney Disease
+Liver Cirrhosis
+Heart Failure
+Pneumonia
+COPD
+Hypertension
+Atrial Fibrillation
+Deep Vein Thrombosis
+Pulmonary Embolism
+Gastrointestinal Bleed

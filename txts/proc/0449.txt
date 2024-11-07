@@ -1,0 +1,132 @@
+peripheral nerve decompression	is a	medical procedure
+ganglion decompression	is a	medical procedure
+lysis of adhesions	is a	medical procedure
+peripheral nerve decompression	can be used for	pain relief
+ganglion decompression	can be used for	pain relief
+lysis of adhesions	can be used for	pain relief
+peripheral nerve decompression	can be used for	nerve damage
+ganglion decompression	can be used for	nerve damage
+lysis of adhesions	can be used for	scar tissue removal
+peripheral nerve decompression	can relieve	carpal tunnel syndrome
+ganglion decompression	can relieve	carpal tunnel syndrome
+lysis of adhesions	can relieve	nerve entrapment
+peripheral nerve decompression	is performed by	a surgeon
+ganglion decompression	is performed by	a surgeon
+lysis of adhesions	is performed by	a surgeon
+peripheral nerve decompression	is typically done under	general anesthesia
+ganglion decompression	is typically done under	general anesthesia
+lysis of adhesions	is typically done under	general anesthesia
+peripheral nerve decompression	can be done using	minimally invasive techniques
+ganglion decompression	can be done using	minimally invasive techniques
+lysis of adhesions	can be done using	minimally invasive techniques
+peripheral nerve decompression	has potential risks including	infection
+ganglion decompression	has potential risks including	infection
+lysis of adhesions	has potential risks including	bleeding
+peripheral nerve decompression	has potential risks including	nerve damage
+ganglion decompression	has potential risks including	nerve damage
+lysis of adhesions	has potential risks including	organ damage
+peripheral nerve decompression	has a	recovery period
+ganglion decompression	has a	recovery period
+lysis of adhesions	has a	recovery period
+peripheral nerve decompression	may require	physical therapy
+ganglion decompression	may require	physical therapy
+lysis of adhesions	may require	physical therapy
+peripheral nerve decompression	can improve	quality of life
+ganglion decompression	can improve	quality of life
+lysis of adhesions	can improve	range of motion
+peripheral nerve decompression	is covered by	insurance
+ganglion decompression	is covered by	insurance
+lysis of adhesions	is covered by	insurance
+peripheral nerve decompression	is recommended for	chronic nerve pain
+ganglion decompression	is recommended for	chronic nerve pain
+lysis of adhesions	is recommended for	post-surgical adhesions
+peripheral nerve decompression	may be an	outpatient procedure
+ganglion decompression	may be an	outpatient procedure
+lysis of adhesions	may be an	outpatient procedure
+peripheral nerve decompression	is performed at	a hospital
+ganglion decompression	is performed at	a hospital
+lysis of adhesions	is performed at	a hospital
+peripheral nerve decompression	is often used for	treating neuropathy
+ganglion decompression	is often used for	treating ganglion cysts
+lysis of adhesions	is often used for	treating post-surgical adhesions
+peripheral nerve decompression	can be	beneficial
+ganglion decompression	can be	beneficial
+lysis of adhesions	can be	beneficial
+peripheral nerve decompression	has a	success rate
+ganglion decompression	has a	success rate
+lysis of adhesions	has a	success rate
+peripheral nerve decompression	is a	common procedure
+ganglion decompression	is a	common procedure
+lysis of adhesions	is a	common procedure
+peripheral nerve decompression	is performed on	peripheral nerves
+ganglion decompression	is performed on	nerve ganglion
+lysis of adhesions	is performed on	scar tissue
+peripheral nerve decompression	is often performed in	the upper extremities
+ganglion decompression	is often performed in	the wrist
+lysis of adhesions	is often performed in	the abdomen
+peripheral nerve decompression	is a	minimally invasive procedure
+ganglion decompression	is a	minimally invasive procedure
+lysis of adhesions	is a	minimally invasive procedure
+peripheral nerve decompression	is used to treat	nerve compression
+ganglion decompression	is used to treat	ganglion cysts
+lysis of adhesions	is used to treat	scar tissue adhesions
+peripheral nerve decompression	is recommended for	patients with peripheral neuropathy
+ganglion decompression	is recommended for	patients with ganglion cysts
+lysis of adhesions	is recommended for	patients with post-surgical scar tissue adhesions
+peripheral nerve decompression	can help	relieve symptoms
+ganglion decompression	can help	relieve symptoms
+lysis of adhesions	can help	relieve symptoms
+peripheral nerve decompression	can be done using	endoscopic techniques
+ganglion decompression	can be done using	arthroscopic techniques
+lysis of adhesions	can be done using	laparoscopic techniques
+peripheral nerve decompression	can be done in	an outpatient setting
+ganglion decompression	can be done in	an outpatient setting
+lysis of adhesions	can be done in	an outpatient setting
+peripheral nerve decompression	has	positive outcomes
+ganglion decompression	has	positive outcomes
+lysis of adhesions	has	positive outcomes
+peripheral nerve decompression	is performed under	sedation
+ganglion decompression	is performed under	sedation
+lysis of adhesions	is performed under	sedation
+peripheral nerve decompression	can be performed with	microsurgical techniques
+ganglion decompression	can be performed with	arthroscopic techniques
+lysis of adhesions	can be performed with	laparoscopic techniques
+peripheral nerve decompression	can improve	nerve function
+ganglion decompression	can improve	range of motion
+lysis of adhesions	can improve	abdominal pain
+peripheral nerve decompression	is used to treat	nerve entrapment
+ganglion decompression	is used to treat	ganglion cysts
+lysis of adhesions	is used to treat	scar tissue adhesions
+peripheral nerve decompression	can be performed as	an open surgery
+ganglion decompression	can be performed as	an open surgery
+lysis of adhesions	can be performed as	an open surgery
+peripheral nerve decompression	can be performed using	minimally invasive techniques
+ganglion decompression	can be performed using	minimally invasive techniques
+lysis of adhesions	can be performed using	minimally invasive techniques
+peripheral nerve decompression	may require	physical rehabilitation
+ganglion decompression	may require	physical rehabilitation
+lysis of adhesions	may require	physical rehabilitation
+peripheral nerve decompression	can alleviate	nerve pain
+ganglion decompression	can alleviate	ganglion cyst symptoms
+lysis of adhesions	can alleviate	scar tissue adhesion symptoms
+peripheral nerve decompression	is used to relieve	nerve compression
+ganglion decompression	is used to relieve	ganglion cyst symptoms
+lysis of adhesions	is used to relieve	scar tissue adhesion symptoms
+peripheral nerve decompression	is performed by	a neurosurgeon
+ganglion decompression	is performed by	an orthopedic surgeon
+lysis of adhesions	is performed by	a general surgeon
+peripheral nerve decompression	can be	beneficial
+ganglion decompression	can be	beneficial
+lysis of adhesions	can be	beneficial
+peripheral nerve decompression	has a	success rate
+ganglion decompression	has a	success rate
+lysis of adhesions	has a	success rate
+peripheral nerve decompression	is a	common procedure
+ganglion decompression	is a	common procedure
+lysis of adhesions	is a	common procedure
+peripheral nerve decompression	is performed on	peripheral nerves
+ganglion decompression	is performed on	nerve ganglion
+lysis of adhesions	is performed on	scar tissue
+peripheral nerve decompression	is often performed in	the upper extremities
+ganglion decompression	is often performed in	the wrist
+lysis of adhesions	is often performed in	the abdomen

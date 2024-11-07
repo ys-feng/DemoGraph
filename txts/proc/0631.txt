@@ -1,0 +1,4 @@
+excision	is a	surgical procedure
+excision	used for	removal
+excision	of	lesion
+thyroid	can be	a location

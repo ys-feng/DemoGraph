@@ -1,0 +1,25 @@
+Neural Networks
+Deep Learning
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Decision Trees
+Random Forests
+Support Vector Machines
+Natural Language Processing
+Computer Vision
+Bayesian Networks
+Genetic Algorithms
+Evolutionary Computing
+Fuzzy Logic
+Clustering Algorithms
+Dimensionality Reduction
+Feature Extraction
+Feature Selection
+Regression Analysis
+Time Series Analysis
+Convolutional Neural Networks
+Recurrent Neural Networks
+Long Short-Term Memory Networks
+Gradient Descent
+Backpropagation

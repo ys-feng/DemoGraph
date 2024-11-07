@@ -1,0 +1,83 @@
+repair	is a	medical procedure
+repair	used for	traumatic injury
+repair	used for	cranial nerves
+repair	used for	peripheral nerves
+traumatic injury	can cause	nerve damage
+nerve damage	can lead to	chronic pain
+nerve damage	can result in	loss of sensation
+nerve damage	can cause	muscle weakness
+nerve damage	can lead to	functional impairment
+nerve damage	can result in	mobility issues
+chronic pain	can affect	quality of life
+loss of sensation	can lead to	accidental injuries
+muscle weakness	can cause	difficulty in movement
+functional impairment	can affect	daily activities
+mobility issues	can result in	dependency
+mobility issues	can lead to	falls
+accidental injuries	can result in	infections
+difficulty in movement	can cause	joint problems
+infections	can lead to	complications
+joint problems	can result in	arthritis
+complications	can affect	recovery process
+arthritis	can cause	chronic pain
+recovery process	can take	a long time
+recovery process	can require	physical therapy
+chronic pain	can require	pain management
+physical therapy	can help	regain function
+pain management	can improve	quality of life
+pain management	can involve	medication
+pain management	can include	alternative treatments
+medication	can have	side effects
+alternative treatments	can provide	holistic approach
+side effects	can affect	patient's well-being
+holistic approach	can address	mind-body connection
+patient's well-being	can impact	treatment outcome
+mind-body connection	can influence	healing process
+treatment outcome	can depend on	patient compliance
+healing process	can require	time and patience
+patient compliance	can be	challenging
+time and patience	can be	necessary for recovery
+traumatic injury	can result in	scar tissue formation
+scar tissue formation	can cause	nerve entrapment
+scar tissue formation	can lead to	decreased mobility
+scar tissue formation	can result in	chronic pain
+nerve entrapment	can cause	shooting pain
+nerve entrapment	can lead to	numbness and tingling
+decreased mobility	can affect	daily activities
+shooting pain	can be	excruciating
+numbness and tingling	can indicate	nerve compression
+excruciating pain	can be	debilitating
+nerve compression	can require	surgical intervention
+debilitating pain	can limit	functionality
+nerve compression	can be	diagnosed through imaging tests
+functionality	can impact	quality of life
+imaging tests	can help	determine the cause
+quality of life	can be	affected by pain
+determine the cause	can aid in	treatment planning
+treatment planning	can involve	multidisciplinary team
+multidisciplinary team	can include	neurosurgeon
+multidisciplinary team	can include	physical therapist
+neurosurgeon	can perform	surgical repair
+physical therapist	can provide	rehabilitation
+surgical repair	can help	restore nerve function
+rehabilitation	can improve	strength and flexibility
+surgical repair	can require	anesthesia
+strength and flexibility	can aid in	recovery
+anesthesia	can be	general or local
+recovery	can be	challenging
+general or local anesthesia	can have	risks
+challenging recovery	can cause	emotional distress
+risks	can be	minimized with proper care
+emotional distress	can affect	mental health
+proper care	can prevent	complications
+mental health	can impact	overall well-being
+complications	can delay	recovery
+overall well-being	can contribute to	positive outcomes
+positive outcomes	can lead to	improved quality of life
+recovery	can be	lengthy
+lengthy recovery	can require	support
+support	can come from	family and friends
+family and friends	can provide	emotional support
+emotional support	can help	cope with challenges
+cope with challenges	can lead to	resilience
+resilience	can aid in	recovery process

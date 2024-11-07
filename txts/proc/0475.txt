@@ -1,0 +1,165 @@
+revision	is a	medical procedure
+cranial nerves	can be affected by	revision
+peripheral nerves	can be affected by	revision
+revision	used for	nerve repair
+nerve repair	can improve	nerve function
+revision	may be necessary after	previous repair
+previous repair	may not be successful
+revision	can be performed on	cranial nerves
+revision	can be performed on	peripheral nerves
+revision	can be performed after	nerve injury
+nerve injury	can cause	nerve damage
+revision	can improve	nerve regeneration
+revision	can help with	nerve pain
+revision	can increase	nerve function
+revision	can reduce	nerve inflammation
+revision	can treat	nerve entrapment
+revision	can alleviate	nerve compression
+revision	can correct	nerve misalignment
+revision	can restore	nerve continuity
+revision	can fix	nerve disconnection
+revision	can repair	nerve laceration
+revision	can reattach	nerve ends
+revision	may require	anesthesia
+revision	may require	hospitalization
+revision	may require	rehabilitation
+revision	can be performed by	a neurosurgeon
+revision	can be performed by	a plastic surgeon
+revision	can be performed by	a microsurgeon
+revision	can be performed by	a hand surgeon
+revision	can be performed by	a peripheral nerve specialist
+revision	can be performed by	a cranial nerve specialist
+revision	can be performed by	a nerve reconstruction specialist
+revision	can be performed by	a neurologist
+revision	can be performed by	a physiatrist
+revision	can be performed by	a pain management specialist
+revision	can be performed by	a rehabilitation specialist
+revision	can be performed by	a neurologic surgeon
+revision	can be performed by	a maxillofacial surgeon
+revision	can be performed by	a facial plastic surgeon
+revision	can be performed by	a head and neck surgeon
+revision	can be performed by	a otolaryngologist
+revision	can be performed by	a ophthalmologist
+revision	can be performed by	a orthopedic surgeon
+revision	can be performed by	a oral and maxillofacial surgeon
+revision	can be performed by	a vascular surgeon
+revision	can be performed by	a thoracic surgeon
+revision	can be performed by	a plastic surgery specialist
+revision	can be performed by	a reconstructive surgery specialist
+revision	can be performed by	a nerve repair specialist
+revision	can be performed by	a peripheral nerve repair specialist
+revision	can be performed by	a cranial nerve repair specialist
+revision	can be performed by	a nerve regeneration specialist
+revision	can be performed by	a pain specialist
+revision	can be performed by	a nerve specialist
+revision	can be performed by	a nerve pain specialist
+revision	can be performed by	a nerve injury specialist
+revision	can be performed by	a nerve reconstruction specialist
+revision	can be performed by	a nerve surgeon
+revision	can be performed by	a nerve specialist surgeon
+revision	can be performed by	a nerve injury surgeon
+revision	can be performed by	a nerve repair surgeon
+revision	can be performed by	a nerve regeneration surgeon
+revision	can be performed by	a peripheral nerve surgeon
+revision	can be performed by	a cranial nerve surgeon
+revision	can be performed by	a neurosurgery specialist
+revision	can be performed by	a neurology specialist
+revision	can be performed by	a neurophysiology specialist
+revision	can be performed by	a neurorehabilitation specialist
+revision	can be performed by	a neuro-oncology specialist
+revision	can be performed by	a neurovascular specialist
+revision	can be performed by	a neuro-immunology specialist
+revision	can be performed by	a neuro-infectious disease specialist
+revision	can be performed by	a neuro-ophthalmology specialist
+revision	can be performed by	a neuro-otology specialist
+revision	can be performed by	a neuro-arthrology specialist
+revision	can be performed by	a neurology and neurosurgery specialist
+revision	can be performed by	a headache specialist
+revision	can be performed by	a movement disorder specialist
+revision	can be performed by	a epilepsy specialist
+revision	can be performed by	a multiple sclerosis specialist
+revision	can be performed by	a peripheral nerve specialist
+revision	can be performed by	a neuroendocrinology specialist
+revision	can be performed by	a neuromuscular specialist
+revision	can be performed by	a neuro-radiology specialist
+revision	can be performed by	a neuro-urology specialist
+revision	can be performed by	a neuro-cardiology specialist
+revision	can be performed by	a neuro-pediatrics specialist
+revision	can be performed by	a neuro-gastroenterology specialist
+revision	can be performed by	a neuro-geriatrics specialist
+revision	can be performed by	a neuro-obstetrics and gynecology specialist
+revision	can be performed by	a neuro-nephrology specialist
+revision	can be performed by	a neuro-hepatology specialist
+revision	can be performed by	a neuro-hematology specialist
+revision	can be performed by	a neuro-rheumatology specialist
+revision	can be performed by	a neuro-dermatology specialist
+revision	can be performed by	a neuro-microbiology specialist
+revision	can be performed by	a neuro-pathology specialist
+revision	can be performed by	a neuro-genomics specialist
+revision	can be performed by	a neuro-pharmacology specialist
+revision	can be performed by	a neuro-psychiatry specialist
+revision	can be performed by	a neuro-stem cells specialist
+revision	can be performed by	a neuro-epigenetics specialist
+revision	can be performed by	a neuro-bioengineering specialist
+revision	can be performed by	a neuro-bioinformatics specialist
+revision	can be performed by	a neuro-biomechanics specialist
+revision	can be performed by	a neuro-biochemistry specialist
+revision	can be performed by	a neuro-nanotechnology specialist
+revision	can be performed by	a neuro-hydrology specialist
+revision	can be performed by	a neuro-atmospheric science specialist
+revision	can be performed by	a neuro-robothics specialist
+revision	can be performed by	a neuro-artificial intelligence specialist
+revision	can be performed by	a neuro-quantum computing specialist
+revision	can be performed by	a neuro-data science specialist
+revision	can be performed by	a neuro-cybersecurity specialist
+revision	can be performed by	a neuro-augmented reality specialist
+revision	can be performed by	a neuro-virtual reality specialist
+revision	can be performed by	a neuro-telemedicine specialist
+revision	can be performed by	a neuro-human computer interaction specialist
+revision	can be performed by	a neuro-robotics specialist
+revision	can be performed by	a neuro-diagnostic specialist
+revision	can be performed by	a neuro-therapeutic specialist
+revision	can be performed by	a neuro-psychological specialist
+revision	can be performed by	a neuro-geneticist
+revision	can be performed by	a neuro-epidemiologist
+revision	can be performed by	a neuro-physicist
+revision	can be performed by	a neuro-chemist
+revision	can be performed by	a neuro-biologist
+revision	can be performed by	a neuro-psychologist
+revision	can be performed by	a neuro-sociologist
+revision	can be performed by	a neuro-anthropologist
+revision	can be performed by	a neuro-pharmacist
+revision	can be performed by	a neuro-medical technologist
+revision	can be performed by	a neuro-nurse
+revision	can be performed by	a neuro-physician assistant
+revision	can be performed by	a neuro-psychiatrist
+revision	can be performed by	a neuro-psychologist
+revision	can be performed by	a neuro-registered dietitian
+revision	can be performed by	a neuro-respiratory therapist
+revision	can be performed by	a neuro-speech-language pathologist
+revision	can be performed by	a neuro-occupational therapist
+revision	can be performed by	a neuro-physical therapist
+revision	can be performed by	a neuro-nutritionist
+revision	can be performed by	a neuro-genetic counselor
+revision	can be performed by	a neuro-genomic biologist
+revision	can be performed by	a neuro-genomic technologist
+revision	can be performed by	a neuro-geneticist counselor
+revision	can be performed by	a neuro-bioethics specialist
+revision	can be performed by	a neuro-rehabilitation counselor
+revision	can be performed by	a neuro-psychologist counselor
+revision	can be performed by	a neuro-cardiac nurse
+revision	can be performed by	a neuro-pulmonary nurse
+revision	can be performed by	a neuro-gastrointestinal nurse
+revision	can be performed by	a neuro-hematology nurse
+revision	can be performed by	a neuro-orthopedics nurse
+revision	can be performed by	a neuro-gynecology nurse
+revision	can be performed by	a neuro-obstetrics nurse
+revision	can be performed by	a neuro-fertility nurse
+revision	can be performed by	a neuro-psychiatry nurse
+revision	can be performed by	a neuro-pediatrics nurse
+revision	can be performed by	a neuro-neonatal nurse
+revision	can be performed by	a neuro-geriatrics nurse
+revision	can be performed by	a neuro-oncology nurse
+revision	can be performed by	a neuro-surgical nurse
+revision	can be performed by	a neuro-experimental nurse
+revision	can be performed by	a neuro-clinical nurse

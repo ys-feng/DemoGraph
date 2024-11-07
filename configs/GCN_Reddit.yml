@@ -1,0 +1,43 @@
+#### general settings
+name: Base_GCN_Reddit
+train_type: gnnreddit
+gpu_ids: '0'
+
+#### datasets
+datasets:
+  dataset_path: "/tmp/Reddit/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GCN_Reddit"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005
+  weight_decay: 0.001
+
+#### GNN settings
+GNN:
+  name: "GCN"
+  num_layers: 1
+  in_dim: 602
+  hidden_dim: 4
+  out_dim: 41
+  feat_drop: 0.01
+
+#### training settings
+train:
+  num_epochs: 500
+  batch_size: 32
+  temperature: 0.001
+
+logging:
+  mode: online
+  tags: [
+      "Reddit",
+      "GCN",
+      "Baseline",
+      "temp_anneal"
+    ]

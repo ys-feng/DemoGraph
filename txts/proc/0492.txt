@@ -1,0 +1,204 @@
+implantation	is a	medical procedure
+replacement	is a	medical procedure
+implantation	used for	pain management
+replacement	used for	pain management
+peripheral neurostimulator lead	is a	medical device
+implantation	involves	insertion
+replacement	involves	removal
+implantation	performed by	surgeon
+replacement	performed by	surgeon
+implantation	requires	anesthesia
+replacement	requires	anesthesia
+implantation	can alleviate	chronic pain
+replacement	can alleviate	chronic pain
+peripheral neurostimulator lead	connected to	generator
+generator	provides	electrical stimulation
+replacement	may be necessary	due to wear and tear
+implantation	considered	minimally invasive
+replacement	considered	minimally invasive
+implantation	can improve	quality of life
+replacement	can improve	quality of life
+implantation	involves	incision
+replacement	involves	incision
+implantation	requires	recovery time
+replacement	requires	recovery time
+implantation	potential risks	infection
+replacement	potential risks	infection
+implantation	potential risks	bleeding
+replacement	potential risks	bleeding
+implantation	potential risks	nerve damage
+replacement	potential risks	nerve damage
+implantation	potential risks	device failure
+replacement	potential risks	device failure
+implantation	can be performed	outpatient
+replacement	can be performed	outpatient
+implantation	can be performed	inpatient
+replacement	can be performed	inpatient
+implantation	typically takes	hours
+replacement	typically takes	hours
+implantation	requires	post-operative care
+replacement	requires	post-operative care
+implantation	requires	follow-up appointments
+replacement	requires	follow-up appointments
+implantation	may need	battery replacement
+replacement	may need	battery replacement
+implantation	potential complications	infection
+replacement	potential complications	infection
+implantation	potential complications	bleeding
+replacement	potential complications	bleeding
+implantation	potential complications	nerve damage
+replacement	potential complications	nerve damage
+implantation	potential complications	device failure
+replacement	potential complications	device failure
+implantation	performed under	general anesthesia
+replacement	performed under	general anesthesia
+implantation	performed under	local anesthesia
+replacement	performed under	local anesthesia
+implantation	performed under	regional anesthesia
+replacement	performed under	regional anesthesia
+implantation	can be	outpatient
+replacement	can be	outpatient
+implantation	can be	inpatient
+replacement	can be	inpatient
+implantation	can take	hours
+replacement	can take	hours
+implantation	requires	post-operative care
+replacement	requires	post-operative care
+implantation	requires	follow-up appointments
+replacement	requires	follow-up appointments
+implantation	can cause	infection
+replacement	can cause	infection
+implantation	can cause	bleeding
+replacement	can cause	bleeding
+implantation	can cause	nerve damage
+replacement	can cause	nerve damage
+implantation	can cause	device failure
+replacement	can cause	device failure
+implantation	considered	safe
+replacement	considered	safe
+implantation	considered	effective
+replacement	considered	effective
+implantation	performed	in hospital
+replacement	performed	in hospital
+implantation	performed	in clinic
+replacement	performed	in clinic
+implantation	performed	in surgical center
+replacement	performed	in surgical center
+implantation	covered by	insurance
+replacement	covered by	insurance
+implantation	covered by	medicare
+replacement	covered by	medicare
+implantation	covered by	medicaid
+replacement	covered by	medicaid
+implantation	covered by	private pay
+replacement	covered by	private pay
+implantation	used for	chronic pain
+replacement	used for	chronic pain
+implantation	used for	neuropathy
+replacement	used for	neuropathy
+implantation	used for	failed back surgery syndrome
+replacement	used for	failed back surgery syndrome
+implantation	used for	complex regional pain syndrome
+replacement	used for	complex regional pain syndrome
+implantation	used for	amputation pain
+replacement	used for	amputation pain
+peripheral neurostimulator lead	placed near	affected nerves
+peripheral neurostimulator lead	sends	electrical impulses
+generator	controls	electrical stimulation
+generator	implanted	under the skin
+generator	battery-powered	or rechargeable
+generator	programmed	by healthcare provider
+generator	monitored	for optimal settings
+peripheral neurostimulator lead	connected to	external controller
+peripheral neurostimulator lead	can be	single or multiple
+peripheral neurostimulator lead	implanted	on trial basis
+peripheral neurostimulator lead	efficacy	varies by individual
+implantation	contraindicated	for certain conditions
+replacement	contraindicated	for certain conditions
+implantation	not suitable	for everyone
+replacement	not suitable	for everyone
+implantation	outcomes	vary by individual
+replacement	outcomes	vary by individual
+implantation	success rate	varies by individual
+replacement	success rate	varies by individual
+implantation	performed	under sterile conditions
+replacement	performed	under sterile conditions
+implantation	performed	in operating room
+replacement	performed	in operating room
+implantation	performed	with fluoroscopic guidance
+replacement	performed	with fluoroscopic guidance
+implantation	alternative	to medication
+replacement	alternative	to medication
+implantation	alternative	to surgery
+replacement	alternative	to surgery
+implantation	alternative	to invasive procedures
+replacement	alternative	to invasive procedures
+implantation	considered	long-term solution
+replacement	considered	long-term solution
+implantation	considered	reversible
+replacement	considered	reversible
+implantation	can provide	pain relief
+replacement	can provide	pain relief
+implantation	can improve	function
+replacement	can improve	function
+implantation	can reduce	need for pain medication
+replacement	can reduce	need for pain medication
+implantation	may require	multiple procedures
+replacement	may require	multiple procedures
+peripheral neurostimulator lead	implanted	near spine
+peripheral neurostimulator lead	implanted	near peripheral nerves
+peripheral neurostimulator lead	attached	to generator
+peripheral neurostimulator lead	flexible	and insulated
+peripheral neurostimulator lead	transmits	electrical impulses
+peripheral neurostimulator lead	can be	removed
+peripheral neurostimulator lead	can be	replaced
+implantation	potential side effects	pain
+replacement	potential side effects	pain
+implantation	potential side effects	bruising
+replacement	potential side effects	bruising
+implantation	potential side effects	swelling
+replacement	potential side effects	swelling
+implantation	potential side effects	infection
+replacement	potential side effects	infection
+implantation	potential side effects	bleeding
+replacement	potential side effects	bleeding
+implantation	potential side effects	nerve damage
+replacement	potential side effects	nerve damage
+implantation	potential side effects	scarring
+replacement	potential side effects	scarring
+implantation	potential side effects	device failure
+replacement	potential side effects	device failure
+implantation	potential side effects	migration
+replacement	potential side effects	migration
+implantation	potential side effects	lead breakage
+replacement	potential side effects	lead breakage
+implantation	potential side effects	hardware issues
+replacement	potential side effects	hardware issues
+implantation	potential side effects	discomfort
+replacement	potential side effects	discomfort
+implantation	potential side effects	allergic reaction
+replacement	potential side effects	allergic reaction
+implantation	potential side effects	infection
+replacement	potential side effects	infection
+implantation	potential side effects	bleeding
+replacement	potential side effects	bleeding
+implantation	potential side effects	nerve damage
+replacement	potential side effects	nerve damage
+implantation	potential side effects	device failure
+replacement	potential side effects	device failure
+implantation	potential side effects	scarring
+replacement	potential side effects	scarring
+implantation	potential side effects	pain
+replacement	potential side effects	pain
+implantation	potential side effects	discomfort
+replacement	potential side effects	discomfort
+implantation	potential side effects	infection
+replacement	potential side effects	infection
+implantation	potential side effects	bleeding
+replacement	potential side effects	bleeding
+implantation	potential side effects	nerve damage
+replacement	potential side effects	nerve damage
+implantation	potential side effects	device failure
+replacement	potential side effects	device failure
+implantation	potential side effects	scarring
+replacement	potential side effects	scarring

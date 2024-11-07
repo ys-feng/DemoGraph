@@ -1,0 +1,71 @@
+#### general settings
+name: GAT_OGB_Products_DN
+train_type: gnnogb
+gpu_ids: '0'
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: true
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: false
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: false
+
+#### datasets
+datasets:
+  name: "ogb"
+  dataset_path: "/tmp/ogb/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GAT_OGB"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.01
+  weight_decay: 0.0001
+
+#### GNN settings
+GNN:
+  name: "GAT"
+  num_layers: 2
+  in_dim: 128
+  hidden_dim: 256
+  out_dim: 5
+  attn_drop: 0.05
+  feat_drop: 0.05
+  num_heads: [16,2]
+  num_out_heads: 8
+  negative_slope: 0.1
+  linear: True
+  nec: 3
+
+#### training settings
+train:
+  num_epochs: 1000
+  batch_size: 1024
+
+logging:
+  mode: online
+  tags: [
+      "Dataset45",
+      "OGB",
+      "GAT",
+#      "Baseline",
+      "CGA",
+    ]

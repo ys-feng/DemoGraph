@@ -1,0 +1,6 @@
+partial thyroidectomy	is a	surgical procedure
+partial thyroidectomy	used for	treatment
+partial thyroidectomy	removes	part of the thyroid gland
+partial thyroidectomy	can be used to treat	thyroid nodules
+partial thyroidectomy	can be used to treat	thyroid cancer
+partial thyroidectomy	can result in	hypothyroidism

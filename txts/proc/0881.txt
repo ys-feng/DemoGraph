@@ -1,0 +1,295 @@
+linear repair	is a	medical procedure
+laceration	can cause	bleeding
+laceration	can result in	scar
+laceration	can lead to	infection
+laceration	can cause	pain
+eyelid	can be affected by	laceration
+eyebrow	can be affected by	laceration
+linear repair	is performed on	eyelid
+linear repair	is performed on	eyebrow
+linear repair	can close	the wound
+linear repair	can improve	cosmetic appearance
+linear repair	can reduce	the risk of infection
+linear repair	can alleviate	pain
+linear repair	can restore	function
+linear repair	can minimize	scar formation
+linear repair	can promote	wound healing
+linear repair	is commonly done in	outpatient setting
+linear repair	may require	anesthesia
+linear repair	can be performed by	dermatologists
+linear repair	can be performed by	plastic surgeons
+linear repair	can be performed by	ophthalmologists
+linear repair	can be performed by	general surgeons
+linear repair	can be performed by	emergency physicians
+linear repair	can be performed by	family physicians
+linear repair	can be performed by	primary care physicians
+linear repair	can be performed by	nurse practitioners
+linear repair	can be performed by	physician assistants
+linear repair	can be performed by	registered nurses
+linear repair	can be performed by	medical students
+linear repair	can be performed by	residents
+linear repair	can be performed by	interns
+linear repair	can be performed by	surgical technicians
+linear repair	can be performed by	wound care specialists
+linear repair	can be performed by	nurses
+linear repair	can be performed by	physician extenders
+linear repair	can be performed by	healthcare providers
+linear repair	can be performed by	trained individuals
+linear repair	can be performed by	experienced individuals
+linear repair	can be performed by	certified professionals
+linear repair	can be performed by	competent individuals
+linear repair	can be performed by	skilled personnel
+linear repair	can be performed by	qualified practitioners
+linear repair	can be performed by	authorized personnel
+linear repair	can be performed in	hospitals
+linear repair	can be performed in	clinics
+linear repair	can be performed in	ambulatory surgery centers
+linear repair	can be performed in	urgent care centers
+linear repair	can be performed in	physician offices
+linear repair	can be performed in	emergency departments
+linear repair	can be performed in	wound care centers
+linear repair	can be performed in	nursing homes
+linear repair	can be performed in	rehabilitation centers
+linear repair	can be performed in	long-term care facilities
+linear repair	can be performed in	home care settings
+linear repair	can be performed in	military healthcare facilities
+linear repair	can be performed in	sports medicine clinics
+linear repair	can be performed in	occupational health clinics
+linear repair	can be performed in	correctional facilities
+linear repair	can be performed in	schools
+linear repair	can be performed in	university health centers
+linear repair	can be performed in	research institutions
+linear repair	can be performed in	public health clinics
+linear repair	can be performed in	community healthcare centers
+linear repair	can be performed in	mobile clinics
+linear repair	can be performed in	telemedicine settings
+linear repair	can be performed in	rural healthcare facilities
+linear repair	can be performed in	urban healthcare facilities
+linear repair	can be performed in	low-resource settings
+linear repair	can be performed in	developing countries
+linear repair	can be performed in	disaster zones
+linear repair	can be performed in	impoverished areas
+linear repair	can be performed in	underserved communities
+linear repair	can be performed in	remote areas
+linear repair	can be performed in	international settings
+linear repair	can be performed in	cross-cultural healthcare settings
+linear repair	can require	sutures
+linear repair	can require	adhesive strips
+linear repair	can require	surgical glue
+linear repair	can require	staples
+linear repair	can require	skin tapes
+linear repair	can require	absorbable sutures
+linear repair	can require	non-absorbable sutures
+linear repair	can require	barbed sutures
+linear repair	can require	subcuticular sutures
+linear repair	can require	interrupted sutures
+linear repair	can require	mattress sutures
+linear repair	can require	vertical mattress sutures
+linear repair	can require	horizontal mattress sutures
+linear repair	can require	buried sutures
+linear repair	can require	buried interrupted sutures
+linear repair	can require	buried horizontal mattress sutures
+linear repair	can require	running sutures
+linear repair	can require	continuous sutures
+linear repair	can require	whip stitches
+linear repair	can require	corner stitches
+linear repair	can require	surgeon's knots
+linear repair	can require	simple knots
+linear repair	can require	square knots
+linear repair	can require	half-hitches
+linear repair	can require	backhanded knots
+linear repair	can require	slip knots
+linear repair	can require	instrument ties
+linear repair	can require	other suture techniques
+linear repair	can require	local anesthesia
+linear repair	can require	regional anesthesia
+linear repair	can require	nerve blocks
+linear repair	can require	conscious sedation
+linear repair	can require	general anesthesia
+linear repair	can require	monitored anesthesia care
+linear repair	can require	intravenous sedation
+linear repair	can require	topical anesthesia
+linear repair	can require	infiltrative anesthesia
+linear repair	can require	field blocks
+linear repair	can require	digital blocks
+linear repair	can require	periocular blocks
+linear repair	can require	infraorbital blocks
+linear repair	can require	suprazygomatic blocks
+linear repair	can require	infraorbital foramen blocks
+linear repair	can require	supratrochlear blocks
+linear repair	can require	supraorbital blocks
+linear repair	can require	medial canthal blocks
+linear repair	can require	palpebral blocks
+linear repair	can require	subcutaneous blocks
+linear repair	can require	supraorbital blocks
+linear repair	can require	regional anesthetic techniques
+linear repair	can require	sedation techniques
+linear repair	can require	pharmacological adjuncts
+linear repair	can require	hemostatic agents
+linear repair	can require	wound irrigation
+linear repair	can require	wound debridement
+linear repair	can require	wound cleansing
+linear repair	can require	wound exploration
+linear repair	can require	foreign body removal
+linear repair	can require	wound closure
+linear repair	can involve	wound dehiscence
+linear repair	can involve	wound infection
+linear repair	can involve	wound breakdown
+linear repair	can involve	wound necrosis
+linear repair	can involve	wound ischemia
+linear repair	can involve	wound hematoma
+linear repair	can involve	wound seroma
+linear repair	can involve	wound abscess
+linear repair	can involve	wound granulation
+linear repair	can involve	wound epithelialization
+linear repair	can involve	wound remodeling
+linear repair	can involve	wound healing phases
+linear repair	can involve	wound care
+linear repair	can involve	wound assessment
+linear repair	can involve	wound dressing
+linear repair	can involve	wound infection control
+linear repair	can involve	wound surveillance
+linear repair	can involve	wound monitoring
+linear repair	can involve	wound management
+linear repair	can involve	wound prevention
+linear repair	can involve	wound education
+linear repair	can involve	wound closure techniques
+linear repair	can involve	wound healing support
+linear repair	can involve	wound care products
+linear repair	can involve	wound closure materials
+linear repair	can involve	wound dressings
+linear repair	can involve	wound tapes
+linear repair	can involve	wound gels
+linear repair	can involve	wound creams
+linear repair	can involve	wound ointments
+linear repair	can involve	wound solutions
+linear repair	can involve	wound sprays
+linear repair	can involve	wound powders
+linear repair	can involve	wound foams
+linear repair	can involve	wound alginates
+linear repair	can involve	wound collagens
+linear repair	can involve	wound hydrogels
+linear repair	can involve	wound foams
+linear repair	can involve	wound films
+linear repair	can involve	wound meshes
+linear repair	can involve	wound protectors
+linear repair	can involve	wound sealants
+linear repair	can involve	wound adhesives
+linear repair	can involve	wound suturing techniques
+linear repair	can involve	wound stapling techniques
+linear repair	can involve	wound gluing techniques
+linear repair	can involve	wound taping techniques
+linear repair	can involve	wound closure devices
+linear repair	can involve	wound healing modalities
+linear repair	can involve	wound healing interventions
+linear repair	can involve	wound healing therapies
+linear repair	can require	postoperative care
+linear repair	can require	wound care instructions
+linear repair	can require	follow-up appointments
+linear repair	can require	suture removal
+linear repair	can require	wound check
+linear repair	can require	wound assessment
+linear repair	can require	wound management
+linear repair	can require	wound monitoring
+linear repair	can require	wound evaluation
+linear repair	can require	wound healing assessment
+linear repair	can require	wound healing evaluation
+linear repair	can require	wound healing monitoring
+linear repair	can require	wound infection assessment
+linear repair	can require	wound infection evaluation
+linear repair	can require	wound infection monitoring
+linear repair	can require	wound complications assessment
+linear repair	can require	wound complications evaluation
+linear repair	can require	wound complications monitoring
+linear repair	can require	wound follow-up
+linear repair	can require	wound outcomes assessment
+linear repair	can require	wound outcomes evaluation
+linear repair	can require	wound outcomes monitoring
+linear repair	can require	wound quality assessment
+linear repair	can require	wound quality evaluation
+linear repair	can require	wound quality monitoring
+linear repair	can require	wound satisfaction assessment
+linear repair	can require	wound satisfaction evaluation
+linear repair	can require	wound satisfaction monitoring
+linear repair	can require	wound care satisfaction assessment
+linear repair	can require	wound care satisfaction evaluation
+linear repair	can require	wound care satisfaction monitoring
+linear repair	can require	patient education
+linear repair	can require	patient instruction
+linear repair	can require	patient counseling
+linear repair	can require	patient communication
+linear repair	can require	patient involvement
+linear repair	can require	patient engagement
+linear repair	can require	patient adherence
+linear repair	can require	patient compliance
+linear repair	can require	patient empowerment
+linear repair	can require	patient support
+linear repair	can require	patient responsibility
+linear repair	can require	patient participation
+linear repair	can require	patient interaction
+linear repair	can require	patient collaboration
+linear repair	can require	patient advocacy
+linear repair	can require	patient-centered care
+linear repair	can require	patient satisfaction
+linear repair	can require	patient safety
+linear repair	can require	patient outcomes
+linear repair	can require	patient experience
+linear repair	can require	patient well-being
+linear repair	can require	patient quality of life
+linear repair	can require	patient comfort
+linear repair	can require	patient trust
+linear repair	can require	patient confidence
+linear repair	can require	patient assurance
+linear repair	can require	patient empathy
+linear repair	can require	patient dignity
+linear repair	can require	patient respect
+linear repair	can require	patient privacy
+linear repair	can require	patient autonomy
+linear repair	can require	patient rights
+linear repair	can require	patient engagement
+linear repair	can require	patient partnership
+linear repair	can require	patient collaboration
+linear repair	can require	patient education
+linear repair	can require	patient empowerment
+linear repair	can require	patient satisfaction
+linear repair	can require	patient advocacy
+linear repair	can require	patient safety
+linear repair	can require	patient outcomes
+linear repair	can require	patient experience
+linear repair	can require	patient well-being
+linear repair	can require	patient quality of life
+linear repair	can require	patient comfort
+linear repair	can require	patient trust
+linear repair	can require	patient confidence
+linear repair	can require	patient assurance
+linear repair	can require	patient empathy
+linear repair	can require	patient dignity
+linear repair	can require	patient respect
+linear repair	can require	patient privacy
+linear repair	can require	patient autonomy
+linear repair	can require	patient rights
+linear repair	can require	patient engagement
+linear repair	can require	patient partnership
+linear repair	can require	patient collaboration
+linear repair	can require	interdisciplinary collaboration
+linear repair	can require	healthcare teamwork
+linear repair	can require	patient-centered care
+linear repair	can require	patient satisfaction
+linear repair	can require	patient safety
+linear repair	can require	patient outcomes
+linear repair	can require	patient experience
+linear repair	can require	patient well-being
+linear repair	can require	patient quality of life
+linear repair	can require	patient comfort
+linear repair	can require	patient trust
+linear repair	can require	patient confidence
+linear repair	can require	patient assurance
+linear repair	can require	patient empathy
+linear repair	can require	patient dignity
+linear repair	can require	patient respect
+linear repair	can require	patient privacy
+linear repair	can require	patient autonomy
+linear repair	can require	patient rights
+linear repair	can require	patient engagement
+linear repair	can require	patient partnership
+linear repair	can require	patient collaboration

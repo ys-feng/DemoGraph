@@ -1,0 +1,107 @@
+diagnostic procedures	are	medical procedures
+diagnostic procedures	used for	diagnosis
+thyroid glands	are a part of	endocrine system
+parathyroid glands	are a part of	endocrine system
+thyroid glands	regulate	metabolism
+parathyroid glands	regulate	calcium levels
+thyroid glands	produce	hormones
+parathyroid glands	produce	parathyroid hormone
+thyroid disorders	can be diagnosed by	diagnostic procedures
+parathyroid disorders	can be diagnosed by	diagnostic procedures
+endocrine system	is responsible for	hormone production
+thyroid hormone	regulates	metabolism
+thyroid hormone	is produced by	thyroid glands
+parathyroid hormone	regulates	calcium levels
+parathyroid hormone	is produced by	parathyroid glands
+thyroid disorders	can affect	metabolism
+parathyroid disorders	can affect	calcium levels
+thyroid disorders	can cause	fatigue
+parathyroid disorders	can cause	muscle spasms
+thyroid disorders	can lead to	weight changes
+parathyroid disorders	can lead to	weak bones
+thyroid disorders	can be treated with	medication
+parathyroid disorders	can be treated with	surgery
+thyroid hormone replacement therapy	is used for	thyroid disorders
+parathyroidectomy	is a type of	surgery
+parathyroidectomy	can cure	hyperparathyroidism
+hyperthyroidism	can be treated with	medication
+hypothyroidism	can be treated with	medication
+hyperparathyroidism	can cause	high calcium levels
+hyperparathyroidism	can be caused by	parathyroid adenoma
+parathyroid adenoma	is a	benign tumor
+hypoparathyroidism	can cause	low calcium levels
+hypoparathyroidism	can be caused by	injury to parathyroid glands
+parathyroid glands	can be damaged during	thyroid surgery
+parathyroid glands	can be preserved during	endoscopic thyroidectomy
+thyroid cancer	can be detected by	diagnostic procedures
+parathyroid cancer	can be detected by	diagnostic procedures
+thyroid nodules	can be detected by	ultrasound
+parathyroid nodules	can be detected by	ultrasound
+thyroid nodules	can be biopsied by	fine needle aspiration
+parathyroid nodules	can be biopsied by	fine needle aspiration
+thyroid nodules	can be surgically removed by	thyroidectomy
+parathyroid nodules	can be surgically removed by	parathyroidectomy
+thyroid cancer	can be treated with	surgery
+parathyroid cancer	can be treated with	surgery
+thyroid cancer	can spread to	lymph nodes
+parathyroid cancer	can spread to	distant organs
+thyroid disorders	can increase the risk of	heart disease
+parathyroid disorders	can increase the risk of	osteoporosis
+thyroid disorders	can be managed by	endocrinologist
+parathyroid disorders	can be managed by	endocrinologist
+thyroid disorders	can be monitored with	regular blood tests
+parathyroid disorders	can be monitored with	regular blood tests
+thyroid hormone levels	can be measured by	blood tests
+parathyroid hormone levels	can be measured by	blood tests
+thyroid disorders	can be diagnosed through	physical examination
+parathyroid disorders	can be diagnosed through	physical examination
+thyroid disorders	can be detected on	imaging scans
+parathyroid disorders	can be detected on	imaging scans
+thyroid disorders	can be inherited
+parathyroid disorders	can be inherited
+thyroid disorders	can be caused by	autoimmune diseases
+parathyroid disorders	can be caused by	tumors
+thyroid disorders	can be managed with	lifestyle changes
+parathyroid disorders	can be managed with	dietary changes
+thyroid disorders	can affect	fertility
+parathyroid disorders	can affect	bone density
+thyroid disorders	can lead to	emotional changes
+parathyroid disorders	can lead to	kidney stones
+thyroid disorders	can be monitored with	regular follow-up appointments
+parathyroid disorders	can be monitored with	regular follow-up appointments
+thyroid disorders	can be associated with	other endocrine disorders
+parathyroid disorders	can be associated with	other endocrine disorders
+thyroid disorders	can be diagnosed at	any age
+parathyroid disorders	can be diagnosed at	any age
+thyroid disorders	can affect	quality of life
+parathyroid disorders	can affect	overall health
+thyroid disorders	can be chronic
+parathyroid disorders	can be chronic
+thyroid disorders	can be managed with	medication and therapy
+parathyroid disorders	can be managed with	medication and lifestyle changes
+thyroid disorders	can be life-threatening
+parathyroid disorders	can be life-threatening
+thyroid disorders	can be caused by	iodine deficiency
+parathyroid disorders	can be caused by	vitamin D deficiency
+thyroid disorders	can be hereditary
+parathyroid disorders	can be hereditary
+thyroid disorders	can be caused by	radiation exposure
+parathyroid disorders	can be caused by	neck trauma
+thyroid disorders	can be treated with	radioactive iodine therapy
+parathyroid disorders	can be treated with	calcium and vitamin D supplements
+thyroid disorders	can be managed with	regular thyroid hormone replacement
+parathyroid disorders	can be managed with	regular parathyroid hormone replacement
+thyroid disorders	can be caused by	pituitary gland dysfunction
+parathyroid disorders	can be caused by	kidney disease
+thyroid disorders	can be associated with	weight changes
+parathyroid disorders	can be associated with	bone pain
+thyroid disorders	can be monitored with	thyroid ultrasound
+parathyroid disorders	can be monitored with	bone density scans
+thyroid disorders	can be diagnosed through	blood tests and imaging
+parathyroid disorders	can be diagnosed through	blood tests and imaging
+thyroid disorders	can be diagnosed by	endocrinologist
+parathyroid disorders	can be diagnosed by	endocrinologist
+thyroid disorders	can be detected by	physical examination
+parathyroid disorders	can be detected by	physical examination
+thyroid disorders	can be managed with	regular check-ups
+parathyroid disorders	can be managed with	dietary modifications

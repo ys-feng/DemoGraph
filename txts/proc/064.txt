@@ -1,0 +1,92 @@
+complete thyroidectomy	is a	surgical procedure
+complete thyroidectomy	used for	removing the entire thyroid gland
+complete thyroidectomy	can treat	thyroid cancer
+complete thyroidectomy	can cause	hypothyroidism
+hypothyroidism	can lead to	weight gain
+hypothyroidism	can cause	fatigue
+hypothyroidism	can result in	depression
+complete thyroidectomy	may require	hormone replacement therapy
+hormone replacement therapy	is used for	replacing thyroid hormones
+hormone replacement therapy	can help	regulate metabolism
+hormone replacement therapy	needs	regular blood tests
+complete thyroidectomy	has a risk of	complications
+complications	can include	damage to vocal cords
+complications	can lead to	breathing difficulties
+complications	can result in	bleeding
+complications	may require	additional surgeries
+complete thyroidectomy	can lead to	scar formation
+scar formation	may cause	discomfort
+scar formation	can affect	cosmetic appearance
+complete thyroidectomy	requires	post-operative care
+post-operative care	involves	wound care
+post-operative care	includes	pain management
+post-operative care	requires	follow-up appointments
+complete thyroidectomy	has a recovery period of	several weeks
+recovery period	can be	physically challenging
+recovery period	may involve	restricted activity
+recovery period	requires	monitoring for complications
+complete thyroidectomy	has a risk of	recurrence of thyroid cancer
+recurrence	may require	additional treatment
+recurrence	can affect	prognosis
+complete thyroidectomy	has a risk of	temporary or permanent voice changes
+voice changes	may require	speech therapy
+voice changes	can impact	quality of life
+complete thyroidectomy	can be	performed using minimally invasive techniques
+minimally invasive techniques	result in	smaller incisions
+minimally invasive techniques	can lead to	faster recovery
+minimally invasive techniques	have	lower risk of complications
+complete thyroidectomy	requires	pre-operative evaluation
+pre-operative evaluation	involves	medical history review
+pre-operative evaluation	includes	physical examination
+pre-operative evaluation	may require	imaging tests
+complete thyroidectomy	is performed under	general anesthesia
+general anesthesia	ensures	unconsciousness during surgery
+general anesthesia	requires	monitoring of vital signs
+general anesthesia	has	potential risks
+complete thyroidectomy	patients	need to stay in the hospital
+hospital stay	depends on	individual recovery
+hospital stay	involves	post-operative monitoring
+hospital stay	includes	medication administration
+complete thyroidectomy	post-operative complications	can be managed with	appropriate interventions
+appropriate interventions	can include	antibiotic therapy
+appropriate interventions	may involve	drainage of fluid collections
+complete thyroidectomy	has a risk of	hypoparathyroidism
+hypoparathyroidism	can cause	low calcium levels
+hypoparathyroidism	requires	calcium and vitamin D supplementation
+complete thyroidectomy	has a risk of	vocal cord paralysis
+vocal cord paralysis	can lead to	hoarseness
+vocal cord paralysis	may require	vocal cord injection
+complete thyroidectomy	patients	need to be educated about	potential complications
+potential complications	should be	discussed with surgeon
+potential complications	must be	monitored closely
+complete thyroidectomy	patients	need to follow	post-operative instructions
+post-operative instructions	include	wound care
+post-operative instructions	involve	activity restrictions
+post-operative instructions	may include	dietary changes
+complete thyroidectomy	requires	regular follow-up care
+follow-up care	involves	monitoring thyroid hormone levels
+follow-up care	includes	imaging studies
+follow-up care	helps in	assessing treatment success
+complete thyroidectomy	patients	may experience	emotional distress
+emotional distress	can be	managed with counseling
+emotional distress	may require	support from family and friends
+complete thyroidectomy	can have	long-term effects on quality of life
+quality of life	can be	improved with appropriate management
+quality of life	is	subjective
+complete thyroidectomy	has	potential risks and benefits
+risks and benefits	should be	discussed with surgeon
+risks and benefits	depend on	individual circumstances
+complete thyroidectomy	patients	need to	give informed consent
+informed consent	ensures	patient understanding of the procedure
+informed consent	requires	disclosure of risks
+informed consent	may involve	alternative treatment options
+complete thyroidectomy	is usually	not reversible
+reversal	may require	additional surgeries
+reversal	can have	its own risks
+complete thyroidectomy	can affect	fertility
+fertility	should be	discussed with healthcare provider
+fertility	may require	preservation options
+complete thyroidectomy	patients	need to	maintain a healthy lifestyle
+healthy lifestyle	includes	balanced diet
+healthy lifestyle	involves	regular exercise
+healthy lifestyle	helps in	overall well-being

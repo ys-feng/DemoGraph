@@ -1,0 +1,98 @@
+operations	are	medical procedures
+operations	performed on	nervous system
+nervous system	includes	brain
+operations	can be	invasive
+operations	can be	non-invasive
+operations	are used for	treatment
+operations	can be	risky
+operations	require	anesthesia
+operations	can result in	complications
+operations	can improve	quality of life
+operations	can be	life-saving
+operations	can cause	pain
+operations	can lead to	recovery
+operations	can be	expensive
+operations	can be	time-consuming
+operations	have	recovery period
+operations	may require	rehabilitation
+operations	may require	follow-up care
+operations	have	success rates
+operations	can be	performed by specialists
+specialists	are trained in	operations
+operations	can be	performed in hospitals
+operations	can be	outpatient procedures
+operations	can be	inpatient procedures
+operations	may require	tests
+tests	can be	diagnostic
+operations	can be	minimally invasive
+minimally invasive procedures	have	shorter recovery time
+minimally invasive procedures	have	less scarring
+minimally invasive procedures	have	lower risk of infection
+minimally invasive procedures	have	smaller incisions
+minimally invasive procedures	can be	performed with robotic assistance
+robotic assistance	can improve	precision
+operations	have	potential risks
+potential risks	include	bleeding
+potential risks	include	infection
+potential risks	include	allergic reactions
+potential risks	include	damage to surrounding tissues
+potential risks	include	organ damage
+operations	can be	successful
+operations	can be	unsuccessful
+operations	can be	combined with other treatments
+operations	may require	long-term care
+long-term care	can be	provided by healthcare professionals
+operations	can require	physical therapy
+physical therapy	can help with	recovery
+operations	can require	occupational therapy
+occupational therapy	can help with	daily activities
+operations	can require	speech therapy
+speech therapy	can help with	communication
+operations	can require	post-operative care
+post-operative care	includes	wound care
+post-operative care	includes	pain management
+post-operative care	includes	follow-up appointments
+operations	can require	lifestyle modifications
+lifestyle modifications	can include	dietary changes
+lifestyle modifications	can include	exercise
+operations	can require	assistive devices
+assistive devices	can improve	mobility
+assistive devices	can improve	independence
+operations	can be	recommended by healthcare providers
+operations	can be	discussed with patients
+patients	can make	informed decisions
+operations	can be	reimbursed by insurance
+insurance	can cover	costs
+operations	can increase	healthcare expenses
+operations	may have	long-term effects
+long-term effects	can vary	among individuals
+operations	can be	customized
+operations	can be	tailored to individual needs
+operations	can be	life-changing
+operations	can be	emotionally challenging
+operations	can be	physically demanding
+operations	can be	mentally draining
+operations	can require	pre-operative instructions
+pre-operative instructions	may include	fasting
+pre-operative instructions	may include	medication adjustments
+pre-operative instructions	may include	stopping certain medications
+pre-operative instructions	may include	quitting smoking
+pre-operative instructions	may include	specific dietary restrictions
+operations	can require	proper preparation
+proper preparation	can reduce	risks
+proper preparation	can improve	outcomes
+operations	can be	planned
+operations	can be	emergency procedures
+emergency procedures	are	time-sensitive
+emergency procedures	may be	life-saving
+operations	can have	limitations
+limitations	can be	physical
+limitations	can be	financial
+operations	can be	beneficial
+operations	can have	long-lasting effects
+long-lasting effects	can improve	quality of life
+operations	can be	life-altering
+operations	can be	challenging
+operations	can be	life-transforming
+operations	can require	support from loved ones
+operations	can require	psychological support

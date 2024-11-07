@@ -1,0 +1,82 @@
+aspiration	is a	medical procedure
+aspiration	used for	diagnosis
+aspiration	performed on	thyroid field
+aspiration	can detect	nodules
+aspiration	can lead to	bleeding
+aspiration	can cause	infection
+aspiration	requires	local anesthesia
+aspiration	may require	sedation
+aspiration	is performed by	a trained healthcare provider
+aspiration	can be guided by	ultrasound
+aspiration	can be guided by	CT scan
+aspiration	can be guided by	MRI
+aspiration	may be followed by	cytology assessment
+aspiration	may be followed by	histopathology assessment
+aspiration	may be followed by	molecular testing
+aspiration	may be followed by	genetic testing
+aspiration	may be followed by	immunohistochemistry testing
+aspiration	may cause	pain
+aspiration	may cause	swelling
+aspiration	may cause	bruising
+aspiration	may cause	hoarseness
+aspiration	may cause	discomfort
+aspiration	may cause	temporary voice changes
+aspiration	may cause	difficulty swallowing
+aspiration	may cause	difficulty breathing
+aspiration	may cause	damage to nearby structures
+aspiration	may require	post-procedure monitoring
+aspiration	may require	follow-up imaging
+aspiration	can be done	as an outpatient procedure
+aspiration	may require	hospitalization
+aspiration	complications can include	hematoma
+aspiration	complications can include	infection
+aspiration	complications can include	nerve damage
+aspiration	complications can include	scarring
+aspiration	complications can include	inflammation
+aspiration	complications can include	voice changes
+aspiration	complications can include	swallowing difficulties
+aspiration	complications can include	breathing difficulties
+aspiration	complications can include	vocal cord paralysis
+aspiration	complications can include	tracheal inflammation
+aspiration	complications can include	rupture of thyroid capsule
+aspiration	complications can include	allergic reaction to anesthesia
+aspiration	may be associated with	thyroid cancer
+aspiration	may be associated with	thyroiditis
+aspiration	may be associated with	goiter
+aspiration	may be associated with	thyroid nodules
+aspiration	may be associated with	thyroid cysts
+aspiration	may be associated with	hyperthyroidism
+aspiration	may be associated with	hypothyroidism
+aspiration	may be associated with	autoimmune thyroid disease
+aspiration	may be associated with	multinodular goiter
+aspiration	may be associated with	solitary thyroid nodule
+aspiration	may be associated with	Graves' disease
+aspiration	may be associated with	Hashimoto's thyroiditis
+aspiration	may be associated with	papillary thyroid cancer
+aspiration	may be associated with	follicular thyroid cancer
+aspiration	may be associated with	medullary thyroid cancer
+aspiration	may be associated with	anaplastic thyroid cancer
+aspiration	may be associated with	parathyroid adenoma
+aspiration	may be associated with	parathyroid cancer
+aspiration	may be associated with	parathyroid hyperplasia
+aspiration	may be associated with	hyperparathyroidism
+aspiration	may be associated with	hypoparathyroidism
+aspiration	may be associated with	adenoid cystic carcinoma
+aspiration	may be associated with	mucoepidermoid carcinoma
+aspiration	may be associated with	lymphoma
+aspiration	may be associated with	metastatic cancer
+aspiration	may be associated with	benign thyroid disease
+aspiration	may be associated with	malignant thyroid disease
+aspiration	may be associated with	recurrent thyroid disease
+aspiration	may be associated with	non-recurrent thyroid disease
+aspiration	contraindicated in	bleeding disorders
+aspiration	contraindicated in	severe medical conditions
+aspiration	contraindicated in	uncontrolled thyroid disease
+aspiration	contraindicated in	pregnancy
+aspiration	contraindicated in	iodine allergy
+aspiration	contraindicated in	prior allergic reaction to anesthesia
+aspiration	contraindicated in	untreated hyperthyroidism
+aspiration	contraindicated in	untreated hypothyroidism
+aspiration	contraindicated in	vocal cord paralysis
+aspiration	contraindicated in	tracheal stenosis
+aspiration	contraindicated in	coagulopathy

@@ -1,0 +1,14 @@
+open biopsy	is a	medical procedure
+open biopsy	used for	diagnosis
+nerve	can be	affected
+nerve biopsy	is a type of	open biopsy
+nerve biopsy	can detect	nerve damage
+ganglion	can be	affected
+ganglion biopsy	is a type of	open biopsy
+ganglion biopsy	can detect	ganglion abnormalities
+cranial nerve	can be	affected
+cranial nerve biopsy	is a type of	open biopsy
+cranial nerve biopsy	can detect	cranial nerve disorders
+peripheral nerve	can be	affected
+peripheral nerve biopsy	is a type of	open biopsy
+peripheral nerve biopsy	can detect	peripheral nerve disorders

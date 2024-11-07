@@ -1,0 +1,196 @@
+cranial nerve graft	is a	medical procedure
+peripheral nerve graft	is a	medical procedure
+cranial nerve graft	used for	nerve repair
+peripheral nerve graft	used for	nerve repair
+cranial nerve graft	can improve	nerve function
+peripheral nerve graft	can improve	nerve function
+cranial nerve graft	requires	surgical intervention
+peripheral nerve graft	requires	surgical intervention
+cranial nerve graft	performed by	neurosurgeons
+peripheral nerve graft	performed by	neurosurgeons
+cranial nerve graft	can be	autograft
+peripheral nerve graft	can be	autograft
+cranial nerve graft	can be	allograft
+peripheral nerve graft	can be	allograft
+cranial nerve graft	can be	xenograft
+peripheral nerve graft	can be	xenograft
+cranial nerve graft	can cause	complications
+peripheral nerve graft	can cause	complications
+cranial nerve graft	requires	rehabilitation
+peripheral nerve graft	requires	rehabilitation
+cranial nerve graft	can lead to	scar formation
+peripheral nerve graft	can lead to	scar formation
+cranial nerve graft	performed in	hospitals
+peripheral nerve graft	performed in	hospitals
+cranial nerve graft	may require	postoperative care
+peripheral nerve graft	may require	postoperative care
+cranial nerve graft	can be	nerve autograft
+peripheral nerve graft	can be	nerve autograft
+cranial nerve graft	can be	nerve allograft
+peripheral nerve graft	can be	nerve allograft
+cranial nerve graft	can be	nerve xenograft
+peripheral nerve graft	can be	nerve xenograft
+cranial nerve graft	performed for	nerve damage
+peripheral nerve graft	performed for	nerve damage
+cranial nerve graft	can lead to	nerve regeneration
+peripheral nerve graft	can lead to	nerve regeneration
+cranial nerve graft	used in	clinical practice
+peripheral nerve graft	used in	clinical practice
+cranial nerve graft	requires	anesthesia
+peripheral nerve graft	requires	anesthesia
+cranial nerve graft	requires	preoperative evaluation
+peripheral nerve graft	requires	preoperative evaluation
+cranial nerve graft	requires	postoperative evaluation
+peripheral nerve graft	requires	postoperative evaluation
+cranial nerve graft	performed under	sterile conditions
+peripheral nerve graft	performed under	sterile conditions
+cranial nerve graft	can result in	functional recovery
+peripheral nerve graft	can result in	functional recovery
+cranial nerve graft	can be	autologous
+peripheral nerve graft	can be	autologous
+cranial nerve graft	can be	syngenic
+peripheral nerve graft	can be	syngenic
+cranial nerve graft	can be	allogeneic
+peripheral nerve graft	can be	allogeneic
+cranial nerve graft	can be	xeno
+peripheral nerve graft	can be	xeno
+cranial nerve graft	used for	nerve reconstruction
+peripheral nerve graft	used for	nerve reconstruction
+cranial nerve graft	used for	nerve transplantation
+peripheral nerve graft	used for	nerve transplantation
+cranial nerve graft	can be	nerve transplantation
+peripheral nerve graft	can be	nerve transplantation
+cranial nerve graft	can be	end-to-end
+peripheral nerve graft	can be	end-to-end
+cranial nerve graft	can be	end-to-side
+peripheral nerve graft	can be	end-to-side
+cranial nerve graft	can be	side-to-side
+peripheral nerve graft	can be	side-to-side
+cranial nerve graft	can be	long graft
+peripheral nerve graft	can be	long graft
+cranial nerve graft	can be	short graft
+peripheral nerve graft	can be	short graft
+cranial nerve graft	can result in	nerve regeneration
+peripheral nerve graft	can result in	nerve regeneration
+cranial nerve graft	can restore	nerve function
+peripheral nerve graft	can restore	nerve function
+cranial nerve graft	can be	autonomic graft
+peripheral nerve graft	can be	autonomic graft
+cranial nerve graft	can be	mixed nerve graft
+peripheral nerve graft	can be	mixed nerve graft
+cranial nerve graft	can be	motor nerve graft
+peripheral nerve graft	can be	motor nerve graft
+cranial nerve graft	can be	sensory nerve graft
+peripheral nerve graft	can be	sensory nerve graft
+cranial nerve graft	can be	neural stem cell-based graft
+peripheral nerve graft	can be	neural stem cell-based graft
+cranial nerve graft	can be	tissue-engineered graft
+peripheral nerve graft	can be	tissue-engineered graft
+cranial nerve graft	can be	vascularized graft
+peripheral nerve graft	can be	vascularized graft
+cranial nerve graft	can be	nonvascularized graft
+peripheral nerve graft	can be	nonvascularized graft
+cranial nerve graft	can be	epineurial graft
+peripheral nerve graft	can be	epineurial graft
+cranial nerve graft	can be	perineurial graft
+peripheral nerve graft	can be	perineurial graft
+cranial nerve graft	can be	fascicular graft
+peripheral nerve graft	can be	fascicular graft
+cranial nerve graft	can be	cable graft
+peripheral nerve graft	can be	cable graft
+cranial nerve graft	can be	sleeve graft
+peripheral nerve graft	can be	sleeve graft
+cranial nerve graft	can be	conduit graft
+peripheral nerve graft	can be	conduit graft
+cranial nerve graft	can be	nonconduit graft
+peripheral nerve graft	can be	nonconduit graft
+cranial nerve graft	can be	autologous graft
+peripheral nerve graft	can be	autologous graft
+cranial nerve graft	can be	autogenous graft
+peripheral nerve graft	can be	autogenous graft
+cranial nerve graft	can be	homogenous graft
+peripheral nerve graft	can be	homogenous graft
+cranial nerve graft	can be	homograft
+peripheral nerve graft	can be	homograft
+cranial nerve graft	used for	facial nerve repair
+peripheral nerve graft	used for	facial nerve repair
+cranial nerve graft	used for	trigeminal nerve repair
+peripheral nerve graft	used for	trigeminal nerve repair
+cranial nerve graft	used for	oculomotor nerve repair
+peripheral nerve graft	used for	oculomotor nerve repair
+cranial nerve graft	used for	trochlear nerve repair
+peripheral nerve graft	used for	trochlear nerve repair
+cranial nerve graft	used for	abducens nerve repair
+peripheral nerve graft	used for	abducens nerve repair
+cranial nerve graft	used for	facial palsy
+peripheral nerve graft	used for	facial palsy
+cranial nerve graft	used for	paralysis
+peripheral nerve graft	used for	paralysis
+cranial nerve graft	can be	nerve autograft
+peripheral nerve graft	can be	nerve autograft
+cranial nerve graft	can be	nerve allograft
+peripheral nerve graft	can be	nerve allograft
+cranial nerve graft	can be	nerve xenograft
+peripheral nerve graft	can be	nerve xenograft
+cranial nerve graft	can be	nerve autologous graft
+peripheral nerve graft	can be	nerve autologous graft
+cranial nerve graft	can be	nerve allogeneic graft
+peripheral nerve graft	can be	nerve allogeneic graft
+cranial nerve graft	can be	nerve xenogeneic graft
+peripheral nerve graft	can be	nerve xenogeneic graft
+cranial nerve graft	used for	nerve transfer
+peripheral nerve graft	used for	nerve transfer
+cranial nerve graft	used for	nerve transplantation
+peripheral nerve graft	used for	nerve transplantation
+cranial nerve graft	used for	nerve reconstruction
+peripheral nerve graft	used for	nerve reconstruction
+cranial nerve graft	used for	nerve regeneration
+peripheral nerve graft	used for	nerve regeneration
+cranial nerve graft	can be	end-to-end graft
+peripheral nerve graft	can be	end-to-end graft
+cranial nerve graft	can be	end-to-side graft
+peripheral nerve graft	can be	end-to-side graft
+cranial nerve graft	can be	side-to-side graft
+peripheral nerve graft	can be	side-to-side graft
+cranial nerve graft	can be	long nerve graft
+peripheral nerve graft	can be	long nerve graft
+cranial nerve graft	can be	short nerve graft
+peripheral nerve graft	can be	short nerve graft
+cranial nerve graft	can be	autonomic nerve graft
+peripheral nerve graft	can be	autonomic nerve graft
+cranial nerve graft	can be	mixed nerve graft
+peripheral nerve graft	can be	mixed nerve graft
+cranial nerve graft	can be	motor nerve graft
+peripheral nerve graft	can be	motor nerve graft
+cranial nerve graft	can be	sensory nerve graft
+peripheral nerve graft	can be	sensory nerve graft
+cranial nerve graft	used in	reconstructive surgery
+peripheral nerve graft	used in	reconstructive surgery
+cranial nerve graft	used in	plastic surgery
+peripheral nerve graft	used in	plastic surgery
+cranial nerve graft	used in	orthopedic surgery
+peripheral nerve graft	used in	orthopedic surgery
+cranial nerve graft	used in	neurosurgery
+peripheral nerve graft	used in	neurosurgery
+cranial nerve graft	used in	vascular surgery
+peripheral nerve graft	used in	vascular surgery
+cranial nerve graft	used in	hand surgery
+peripheral nerve graft	used in	hand surgery
+cranial nerve graft	used in	microsurgery
+peripheral nerve graft	used in	microsurgery
+cranial nerve graft	used for	nerve repair of the hand
+peripheral nerve graft	used for	nerve repair of the hand
+cranial nerve graft	used for	nerve repair of the foot
+peripheral nerve graft	used for	nerve repair of the foot
+cranial nerve graft	used for	nerve repair of the face
+peripheral nerve graft	used for	nerve repair of the face
+cranial nerve graft	used for	nerve repair of the scalp
+peripheral nerve graft	used for	nerve repair of the scalp
+cranial nerve graft	used for	nerve repair of the trunk
+peripheral nerve graft	used for	nerve repair of the trunk
+cranial nerve graft	used for	nerve repair of the arm
+peripheral nerve graft	used for	nerve repair of the arm
+cranial nerve graft	used for	nerve repair of the leg
+peripheral nerve graft	used for	nerve repair of the leg
+cranial nerve graft	used for	nerve repair of the chest
+peripheral nerve graft	used for	nerve repair of the chest

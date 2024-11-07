@@ -1,0 +1,68 @@
+#### general settings
+name: CORA_LP_GCN
+train_type: gnncora
+gpu_ids: '0'
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: true
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: false
+
+#### datasets
+datasets:
+  name: "cora"
+  dataset_path: "/tmp/Cora/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GCN_CORA"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005
+  weight_decay: 0.0001
+
+#### GNN settings
+GNN:
+  name: "GCN"
+  num_layers: 2
+  in_dim: 1433
+  hidden_dim: 128
+  out_dim: 7
+  feat_drop: 0.01
+  nec: 100
+
+
+#### training settings
+train:
+  num_epochs: 500
+  batch_size: 32
+  temperature: 0.001
+
+logging:
+  mode: online
+  tags: [
+      "CORA",
+      "GCN",
+      "Baseline",
+      "Concept25"
+#      "temp_anneal"
+    ]

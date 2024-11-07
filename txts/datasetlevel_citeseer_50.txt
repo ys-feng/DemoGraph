@@ -1,0 +1,50 @@
+Neural Networks
+Deep Learning
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Decision Trees
+Random Forests
+Support Vector Machines
+Natural Language Processing
+Computer Vision
+Bayesian Networks
+Genetic Algorithms
+Evolutionary Computing
+Fuzzy Logic
+Clustering Algorithms
+Dimensionality Reduction
+Feature Extraction
+Feature Selection
+Regression Analysis
+Time Series Analysis
+Convolutional Neural Networks
+Recurrent Neural Networks
+Long Short-Term Memory Networks
+Gradient Descent
+Backpropagation
+Transfer Learning
+Anomaly Detection
+Data Mining
+Text Mining
+Sentiment Analysis
+Topic Modeling
+Word Embeddings
+Graph Neural Networks
+Semi-Supervised Learning
+Active Learning
+Ensemble Methods
+Cross-Validation
+Hyperparameter Tuning
+Overfitting & Underfitting
+Model Evaluation Metrics
+Precision and Recall
+F1 Score
+ROC Curve
+AUC Score
+Information Retrieval
+Search Algorithms
+Ranking Algorithms
+Query Processing
+Indexing
+Text Classification

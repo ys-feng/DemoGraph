@@ -1,0 +1,100 @@
+Protein-Protein Interaction (PPI)
+Protein Domains
+Signal Transduction
+Metabolic Pathways
+Enzyme Kinetics
+Cell Signaling
+Molecular Function
+Biological Process
+Cellular Component
+Gene Ontology
+Interaction Networks
+Network Topology
+Pathway Analysis
+Protein Complexes
+Protein Structure
+Protein Families
+Post-translational Modifications
+Protein Expression
+Protein Folding
+Protein Degradation
+Protein Localization
+Protein Synthesis
+Protein Function Prediction
+Protein-DNA Interactions
+Protein-RNA Interactions
+Protein-Lipid Interactions
+Protein-Protein Interaction Databases
+High-throughput Screening
+Mass Spectrometry
+Yeast Two-Hybrid Screening
+Co-immunoprecipitation
+Cross-linking
+Biochemical Assays
+Affinity Purification
+Protein Microarrays
+Fluorescence Resonance Energy Transfer (FRET)
+Biacore Surface Plasmon Resonance
+X-ray Crystallography
+NMR Spectroscopy
+Cryo-electron Microscopy
+Homology Modeling
+Docking Studies
+Molecular Dynamics Simulations
+Systems Biology
+Proteomics
+Transcriptomics
+Metabolomics
+Genomics
+Comparative Genomics
+Functional Genomics
+Network Biology
+Biological Databases
+Data Integration
+Biological Annotation
+Cluster Analysis
+Pathway Enrichment Analysis
+Gene Set Enrichment Analysis
+Biomolecular Interactions
+Interaction Prediction
+Machine Learning in Bioinformatics
+Statistical Analysis in Bioinformatics
+Biological Network Visualization
+Graph Theory in Biology
+Network Clustering
+Centrality Measures
+Motif Analysis
+Subnetwork Extraction
+Pathogenic Mechanisms
+Drug Target Identification
+Therapeutic Proteins
+Antibody Engineering
+Vaccine Development
+Immuno-oncology
+Cellular Therapy
+Gene Therapy
+Pharmacogenomics
+Personalized Medicine
+Biomarkers
+Disease Modeling
+Genetic Variation and Disease
+Epigenetics
+RNA Splicing
+MicroRNA and siRNA
+Regulatory Networks
+Computational Biology
+Quantitative Biology
+Mathematical Modeling in Biology
+Kinetic Modeling
+Structural Biology
+Biophysical Methods
+Bioinformatics Pipelines
+Data Mining in Biology
+Biological Data Curation
+Multi-omics Data Analysis
+Cross-disciplinary Collaboration
+Ethical Considerations in Bioinformatics
+Open-source Software in Biology
+Reproducibility in Biological Research
+Biological Data Standards
+Collaborative Data Sharing

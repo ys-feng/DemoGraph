@@ -1,0 +1,14 @@
+conjunctivorhinostomy	is a	surgical procedure
+conjunctivorhinostomy	used for	treatment
+tube or stent	can be inserted during	conjunctivorhinostomy
+tube or stent	helps in	improving tear drainage
+conjunctivorhinostomy	can be performed for	acquired lacrimal duct obstruction
+conjunctivorhinostomy	can be performed for	congenital lacrimal duct obstruction
+conjunctivorhinostomy	can be performed for	lacrimal sac mucocele
+conjunctivorhinostomy	can be performed for	recurrent dacryocystitis
+conjunctivorhinostomy	can be performed for	failed dacryocystorhinostomy
+conjunctivorhinostomy	can be performed for	nasolacrimal duct duct calculus
+conjunctivorhinostomy	can be performed for	stenosis of the nasolacrimal duct
+conjunctivorhinostomy	can be performed for	idiopathic dacryocystitis
+conjunctivorhinostomy	can be performed for	canalicular obstruction
+conjunctivorhinostomy	can be performed for	distal end obstruction

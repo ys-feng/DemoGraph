@@ -1,0 +1,70 @@
+#### general settings
+name: PPI_LP_GIN
+train_type: gnnppi
+gpu_ids: '0'
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: false
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: true
+
+#### datasets
+datasets:
+  name: "PPI"
+  dataset_path: "/tmp/PPI/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GIN_PPI"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.005
+  weight_decay: 0
+
+#### GNN settings
+GNN:
+  name: "GIN"
+  num_layers: 2
+  num_mlp_layers: 1
+  in_dim: 50
+  hidden_dim: 128
+  out_dim: 121
+  feat_drop: 0.1
+  linear: False
+  nec: 100
+
+  neighbor_pooling_type: mean
+
+#### training settings
+train:
+  num_epochs: 300
+  batch_size: 32
+
+logging:
+  mode: online
+  tags: [
+      "PPI",
+      "GIN",
+#      "Baseline"
+      "Concept25",
+      "CGAug"
+    ]

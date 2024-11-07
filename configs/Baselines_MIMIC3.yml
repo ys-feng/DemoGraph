@@ -1,0 +1,36 @@
+#### general settings
+name: Baselines_MIMIC3
+train_type: baseline
+gpu_ids: '0'
+
+#### datasets
+datasets:
+  name: mimic3
+  dataset_path: "./data/mimic3_objects/mimic3_dp.pkl"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/AdaCare/"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005 # Learning rate
+  weight_decay: 0.0005
+
+#### training settings: learning rate scheme, loss, optimizer
+train:
+  baseline_name: Baselines_MIMIC3
+  task: readm
+  num_epochs: 500
+  batch_size: 4096
+
+logging:
+  mode: online
+  tags: [
+      "MIMIC3",
+      "GAT",
+      "Baseline",
+      "proc480"
+    ]

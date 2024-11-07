@@ -1,0 +1,41 @@
+excision	is a	surgical procedure
+lesion	located in	lacrimal gland
+lesion	can be	benign
+lesion	can be	malignant
+excision	can be	performed under local anesthesia
+excision	can be	performed under general anesthesia
+excision	requires	sterile environment
+excision	can result in	bleeding
+excision	can result in	infection
+excision	can result in	scarring
+excision	can result in	loss of function
+excision	can be	performed using endoscopic techniques
+excision	can be	performed using open surgery
+excision	may require	post-operative care
+excision	may require	pain management
+excision	may require	wound care
+excision	may require	follow-up visits
+excision	may require	histopathological examination
+excision	can be	curative
+excision	can relieve	pain
+excision	can improve	cosmetic appearance
+excision	can prevent	further damage
+excision	can be	recommended for cancerous lesions
+excision	can be	recommended for large lesions
+excision	can be	recommended for recurrent lesions
+excision	can be	recommended for symptomatic lesions
+lesion	may recur	after excision
+lesion	may require	radiation therapy
+lesion	may require	chemotherapy
+lacrimal gland	responsible for	tear production
+lacrimal gland	located in	orbital cavity
+lacrimal gland	connected to	tear ducts
+lacrimal gland	can be affected by	tumors
+lacrimal gland	can be affected by	infections
+lacrimal gland	can be affected by	autoimmune diseases
+lacrimal gland	plays a role in	eye lubrication
+lacrimal gland	can cause	dry eye syndrome
+lacrimal gland	can cause	excessive tearing
+lacrimal gland	can cause	pain
+lacrimal gland	can be	palpated during examination
+lacrimal gland	can be	visualized using imaging techniques

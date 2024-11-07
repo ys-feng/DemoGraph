@@ -1,0 +1,9 @@
+reopening	is a	medical complication
+reopening	can occur after	surgery
+wound	is a	physical injury
+wound	is located in	thyroid field
+thyroid field	is a	anatomical location
+surgery	can cause	wound
+surgery	can be performed in	thyroid field
+surgery	is a	medical procedure
+surgery	can result in	wound

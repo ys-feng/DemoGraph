@@ -1,0 +1,265 @@
+biopsy	is a	medical procedure
+biopsy	used for	diagnosis
+biopsy	performed on	sympathetic nerve
+biopsy	performed on	ganglion
+sympathetic nerve	is part of	autonomic nervous system
+ganglion	is part of	autonomic nervous system
+autonomic nervous system	controls	involuntary bodily functions
+biopsy	can detect	nerve damage
+biopsy	can detect	nerve disorders
+biopsy	can detect	tumors
+biopsy	can detect	inflammation
+biopsy	can detect	infection
+biopsy	can detect	cancer
+biopsy	can detect	autoimmune diseases
+biopsy	can detect	neurological disorders
+biopsy	can detect	nerve compression
+biopsy	can detect	degenerative diseases
+biopsy	can detect	trauma
+biopsy	can detect	vascular diseases
+biopsy	can detect	genetic disorders
+biopsy	can detect	metabolic disorders
+biopsy	can detect	developmental abnormalities
+biopsy	can detect	toxins
+biopsy	can detect	radiation damage
+biopsy	can detect	nerve regeneration
+biopsy	can detect	nerve regeneration potential
+biopsy	can detect	response to treatment
+biopsy	can detect	recurrent diseases
+biopsy	can detect	disease progression
+biopsy	can detect	treatment effectiveness
+biopsy	can detect	prognosis
+biopsy	can detect	complications
+biopsy	can detect	side effects
+biopsy	can detect	drug toxicity
+biopsy	can detect	organ dysfunction
+biopsy	can detect	systemic diseases
+biopsy	can detect	biomarkers
+biopsy	can detect	therapeutic targets
+biopsy	can detect	drug resistance
+biopsy	can detect	disease subtypes
+biopsy	can detect	recurrence risk
+biopsy	can detect	response to targeted therapy
+biopsy	can detect	patient stratification
+biopsy	can detect	treatment response prediction
+biopsy	can detect	personalized medicine
+biopsy	can detect	disease etiology
+biopsy	can detect	disease severity
+biopsy	can detect	disease stage
+biopsy	can detect	disease classification
+biopsy	can detect	disease prognosis
+biopsy	can detect	disease monitoring
+biopsy	can detect	disease surveillance
+biopsy	can detect	disease screening
+biopsy	can detect	disease prevention
+biopsy	can detect	disease management
+biopsy	can detect	disease control
+biopsy	can detect	disease eradication
+biopsy	can detect	disease eradication potential
+biopsy	can detect	disease incidence
+biopsy	can detect	disease prevalence
+biopsy	can detect	disease risk
+biopsy	can detect	disease transmission
+biopsy	can detect	disease spread
+biopsy	can detect	disease containment
+biopsy	can detect	disease outbreak
+biopsy	can detect	disease cluster
+biopsy	can detect	disease surveillance
+biopsy	can detect	disease mapping
+biopsy	can detect	disease modeling
+biopsy	can detect	disease forecasting
+biopsy	can detect	disease trend
+biopsy	can detect	disease hotspots
+biopsy	can detect	disease response
+biopsy	can detect	disease control measures
+biopsy	can detect	disease management strategies
+biopsy	can detect	disease prevention efforts
+biopsy	can detect	disease monitoring systems
+biopsy	can detect	disease surveillance programs
+biopsy	can detect	disease screening protocols
+biopsy	can detect	disease prevention strategies
+biopsy	can detect	disease control policies
+biopsy	can detect	disease eradication strategies
+biopsy	can detect	disease incidence rates
+biopsy	can detect	disease prevalence rates
+biopsy	can detect	disease risk factors
+biopsy	can detect	disease transmission routes
+biopsy	can detect	disease spread patterns
+biopsy	can detect	disease containment strategies
+biopsy	can detect	disease outbreak preparedness
+biopsy	can detect	disease cluster identification
+biopsy	can detect	disease surveillance techniques
+biopsy	can detect	disease mapping tools
+biopsy	can detect	disease modeling approaches
+biopsy	can detect	disease forecasting methods
+biopsy	can detect	disease trend analysis
+biopsy	can detect	disease hotspot identification
+biopsy	can detect	disease response planning
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts evaluation
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease surveillance programs effectiveness
+biopsy	can detect	disease screening protocols optimization
+biopsy	can detect	disease prevention strategies assessment
+biopsy	can detect	disease control policies evaluation
+biopsy	can detect	disease eradication strategies implementation
+biopsy	can detect	disease incidence rates tracking
+biopsy	can detect	disease prevalence rates monitoring
+biopsy	can detect	disease risk factors assessment
+biopsy	can detect	disease transmission routes analysis
+biopsy	can detect	disease spread patterns evaluation
+biopsy	can detect	disease containment strategies assessment
+biopsy	can detect	disease outbreak preparedness assessment
+biopsy	can detect	disease cluster identification improvement
+biopsy	can detect	disease surveillance techniques optimization
+biopsy	can detect	disease mapping tools evaluation
+biopsy	can detect	disease modeling approaches assessment
+biopsy	can detect	disease forecasting methods improvement
+biopsy	can detect	disease trend analysis optimization
+biopsy	can detect	disease hotspot identification evaluation
+biopsy	can detect	disease response planning assessment
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts assessment
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease surveillance programs optimization
+biopsy	can detect	disease screening protocols evaluation
+biopsy	can detect	disease prevention strategies assessment
+biopsy	can detect	disease control policies optimization
+biopsy	can detect	disease eradication strategies implementation
+biopsy	can detect	disease incidence rates tracking
+biopsy	can detect	disease prevalence rates monitoring
+biopsy	can detect	disease risk factors assessment
+biopsy	can detect	disease transmission routes analysis
+biopsy	can detect	disease spread patterns evaluation
+biopsy	can detect	disease containment strategies assessment
+biopsy	can detect	disease outbreak preparedness assessment
+biopsy	can detect	disease cluster identification improvement
+biopsy	can detect	disease surveillance techniques optimization
+biopsy	can detect	disease mapping tools evaluation
+biopsy	can detect	disease modeling approaches assessment
+biopsy	can detect	disease forecasting methods improvement
+biopsy	can detect	disease trend analysis optimization
+biopsy	can detect	disease hotspot identification evaluation
+biopsy	can detect	disease response planning assessment
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts assessment
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease surveillance programs optimization
+biopsy	can detect	disease screening protocols evaluation
+biopsy	can detect	disease prevention strategies assessment
+biopsy	can detect	disease control policies optimization
+biopsy	can detect	disease eradication strategies implementation
+biopsy	can detect	disease incidence rates tracking
+biopsy	can detect	disease prevalence rates monitoring
+biopsy	can detect	disease risk factors assessment
+biopsy	can detect	disease transmission routes analysis
+biopsy	can detect	disease spread patterns evaluation
+biopsy	can detect	disease containment strategies assessment
+biopsy	can detect	disease outbreak preparedness assessment
+biopsy	can detect	disease cluster identification improvement
+biopsy	can detect	disease surveillance techniques optimization
+biopsy	can detect	disease mapping tools evaluation
+biopsy	can detect	disease modeling approaches assessment
+biopsy	can detect	disease forecasting methods improvement
+biopsy	can detect	disease trend analysis optimization
+biopsy	can detect	disease hotspot identification evaluation
+biopsy	can detect	disease response planning assessment
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts assessment
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease surveillance programs optimization
+biopsy	can detect	disease screening protocols evaluation
+biopsy	can detect	disease prevention strategies assessment
+biopsy	can detect	disease control policies optimization
+biopsy	can detect	disease eradication strategies implementation
+biopsy	can detect	disease incidence rates tracking
+biopsy	can detect	disease prevalence rates monitoring
+biopsy	can detect	disease risk factors assessment
+biopsy	can detect	disease transmission routes analysis
+biopsy	can detect	disease spread patterns evaluation
+biopsy	can detect	disease containment strategies assessment
+biopsy	can detect	disease outbreak preparedness assessment
+biopsy	can detect	disease cluster identification improvement
+biopsy	can detect	disease surveillance techniques optimization
+biopsy	can detect	disease mapping tools evaluation
+biopsy	can detect	disease modeling approaches assessment
+biopsy	can detect	disease forecasting methods improvement
+biopsy	can detect	disease trend analysis optimization
+biopsy	can detect	disease hotspot identification evaluation
+biopsy	can detect	disease response planning assessment
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts assessment
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease surveillance programs optimization
+biopsy	can detect	disease screening protocols evaluation
+biopsy	can detect	disease prevention strategies assessment
+biopsy	can detect	disease control policies optimization
+biopsy	can detect	disease eradication strategies implementation
+biopsy	can detect	disease incidence rates tracking
+biopsy	can detect	disease prevalence rates monitoring
+biopsy	can detect	disease risk factors assessment
+biopsy	can detect	disease transmission routes analysis
+biopsy	can detect	disease spread patterns evaluation
+biopsy	can detect	disease containment strategies assessment
+biopsy	can detect	disease outbreak preparedness assessment
+biopsy	can detect	disease cluster identification improvement
+biopsy	can detect	disease surveillance techniques optimization
+biopsy	can detect	disease mapping tools evaluation
+biopsy	can detect	disease modeling approaches assessment
+biopsy	can detect	disease forecasting methods improvement
+biopsy	can detect	disease trend analysis optimization
+biopsy	can detect	disease hotspot identification evaluation
+biopsy	can detect	disease response planning assessment
+biopsy	can detect	disease control measures evaluation
+biopsy	can detect	disease management strategies implementation
+biopsy	can detect	disease prevention efforts assessment
+biopsy	can detect	disease monitoring systems improvement
+biopsy	can detect	disease-surveillance-programs optimization
+biopsy	can detect	disease-screening protocols evaluation
+biopsy	can detect	disease-prevention-strategies assessment
+biopsy	can detect	disease-control-policies optimization
+biopsy	can detect	disease-eradication-strategies implementation
+biopsy	can detect	disease-incidence-rates tracking
+biopsy	can detect	disease-prevalence-rates monitoring
+biopsy	can detect	disease-risk-factors assessment
+biopsy	can detect	disease-transmission-routes analysis
+biopsy	can detect	disease-spread-patterns evaluation
+biopsy	can detect	disease-containment-strategies assessment
+biopsy	can detect	disease-outbreak-preparedness assessment
+biopsy	can detect	disease-cluster-identification improvement
+biopsy	can detect	disease-surveillance-techniques optimization
+biopsy	can detect	disease-mapping-tools evaluation
+biopsy	can detect	disease-modeling-approaches assessment
+biopsy	can detect	disease-forecasting-methods improvement
+biopsy	can detect	disease-trend-analysis optimization
+biopsy	can detect	disease-hotspot-identification evaluation
+biopsy	can detect	disease-response-planning assessment
+biopsy	can detect	disease-control-measures evaluation
+biopsy	can detect	disease-management-strategies implementation
+biopsy	can detect	disease-prevention-efforts assessment
+biopsy	can detect	disease-monitoring-systems improvement
+biopsy	can detect	disease-surveillance-programs optimization
+biopsy	can detect	disease-screening-protocols evaluation
+biopsy	can detect	disease-prevention-strategies assessment
+biopsy	can detect	disease-control-policies optimization
+biopsy	can detect	disease-eradication-strategies implementation
+biopsy	can detect	disease-incidence-rates tracking
+biopsy	can detect	disease-prevalence-rates monitoring
+biopsy	can detect	disease-risk-factors assessment
+biopsy	can detect	disease-transmission-routes analysis
+biopsy	can detect	disease-spread-patterns evaluation
+biopsy	can detect	disease-containment-strategies assessment
+biopsy	can detect	disease-outbreak-preparedness assessment
+biopsy	can detect	disease-cluster-identification improvement
+biopsy	can detect	disease-surveillance-techniques optimization
+biopsy	can detect	disease-mapping-tools evaluation
+biopsy	can detect	disease-modeling-approaches assessment
+biopsy	can detect	disease-forecasting-methods improvement
+biopsy	can detect	disease-trend-analysis optimization
+biopsy	can detect	disease-hotspot-identification evaluation
+biopsy	can detect	disease-response-planning assessment

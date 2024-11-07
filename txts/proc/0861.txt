@@ -1,0 +1,91 @@
+reconstruction	is a	surgical procedure
+reconstruction	used for	eyelid
+eyelid reconstruction	can be done with	skin flap
+eyelid reconstruction	can be done with	graft
+skin flap	is a type of	reconstruction
+graft	is a type of	reconstruction
+eyelid reconstruction	used for	cosmetic purposes
+eyelid reconstruction	used for	functional purposes
+eyelid reconstruction	can improve	appearance
+eyelid reconstruction	can improve	eyelid function
+eyelid	can be damaged by	trauma
+eyelid	can be damaged by	cancer
+eyelid reconstruction	can be needed after	trauma
+eyelid reconstruction	can be needed after	cancer
+skin flap	can be taken from	forehead
+skin flap	can be taken from	upper eyelid
+skin flap	can be taken from	cheek
+skin flap	can be taken from	ear
+graft	can be taken from	another area of the body
+graft	can be taken from	another person
+eyelid reconstruction	can require	multiple surgeries
+eyelid reconstruction	can have	complications
+eyelid reconstruction	can cause	scarring
+eyelid reconstruction	can cause	infection
+eyelid reconstruction	can cause	bleeding
+eyelid reconstruction	can cause	swelling
+eyelid reconstruction	can cause	pain
+eyelid reconstruction	can cause	asymmetry
+eyelid reconstruction	can cause	numbness
+eyelid reconstruction	can cause	vision problems
+eyelid reconstruction	can cause	drooping eyelid
+eyelid reconstruction	can cause	difficulty closing the eye
+eyelid reconstruction	can cause	dry eye
+eyelid reconstruction	can cause	sensitivity to light
+eyelid reconstruction	can cause	eyelash problems
+eyelid reconstruction	can cause	ectropion
+eyelid reconstruction	can cause	entropion
+eyelid reconstruction	can cause	ptosis
+eyelid reconstruction	can cause	infection at the donor site
+eyelid reconstruction	can cause	poor wound healing
+eyelid reconstruction	can cause	skin graft failure
+eyelid reconstruction	can cause	blood clot
+eyelid reconstruction	can cause	nerve damage
+eyelid reconstruction	can cause	muscle weakness
+eyelid reconstruction	can cause	scarring at the donor site
+eyelid reconstruction	can cause	reaction to anesthesia
+eyelid reconstruction	can cause	allergic reaction
+eyelid reconstruction	can cause	loss of eyelashes
+eyelid reconstruction	can cause	contracture
+eyelid reconstruction	can cause	suture complications
+eyelid reconstruction	can cause	ocular surface irritation
+eyelid reconstruction	can cause	cyst formation
+eyelid reconstruction	can cause	recurrence of eyelid problems
+eyelid reconstruction	can cause	delayed wound healing
+eyelid reconstruction	can cause	poor cosmesis
+eyelid reconstruction	can cause	graft necrosis
+eyelid reconstruction	can cause	graft thickening
+eyelid reconstruction	can cause	graft shrinkage
+eyelid reconstruction	can cause	graft rejection
+eyelid reconstruction	can cause	graft malposition
+eyelid reconstruction	can cause	graft displacement
+eyelid reconstruction	can cause	graft infection
+eyelid reconstruction	can cause	graft dehiscence
+eyelid reconstruction	can cause	graft distortion
+eyelid reconstruction	can cause	graft asymmetry
+eyelid reconstruction	can cause	graft contour irregularity
+eyelid reconstruction	can cause	graft hyperpigmentation
+eyelid reconstruction	can cause	graft hypopigmentation
+eyelid reconstruction	can cause	graft seroma
+eyelid reconstruction	can cause	graft hematoma
+eyelid reconstruction	can cause	graft cyst
+eyelid reconstruction	can cause	graft extrusion
+eyelid reconstruction	can cause	graft contracture
+eyelid reconstruction	can cause	graft granuloma
+eyelid reconstruction	can cause	graft migration
+eyelid reconstruction	can cause	graft necrobiosis
+eyelid reconstruction	can cause	graft hypertrophy
+eyelid reconstruction	can cause	graft atrophy
+eyelid reconstruction	can cause	graft retraction
+eyelid reconstruction	can cause	graft de-pigmentation
+eyelid reconstruction	can cause	graft depilation
+eyelid reconstruction	can cause	graft distortion
+eyelid reconstruction	can cause	graft thickening
+eyelid reconstruction	can cause	graft swelling
+eyelid reconstruction	can cause	graft erosion
+eyelid reconstruction	can cause	graft malpositioning
+eyelid reconstruction	can cause	graft misalignment
+eyelid reconstruction	can cause	graft separation
+eyelid reconstruction	can cause	graft ischemia
+eyelid reconstruction	can cause	graft failure
+eyelid reconstruction	can cause	graft loss

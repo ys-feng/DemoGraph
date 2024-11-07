@@ -1,0 +1,142 @@
+destruction	can cause	loss of sensation
+destruction	can lead to	paralysis
+destruction	can result in	neuropathy
+destruction	can be caused by	surgery
+destruction	can be treated by	nerve block
+destruction	can be managed with	pain medication
+destruction	can be a complication of	nerve injury
+destruction	can lead to	muscle weakness
+destruction	can result in	numbness
+destruction	can cause	neuropathic pain
+destruction	can be performed using	radiofrequency ablation
+destruction	can be caused by	trauma
+destruction	can be treated with	cryoablation
+destruction	can result in	sensory loss
+destruction	can cause	motor dysfunction
+destruction	can be managed with	physical therapy
+destruction	can be relieved by	nerve decompression
+destruction	can result in	loss of reflexes
+destruction	can cause	muscle wasting
+destruction	can be treated with	nerve regeneration techniques
+destruction	can lead to	decreased coordination
+destruction	can result in	autonomic dysfunction
+destruction	can cause	paresthesia
+destruction	can be managed with	neurostimulation
+destruction	can be relieved by	nerve repair
+destruction	can result in	gait abnormalities
+destruction	can cause	abnormal muscle contractions
+destruction	can be treated with	botulinum toxin injections
+destruction	can be caused by	nerve compression
+destruction	can be managed with	occupational therapy
+destruction	can result in	balance problems
+destruction	can lead to	muscle stiffness
+destruction	can cause	altered sensation
+destruction	can be treated with	nerve grafting
+destruction	can be relieved by	nerve release surgery
+destruction	can result in	difficulty swallowing
+destruction	can cause	muscle cramps
+destruction	can be managed with	transcutaneous electrical nerve stimulation
+destruction	can be relieved by	nerve decompression surgery
+destruction	can lead to	muscle imbalances
+destruction	can result in	abnormal muscle tone
+destruction	can cause	muscle spasms
+destruction	can be treated with	neuromodulation
+destruction	can be caused by	infection
+destruction	can be managed with	acupuncture
+destruction	can result in	abnormal reflexes
+destruction	can cause	muscle tightness
+destruction	can be treated with	nerve transfer
+destruction	can be relieved by	nerve regeneration
+destruction	can result in	difficulty speaking
+destruction	can lead to	abnormal gait
+destruction	can cause	muscle weakness in limbs
+destruction	can be managed with	cognitive-behavioral therapy
+destruction	can be relieved by	neurolysis
+destruction	can result in	difficulty chewing
+destruction	can cause	muscle atrophy
+destruction	can be treated with	nerve stimulation
+destruction	can be caused by	radiation therapy
+destruction	can be managed with	massage therapy
+destruction	can result in	loss of muscle control
+destruction	can lead to	abnormal movement patterns
+destruction	can cause	muscle contractures
+destruction	can be treated with	denervation
+destruction	can be relieved by	sympathetic block
+destruction	can result in	altered muscle coordination
+destruction	can cause	muscle spasms in neck
+destruction	can be managed with	behavioral therapy
+destruction	can be relieved by	nerve transplantation
+destruction	can lead to	abnormal muscle contractions
+destruction	can result in	difficulty breathing
+destruction	can cause	muscle weakness in face
+destruction	can be treated with	neurolysis
+destruction	can be caused by	autoimmune conditions
+destruction	can be managed with	heat therapy
+destruction	can result in	abnormal muscle movements
+destruction	can lead to	muscle imbalance
+destruction	can cause	muscle stiffness in limbs
+destruction	can be treated with	nerve repair surgery
+destruction	can be relieved by	nerve grafting
+destruction	can result in	difficulty walking
+destruction	can cause	muscle weakness in hands
+destruction	can be managed with	biofeedback
+destruction	can be relieved by	nerve transfer
+destruction	can result in	difficulty writing
+destruction	can lead to	abnormal muscle tone
+destruction	can cause	muscle spasms in face
+destruction	can be treated with	nerve release
+destruction	can be caused by	toxic substances
+destruction	can be managed with	physical modalities
+destruction	can result in	abnormal reflex responses
+destruction	can cause	muscle tightness in limbs
+destruction	can be treated with	nerve decompression
+destruction	can be relieved by	nerve ablation
+destruction	can result in	difficulty speaking
+destruction	can lead to	abnormal muscle contractions
+destruction	can cause	muscle weakness in limbs
+destruction	can be managed with	counseling
+destruction	can be relieved by	nerve stimulation
+destruction	can result in	difficulty swallowing
+destruction	can cause	muscle atrophy in limbs
+destruction	can be treated with	nerve blockade
+destruction	can be caused by	environmental factors
+destruction	can be managed with	occupational modalities
+destruction	can result in	abnormal muscle tone
+destruction	can lead to	muscle contractures
+destruction	can cause	muscle tightness in neck
+destruction	can be treated with	nerve graft
+destruction	can be relieved by	nerve neurolysis
+destruction	can result in	difficulty chewing
+destruction	can cause	muscle weakness in throat
+destruction	can be managed with	relaxation therapy
+destruction	can be relieved by	nerve ablation surgery
+destruction	can lead to	abnormal muscle movements
+destruction	can result in	muscle imbalance
+destruction	can cause	muscle spasms in limbs
+destruction	can be treated with	nerve transfer surgery
+destruction	can be caused by	genetic mutations
+destruction	can be managed with	rehabilitation
+destruction	can result in	difficulty walking
+destruction	can cause	muscle weakness in neck
+destruction	can be treated with	nerve reconstruction
+destruction	can be relieved by	nerve rehabilitation
+destruction	can result in	difficulty writing
+destruction	can lead to	abnormal muscle tone in limbs
+destruction	can cause	muscle spasms in hands
+destruction	can be managed with	assistive devices
+destruction	can be relieved by	nerve release surgery
+destruction	can result in	abnormal reflex responses
+destruction	can cause	muscle tightness in face
+destruction	can be treated with	nerve ablation
+destruction	can be caused by	vascular disorders
+destruction	can be managed with	electrotherapy
+destruction	can result in	loss of muscle coordination
+destruction	can lead to	abnormal muscle contractions
+destruction	can cause	muscle weakness in face
+destruction	can be relieved by	nerve neurolysis
+destruction	can be treated with	nerve stimulation
+destruction	can be managed with	nutritional therapy
+destruction	can result in	difficulty speaking
+destruction	can cause	muscle atrophy in face
+destruction	can be relieved by	nerve rehabilitation
+destruction	can be treated with	nerve ablation surgery

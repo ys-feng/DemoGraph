@@ -1,0 +1,15 @@
+biopsy	is a	medical procedure
+biopsy	can provide	diagnostic information
+biopsy	is performed on	thyroid gland
+biopsy	involves	a needle
+biopsy	is closed
+biopsy of thyroid gland	is a type of	biopsy
+biopsy of thyroid gland	is percutaneous
+biopsy of thyroid gland	uses a needle
+closed needle biopsy	is a type of	biopsy
+closed needle biopsy	is performed on	thyroid gland
+closed needle biopsy	is performed	percutaneously
+closed needle biopsy	uses a needle
+closed needle biopsy	is closed
+biopsy of thyroid gland	provides	diagnostic information
+closed needle biopsy	provides	diagnostic information

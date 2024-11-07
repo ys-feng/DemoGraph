@@ -1,0 +1,6 @@
+decompression	is a	surgical procedure
+decompression	used for	trigeminal neuralgia
+trigeminal neuralgia	is a	medical condition
+decompression	can relieve	facial pain
+decompression	may involve	microvascular decompression
+microvascular decompression	is a type of	decompression

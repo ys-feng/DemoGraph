@@ -1,0 +1,100 @@
+Intubation
+Mechanical Ventilation
+Central Venous Catheterization
+Hemodialysis
+Cardiopulmonary Resuscitation (CPR)
+Tracheostomy
+Blood Transfusion
+Surgical Drain Management
+Parenteral Nutrition
+Enteral Nutrition
+Antibiotics
+Anticoagulants
+Vasopressors
+Diuretics
+Insulin Therapy
+Analgesics
+Sedatives
+Antiarrhythmics
+Antihypertensives
+Steroids
+Complete Blood Count (CBC)
+Blood Chemistry Panel
+Arterial Blood Gases (ABG)
+Echocardiogram
+Electrocardiogram (ECG)
+Chest X-Ray
+CT Scan
+MRI
+Ultrasound
+Microbiological Cultures
+Age
+Gender
+Medical History
+Surgical History
+Body Mass Index (BMI)
+Sepsis
+Acute Respiratory Distress Syndrome (ARDS)
+Myocardial Infarction
+Stroke
+Diabetes Mellitus
+Chronic Kidney Disease
+Liver Cirrhosis
+Heart Failure
+Pneumonia
+COPD
+Hypertension
+Atrial Fibrillation
+Deep Vein Thrombosis
+Pulmonary Embolism
+Gastrointestinal Bleed
+Electronic Health Records (EHR)
+Clinical Decision Support Systems
+Predictive Modeling
+Machine Learning in Healthcare
+Natural Language Processing (NLP)
+Data Privacy and Security
+Health Informatics
+Big Data Analytics
+Patient Data Standardization
+Pain Management
+Nutrition Management
+Infection Control
+Pressure Ulcer Prevention
+Rehabilitation Services
+Palliative Care
+Patient Education
+Discharge Planning
+Mental Health Care
+Clinical Guidelines
+Patient Safety
+Medication Errors
+Infection Rates
+Clinical Audit
+Nursing Assessments
+Physical Therapy
+Respiratory Therapy
+Dialysis Management
+Wound Care Nursing
+Critical Care Nursing
+Oncology
+Nephrology
+Cardiology
+Neurology
+Infectious Diseases
+Endocrinology
+Gastroenterology
+Pulmonology
+Informed Consent
+Patient Confidentiality
+Ethical Dilemmas in Healthcare
+Telemedicine
+Wearable Health Devices
+Genomic Medicine
+Personalized Medicine
+AI in Diagnostic Imaging
+Disease Surveillance
+Health Disparities
+Epidemiological Studies
+Public Health Policy
+Social Determinants of Health

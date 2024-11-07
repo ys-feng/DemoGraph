@@ -1,0 +1,78 @@
+repair	is a	procedure
+laceration	involves	lid margin
+laceration	is full-thickness
+lid margin	can be affected by	laceration
+procedure	is used for	repair
+procedure	is recommended for	full-thickness lacerations
+laceration	requires	repair
+repair	can be performed on	lid margin
+repair	can be performed on	full-thickness lacerations
+procedure	can be done using	sutures
+suturing	is a method for	repair
+suturing	is a technique for	repair
+procedure	can be done using	adhesive
+adhesive	is a method for	repair
+adhesive	is a technique for	repair
+lid margin	is susceptible to	laceration
+lid margin	can be damaged by	laceration
+laceration	can lead to	scarring
+scarring	can occur after	laceration
+laceration	can cause	bleeding
+bleeding	can occur after	laceration
+procedure	may require	anesthesia
+anesthesia	is required for	procedure
+anesthesia	can be local	for procedure
+procedure	can be done under	local anesthesia
+procedure	can be done under	general anesthesia
+procedure	can be done under	sedation
+sedation	can be used for	procedure
+procedure	may require	stitches
+stitches	are used for	repair
+stitches	are necessary for	repair
+procedure	may require	wound care
+wound care	is needed after	procedure
+procedure	may require	dressing
+dressing	is needed after	procedure
+procedure	may require	follow-up visits
+follow-up visits	are necessary after	procedure
+procedure	may require	antibiotic treatment
+antibiotic treatment	is needed after	procedure
+procedure	may require	pain medication
+pain medication	is needed after	procedure
+procedure	may require	physical therapy
+physical therapy	is needed after	procedure
+procedure	may require	eye protection
+eye protection	is needed after	procedure
+procedure	may require	refraining from certain activities
+refraining from certain activities	is needed after	procedure
+procedure	may have	complications
+complications	can occur after	procedure
+procedure	has	risks
+risks	are associated with	procedure
+procedure	has	benefits
+benefits	are associated with	procedure
+procedure	can improve	cosmetic appearance
+repair	can improve	cosmetic appearance
+procedure	may have a	recovery period
+recovery period	is required after	procedure
+procedure	may have	limitations
+limitations	are associated with	procedure
+procedure	is performed by	healthcare professionals
+lid margin	can be repaired by	healthcare professionals
+full-thickness lacerations	can be repaired by	healthcare professionals
+procedure	is considered	standard of care
+procedure	is a	common treatment option
+lid margin	is a part of	eyelid
+lid margin	is a	specific area
+full-thickness lacerations	can affect	lid margin
+full-thickness lacerations	can cause	functional impairment
+lid margin	can be affected by	full-thickness lacerations
+procedure	is performed in	operating room
+procedure	is performed by	surgeons
+surgeons	perform	procedure
+procedure	can be done in	outpatient setting
+procedure	can be done in	inpatient setting
+procedure	can be done in	emergency setting
+procedure	is covered by	insurance
+procedure	can be costly
+procedure	is effective for	repair

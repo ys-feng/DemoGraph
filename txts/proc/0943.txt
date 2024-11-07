@@ -1,0 +1,85 @@
+probing	is a	medical procedure
+probing	used for	diagnosis
+probing	used for	treatment
+nasolacrimal duct	is a	part of the eye
+probing	can clear	blockages
+probing	can prevent	eye infections
+probing	can cause	temporary discomfort
+probing	can lead to	tear duct scarring
+probing	is recommended for	children with tear duct blockages
+probing	is performed under	local anesthesia
+probing	may require	multiple attempts
+probing	has a success rate	in clearing blockages
+probing	is typically done	by an ophthalmologist
+probing	can be followed by	tear duct massage
+probing	is not always	successful
+probing	may be followed by	tear duct probing
+probing	is not recommended for	adults with tear duct blockages
+probing	may be performed	as a last resort
+probing	can be performed	in conjunction with dacryocystorhinostomy
+probing	can be done	in outpatient settings
+probing	may require	general anesthesia
+probing	can be done	on both eyes simultaneously
+probing	may cause	bleeding
+probing	can result in	improved tearing
+probing	can be a	one-time procedure
+probing	can be done	in the office
+probing	can relieve	tear duct pain
+probing	can lead to	tear duct narrowing
+probing	may cause	tearing
+probing	can be done	with a specialized thin probe
+probing	can help	drain tears
+probing	can be followed by	a silicone stent placement
+probing	is commonly performed	in infants
+nasolacrimal duct	can become	clogged
+nasolacrimal duct	is responsible for	draining tears
+nasolacrimal duct	can lead to	infections if blocked
+nasolacrimal duct	is located	between the eye and the nose
+nasolacrimal duct	can cause	excess tearing if blocked
+nasolacrimal duct	can cause	discharge if blocked
+nasolacrimal duct	can result in	watering eyes
+nasolacrimal duct	can be	congenitally blocked
+nasolacrimal duct	can be	unilaterally blocked
+nasolacrimal duct	can be	bilaterally blocked
+nasolacrimal duct	can become	inflamed
+nasolacrimal duct	can lead to	dacryocystitis
+nasolacrimal duct	can be assessed	with dye disappearance test
+nasolacrimal duct	can be imaged	using lacrimal sac dacryocystography
+nasolacrimal duct	can be assessed	with saline irrigation
+nasolacrimal duct	can be treated	with topical antibiotics
+nasolacrimal duct	can be managed	with lacrimal sac massage
+nasolacrimal duct	can be cleared	by probing
+nasolacrimal duct	can develop	scar tissue
+nasolacrimal duct	can be	underdeveloped
+nasolacrimal duct	can be	present at birth
+nasolacrimal duct	can be	absent at birth
+nasolacrimal duct	can be	malformed
+nasolacrimal duct	can lead to	tearing during blinking
+nasolacrimal duct	can result in	recurrent eye infections
+nasolacrimal duct	can be affected by	trauma
+nasolacrimal duct	can be	chronically blocked
+nasolacrimal duct	can result in	chronic watering eyes
+nasolacrimal duct	can cause	discomfort in the corner of the eye
+nasolacrimal duct	can be	enlarged
+nasolacrimal duct	can be	narrow
+nasolacrimal duct	can become	infected
+nasolacrimal duct	can cause	crusted eyelashes
+nasolacrimal duct	can result in	blurred vision
+nasolacrimal duct	can be affected	by sinus infections
+nasolacrimal duct	can cause	redness around the eyes
+nasolacrimal duct	can lead to	swelling and tenderness
+nasolacrimal duct	can cause	sensitivity to light
+nasolacrimal duct	can be caused by	congenital abnormalities
+nasolacrimal duct	can be	congenitally absent
+nasolacrimal duct	can cause	eye discharge
+nasolacrimal duct	can be affected by	allergies
+nasolacrimal duct	can result in	multiple tear duct infections
+nasolacrimal duct	can cause	tear overflow
+nasolacrimal duct	can be	compromised
+nasolacrimal duct	can cause	recurrent eye discharge
+nasolacrimal duct	can be	partially blocked
+nasolacrimal duct	can cause	pain around the eye
+nasolacrimal duct	can result in	eye crusting
+nasolacrimal duct	can be affected by	tumors
+nasolacrimal duct	can be	narrower in females
+nasolacrimal duct	can lead to	watery eyes

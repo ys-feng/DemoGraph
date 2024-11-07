@@ -1,0 +1,70 @@
+#### general settings
+name: Actor_CGA_GAT
+train_type: gnnactor
+gpu_ids: '0'
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: false
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: false
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: True
+
+#### datasets
+datasets:
+  name: "actor"
+  dataset_path: "/tmp/Actor/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GAT_Actor"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005
+  weight_decay: 0.0001
+
+#### GNN settings
+GNN:
+  name: "GAT"
+  num_layers: 1
+  in_dim: 932
+  hidden_dim: 128
+  out_dim: 5
+  attn_drop: 0.05
+  feat_drop: 0.05
+  num_heads: 16
+  num_out_heads: 8
+  negative_slope: 0.1
+  linear: True
+  nec: 3
+
+#### training settings
+train:
+  num_epochs: 1000
+  batch_size: 32
+
+logging:
+  mode: online
+  tags: [
+      "Dataset25",
+      "Actor",
+      "GAT",
+#      "Baseline",
+    ]

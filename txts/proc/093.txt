@@ -1,0 +1,73 @@
+operations	are performed on	lacrimal gland
+lacrimal gland	can be affected by	inflammation
+lacrimal gland	can be removed in	surgery
+surgery	can be done to	treat tumors
+tumors	can cause	lacrimal gland dysfunction
+lacrimal gland dysfunction	may result in	excessive tearing
+excessive tearing	can be a symptom of	lacrimal duct obstruction
+lacrimal duct obstruction	can be treated with	surgical intervention
+surgical intervention	can be used to	create a new tear drainage pathway
+tear drainage pathway	can become blocked due to	scar tissue
+scar tissue	can develop after	surgery
+surgery	can lead to	infection
+infection	can be a complication of	lacrimal gland procedures
+lacrimal gland procedures	can be performed under	general anesthesia
+general anesthesia	is administered by	an anesthesiologist
+anesthesiologist	works closely with	the surgical team
+surgical team	includes	surgeons and nurses
+nurses	assist in	patient care
+patient care	involves	pre-operative and post-operative instructions
+instructions	are given by	healthcare providers
+healthcare providers	coordinate	the patient's care
+care	includes	monitoring vital signs
+vital signs	are indicators of	the patient's health
+health	can be affected by	underlying conditions
+underlying conditions	may require	additional treatment
+treatment	is determined based on	individual patient needs
+patient needs	are assessed by	medical professionals
+medical professionals	collaborate to	provide optimal care
+care	can be provided in	various healthcare settings
+healthcare settings	include	hospitals and clinics
+hospitals	have	specialized departments
+departments	focus on	different areas of medicine
+medicine	continues to advance through	ongoing research
+ongoing research	contributes to	medical breakthroughs
+medical breakthroughs	improve	patient outcomes
+patient outcomes	can be influenced by	multiple factors
+factors	include	patient compliance
+patient compliance	is important for	successful treatment
+treatment	aims to	alleviate symptoms
+symptoms	can be relieved with	appropriate medications
+medications	can interact with	other drugs
+other drugs	may require	dosage adjustments
+dosage adjustments	should be overseen by	a healthcare professional
+healthcare professionals	have	specialized training
+training	prepares them to	provide competent care
+care	is guided by	patient preferences
+patient preferences	should be taken into account when	developing a treatment plan
+treatment plan	is based on	evidence-based guidelines
+guidelines	are developed by	medical organizations
+medical organizations	strive to	improve patient care
+patient care	can be optimized with	electronic health records
+electronic health records	facilitate	information exchange
+information exchange	improves	communication between healthcare providers
+healthcare providers	collaborate to	ensure continuity of care
+continuity of care	is important for	patient safety
+patient safety	is a priority in	healthcare
+healthcare	is delivered by	a multidisciplinary team
+multidisciplinary team	includes	various healthcare professionals
+healthcare professionals	work together to	achieve positive outcomes
+outcomes	depend on	the success of the treatment
+treatment	can lead to	improved quality of life
+quality of life	is influenced by	physical and mental well-being
+well-being	can be supported by	lifestyle modifications
+modifications	may include	dietary changes
+changes	can impact	overall health
+health	is influenced by	genetic and environmental factors
+factors	contribute to	individual health outcomes
+outcomes	can be influenced by	social determinants of health
+determinants	include	socioeconomic status
+status	can affect	access to healthcare
+healthcare	is essential for	maintaining well-being
+well-being	is a goal in	healthcare
+healthcare	requires	ongoing collaboration

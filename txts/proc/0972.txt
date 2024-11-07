@@ -1,0 +1,285 @@
+repair	is a	medical procedure
+punctum	is a	anatomical structure
+repair of punctum	used for	treating punctal stenosis
+punctal stenosis	can cause	excessive tearing
+repair of punctum	can improve	tear drainage
+repair	can be performed by	ophthalmologists
+ophthalmologists	are	medical professionals
+repair of punctum	can be done using	punctoplasty
+punctoplasty	is a type of	repair of punctum
+punctoplasty	can be done with	sutures
+suturing	is a	technique
+repair of punctum	can be done using	stenting
+stenting	is a	technique
+repair of punctum	can be performed under	local anesthesia
+local anesthesia	is a	method
+repair of punctum	can have	risks
+risks	can include	infection
+repair of punctum	can lead to	improved eye health
+improved eye health	can result in	better vision
+repair of punctum	can prevent	eye infections
+repair of punctum	can be recommended for	patients with chronic tearing
+repair of punctum	can be performed in	outpatient settings
+outpatient settings	are	medical facilities
+repair of punctum	can require	follow-up visits
+follow-up visits	are	medical appointments
+repair of punctum	can be covered by	health insurance
+health insurance	is a	payment method
+repair of punctum	can be done using	endoscopic techniques
+endoscopic techniques	are	minimally invasive
+repair of punctum	can be performed for	both eyes
+both eyes	can be	affected by punctal stenosis
+repair of punctum	can be done in	adults
+repair of punctum	can be done in	children
+repair of punctum	can be done in	elderly patients
+repair of punctum	can require	surgical instruments
+surgical instruments	are	medical tools
+repair of punctum	can be done using	laser therapy
+laser therapy	is a	treatment
+repair of punctum	can be done in	specialized eye clinics
+specialized eye clinics	are	medical facilities
+repair of punctum	can be performed along with	other eye surgeries
+other eye surgeries	can be	cataract removal
+repair of punctum	can be performed in	outpatient surgery centers
+outpatient surgery centers	are	medical facilities
+repair of punctum	can be done with	minimal scarring
+minimal scarring	can result in	cosmetic improvements
+repair of punctum	can be done using	local anesthesia
+local anesthesia	can be	lidocaine
+repair of punctum	is recommended for	patients with punctal stenosis
+repair of punctum	can cause	temporary discomfort
+temporary discomfort	can be managed with	pain medication
+repair of punctum	can require	preoperative assessment
+preoperative assessment	is done to	evaluate patient's eligibility
+repair of punctum	can require	postoperative care
+postoperative care	is important for	optimal recovery
+repair of punctum	can be performed along with	other facial surgeries
+other facial surgeries	can be	blepharoplasty
+repair of punctum	can be performed under	general anesthesia
+general anesthesia	is a	sedation method
+repair of punctum	can be recommended for	patients with epiphora
+epiphora	is a	symptom of punctal stenosis
+repair of punctum	can be performed using	dilation
+dilation	is a	technique
+repair of punctum	can require	professional expertise
+professional expertise	is provided by	oculoplastic surgeons
+oculoplastic surgeons	are	specialized doctors
+repair of punctum	can require	medical imaging
+medical imaging	is done to	evaluate the condition
+repair of punctum	can be done in	clinical settings
+clinical settings	are	medical environments
+repair of punctum	can be performed along with	other tear duct surgeries
+other tear duct surgeries	can include	dacryocystorhinostomy
+repair of punctum	can require	postoperative follow-up
+postoperative follow-up	is important for	monitoring patient's recovery
+repair of punctum	can be performed using	punctal plugs
+punctal plugs	are	small devices
+repair of punctum	can improve	quality of life
+quality of life	can be affected by	excessive tearing
+repair of punctum	can be done using	silicone tubes
+silicone tubes	can be	temporary implants
+repair of punctum	can be performed using	Bowman probes
+Bowman probes	are	medical instruments
+repair of punctum	can be done using	probing
+probing	is a	technique
+repair of punctum	can require	specialized training
+specialized training	is necessary for	ophthalmologists
+repair of punctum	can be performed along with	other lacrimal surgeries
+other lacrimal surgeries	can include	dacryocystectomy
+repair of punctum	can have	complications
+complications	can include	scarring
+repair of punctum	can require	patient education
+patient education	is important for	informed decision-making
+repair of punctum	can involve	tear duct reconstruction
+tear duct reconstruction	is a	surgical procedure
+repair of punctum	can be done using	Dacron sutures
+Dacron sutures	are	synthetic materials
+repair of punctum	can be performed at	specialized eye hospitals
+specialized eye hospitals	are	medical facilities
+repair of punctum	can require	preoperative counseling
+preoperative counseling	is done to	inform patients about the procedure
+repair of punctum	can require	postoperative monitoring
+postoperative monitoring	is important for	detecting complications
+repair of punctum	can be done using	punctal cautery
+punctal cautery	is a	technique
+repair of punctum	is a	effective treatment
+repair of punctum	can be done using	cryotherapy
+cryotherapy	is a	treatment
+repair of punctum	can require	sterile instruments
+sterile instruments	are necessary for	preventing infections
+repair of punctum	can be done using	absorbable sutures
+absorbable sutures	are	materials
+repair of punctum	can be performed along with	other eyelid procedures
+other eyelid procedures	can include	blepharorrhaphy
+repair of punctum	can require	postoperative rehabilitation
+postoperative rehabilitation	is important for	optimal outcome
+repair of punctum	can be done using	laser-assisted surgery
+laser-assisted surgery	is a	technique
+repair of punctum	can be done in	ambulatory surgery centers
+ambulatory surgery centers	are	medical facilities
+repair of punctum	can be performed under	sedation
+sedation	is a	method
+repair of punctum	can be done using	Monoka stents
+Monoka stents	are	devices
+repair of punctum	can be done using	spacers
+spacers	are	implantable materials
+repair of punctum	can be performed along with	other lacrimal duct surgeries
+other lacrimal duct surgeries	can include	conjunctivodacryocystorhinostomy
+repair of punctum	can require	postoperative instructions
+postoperative instructions	are given to	guide patient's recovery
+repair of punctum	can be done using	electrocautery
+electrocautery	is a	technique
+repair of punctum	can be done using	adjustable sutures
+adjustable sutures	are	materials
+repair of punctum	can be performed along with	other nose surgeries
+other nose surgeries	can include	rhinoplasty
+repair of punctum	can require	postoperative wound care
+postoperative wound care	is important for	preventing infections
+repair of punctum	can improve	functional outcomes
+functional outcomes	can be affected by	punctal stenosis
+repair of punctum	can be done using	intracanalicular plugs
+intracanalicular plugs	are	devices
+repair of punctum	can require	anesthetic agents
+anesthetic agents	are used for	pain management
+repair of punctum	can be performed along with	other eyelid surgeries
+other eyelid surgeries	can include	entropion repair
+repair of punctum	can involve	tear duct dilation
+tear duct dilation	is a	technique
+repair of punctum	can be done using	punctal dilation
+punctal dilation	is a	technique
+repair of punctum	can require	specialized equipment
+specialized equipment	is necessary for	the procedure
+repair of punctum	can be done using	Allon4
+Allon4	is a	technique
+repair of punctum	can be performed along with	other orbital surgeries
+other orbital surgeries	can include	orbital decompression
+repair of punctum	can require	preoperative instructions
+preoperative instructions	are given to	prepare patients for the procedure
+repair of punctum	can be done using	Jones tubes
+Jones tubes	are	components
+repair of punctum	can require	postoperative wound dressing
+postoperative wound dressing	is important for	keeping the wound clean
+repair of punctum	can be done using	atraumatic forceps
+atraumatic forceps	are	surgical instruments
+repair of punctum	can be performed along with	other lacrimal sac surgeries
+other lacrimal sac surgeries	can include	dacryocystotomy
+repair of punctum	can require	postoperative medication
+postoperative medication	is given to	manage pain and prevent infections
+repair of punctum	can involve	tear duct intubation
+tear duct intubation	is a	technique
+repair of punctum	can be done using	balloon dilation
+balloon dilation	is a	technique
+repair of punctum	can require	a punctal plug
+a punctal plug	is a	device
+repair of punctum	can be performed along with	other maxillofacial surgeries
+other maxillofacial surgeries	can include	mandibular reconstruction
+repair of punctum	can require	preoperative testing
+preoperative testing	is done to	assess patient's health
+repair of punctum	can be done using	conjunctival flaps
+conjunctival flaps	are	tissue grafts
+repair of punctum	can be performed along with	other ocular surgeries
+other ocular surgeries	can include	enucleation
+repair of punctum	can involve	tear duct bypass
+tear duct bypass	is a	technique
+repair of punctum	can be done using	absorbable sutures
+absorbable sutures	can be	Vicryl
+repair of punctum	can be done using	anchor sutures
+anchor sutures	are	materials
+repair of punctum	can be performed along with	other facial fracture repairs
+other facial fracture repairs	can include	orbital floor fracture repair
+repair of punctum	can require	tear duct irrigation
+tear duct irrigation	is a	technique
+repair of punctum	can be done without	general anesthesia
+general anesthesia	can be	avoided
+repair of punctum	can require	sterile technique
+sterile technique	is necessary for	preventing infections
+repair of punctum	can involve	tear duct reconstruction using grafts
+grafts	can be	autografts
+repair of punctum	can be done using	punctal occlusion
+punctal occlusion	is a	technique
+repair of punctum	can be performed along with	other tear drainage surgeries
+other tear drainage surgeries	can include	tube dacryocystorhinostomy
+repair of punctum	can require	removal of sutures
+removal of sutures	is done to	aid in healing
+repair of punctum	can be done using	punctal plugs
+punctal plugs	can be	removable
+repair of punctum	can be done using	punctal dilators
+punctal dilators	are	instruments
+repair of punctum	can require	postoperative care instructions
+postoperative care instructions	are given to	guide patient's recovery
+repair of punctum	can improve	patient satisfaction
+patient satisfaction	can be affected by	excessive tearing
+repair of punctum	can be done using	non-absorbable sutures
+non-absorbable sutures	can be	silk
+repair of punctum	can be performed along with	other dacryocystitis surgeries
+other dacryocystitis surgeries	can include	lacrimal abscess drainage
+repair of punctum	can require	postoperative visits
+postoperative visits	are	medical appointments
+repair of punctum	can be done using	cone procedure
+cone procedure	is a	technique
+repair of punctum	can be performed along with	other maxillary surgeries
+other maxillary surgeries	can include	Le Fort I osteotomy
+repair of punctum	can require	tear film evaluation
+tear film evaluation	is done to	assess tear production
+repair of punctum	can be done using	MiboFlo
+MiboFlo	is a	device
+repair of punctum	can be done using	atraumatic cannula
+atraumatic cannula	is a	medical instrument
+repair of punctum	can be performed along with	other orbit surgeries
+other orbit surgeries	can include	orbital tumor removal
+repair of punctum	can require	postoperative complications management
+postoperative complications management	is important for	preventing further issues
+repair of punctum	can involve	tear duct clearance
+tear duct clearance	is a	technique
+repair of punctum	can be done using	collagen plugs
+collagen plugs	can be	dissolvable
+repair of punctum	can be performed along with	other eye-related surgeries
+other eye-related surgeries	can include	retina detachment repair
+repair of punctum	can require	preoperative preparation
+preoperative preparation	is important for	successful procedure
+repair of punctum	can be done using	Cheilitis Repair
+Cheilitis Repair	is a	technique
+repair of punctum	can be performed along with	other tear drainage system surgeries
+other tear drainage system surgeries	can include	canalicular laceration repair
+repair of punctum	can require	postoperative wound healing
+postoperative wound healing	is important for	optimal recovery
+repair of punctum	can be done using	bioabsorbable plugs
+bioabsorbable plugs	are	devices
+repair of punctum	can involve	tear duct repositioning
+tear duct repositioning	is a	technique
+repair of punctum	can be done using	endoscopic surgery
+endoscopic surgery	is a	technique
+repair of punctum	can be performed along with	other salivary gland surgeries
+other salivary gland surgeries	can include	parotid duct ligation
+repair of punctum	can require	postoperative wound care instructions
+postoperative wound care instructions	are given to	promote healing
+repair of punctum	can be done using	punctal bypass
+punctal bypass	is a	technique
+repair of punctum	can be performed along with	other tear drainage disorders treatments
+other tear drainage disorders treatments	can include	punctal exploration
+repair of punctum	can involve	tear duct reconstruction using flaps
+flaps	can be	mucosal
+repair of punctum	can be done using	osteotomy
+osteotomy	is a	surgical procedure
+repair of punctum	can be performed along with	other sinus surgeries
+other sinus surgeries	can include	ethmoidectomy
+repair of punctum	can require	tear duct irrigation
+tear duct irrigation	is a	technique
+repair of punctum	can be done using	punctal ablation
+punctal ablation	is a	technique
+repair of punctum	can involve	tear duct intubation using stents
+stents	are	medical devices
+repair of punctum	can be done using	laser-assisted procedures
+laser-assisted procedures	are	techniques
+repair of punctum	can be performed along with	other midface surgeries
+other midface surgeries	can include	orbital fracture repair
+repair of punctum	can require	preoperative consent
+preoperative consent	is given to	authorize the procedure
+repair of punctum	can be done using	thermocautery
+thermocautery	is a	technique
+repair of punctum	can be performed along with	other orbital tumor excisions
+other orbital tumor excisions	can include	enucleation
+repair of punctum	can require	postoperative wound healing instructions
+postoperative wound healing instructions	are given to	promote recovery
+repair of punctum	can be done using	punctoplasty
+punctoplasty	is a	technique

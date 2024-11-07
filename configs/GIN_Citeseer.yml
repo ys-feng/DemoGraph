@@ -1,0 +1,68 @@
+#### general settings
+name: Citeseer_RW_GIN
+train_type: gnnciteseer
+gpu_ids: '0'
+
+#### datasets
+datasets:
+  name: "citeseer"
+  dataset_path: "/tmp/Citeseer/raw"
+
+#### Checkpoint settings
+checkpoint:
+  path: "./checkpoints/GIN_Citeseer"
+  save_checkpoint_freq: 2
+
+#### Optimizer settings
+optimizer:
+  opt_method: "ADAM"
+  lr: 0.0005
+  weight_decay: 0.0001
+
+#### GNN settings
+GNN:
+  name: "GIN"
+  num_layers: 2
+  num_mlp_layers: 2
+  in_dim: 3703
+  hidden_dim: 256
+  out_dim: 6
+  feat_drop: 0.1
+  linear: false
+  nec: 100
+
+  neighbor_pooling_type: "mean"
+
+#### Different methods' settings
+drop_node:
+  use_drop_node: false
+  drop_probability: 0.5
+
+drop_edge:
+  use_drop_edge: false
+  drop_probability: 0.5
+
+random_walk_pe:
+  use_random_walk_pe: true
+  random_walk_steps: 4
+
+laplacian_pe:
+  use_laplacian_pe: false
+  laplacian_pe_k: 3
+  concatenate_features: true
+
+cga:
+  use_cga: false
+
+#### training settings
+train:
+  num_epochs: 700
+  batch_size: 32
+
+logging:
+  mode: online
+  tags: [
+      "Citeseer",
+      "GIN",
+      "Baseline"
+    ]

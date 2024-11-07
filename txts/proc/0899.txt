@@ -1,0 +1,15 @@
+other operations on eyelids	is a	medical procedure
+other operations on eyelids	used for	correction
+blepharoplasty	is a type of	other operations on eyelids
+blepharoplasty	can improve	appearance
+blepharoplasty	can correct	droopy eyelids
+blepharoplasty	can remove	excess skin
+ptosis correction surgery	is a type of	other operations on eyelids
+ptosis correction surgery	can correct	droopy eyelids
+ptosis correction surgery	can improve	vision
+entropion repair	is a type of	other operations on eyelids
+entropion repair	can correct	inwardly turned eyelids
+entropion repair	can alleviate	eye irritation
+ectropion repair	is a type of	other operations on eyelids
+ectropion repair	can correct	outwardly turned eyelids
+ectropion repair	can relieve	eye dryness

@@ -1,0 +1,47 @@
+reconstruction	can be performed on	eyelid
+reconstruction	is a	medical procedure
+eyelid	may require	reconstruction
+flaps	can be used for	eyelid reconstruction
+grafts	can be used for	eyelid reconstruction
+flaps	are a type of	reconstruction
+grafts	are a type of	reconstruction
+reconstruction	can improve	eyelid function
+reconstruction	can improve	eyelid appearance
+reconstruction	can correct	eyelid abnormalities
+reconstruction	can restore	eyelid symmetry
+reconstruction	may be needed after	eyelid trauma
+flaps	require	surgical expertise
+grafts	require	surgical expertise
+reconstruction	may involve	multiple surgeries
+reconstruction	may be performed under	local anesthesia
+reconstruction	may be performed under	general anesthesia
+reconstruction	has potential risks and complications
+reconstruction	requires	wound healing
+reconstruction	can result in	scarring
+reconstruction	can result in	infection
+reconstruction	can result in	bleeding
+reconstruction	can result in	swelling
+reconstruction	can result in	pain
+reconstruction	can result in	numbness
+reconstruction	can result in	impaired eyelid function
+reconstruction	can result in	asymmetry
+reconstruction	can result in	graft or flap loss
+reconstruction	can result in	poor cosmetic outcome
+reconstruction	can improve	quality of life
+reconstruction	can restore	normal eyelid function
+reconstruction	can enhance	eyelid aesthetics
+reconstruction	may require	post-operative care
+reconstruction	may require	suture or staple removal
+reconstruction	may require	dressings or bandages
+reconstruction	may require	eye lubrication
+reconstruction	may require	eyelid massage
+reconstruction	may require	follow-up appointments
+reconstruction	may have	long-term effects
+reconstruction	may have	permanent results
+reconstruction	should be performed by	a qualified surgeon
+reconstruction	can be costly
+reconstruction	may be covered by	insurance
+reconstruction	can vary in	duration
+reconstruction	can vary in	complexity
+reconstruction	is tailored to	individual patient needs
+reconstruction	can be successful	in most cases

@@ -1,0 +1,85 @@
+other adjustment of lid position	is a	medical procedure
+other adjustment of lid position	used for	correcting lid position
+other adjustment of lid position	can improve	vision
+ptosis correction	is a type of	other adjustment of lid position
+ptosis correction	can enhance	appearance
+ptosis correction	can improve	self-esteem
+ptosis correction	can reduce	eye strain
+ptosis correction	can improve	field of vision
+ectropion repair	is a type of	other adjustment of lid position
+ectropion repair	can correct	eyelid sagging
+entropion repair	is a type of	other adjustment of lid position
+entropion repair	can correct	eyelid inward turning
+canthal suspension	is a type of	other adjustment of lid position
+canthal suspension	used for	eyelid retraction correction
+canthal suspension	can improve	eyelid function
+canthal suspension	can enhance	eye appearance
+canthoplasty	is a type of	other adjustment of lid position
+canthoplasty	used for	lateral canthal support
+canthoplasty	can strengthen	weakened canthal tendon
+canthoplasty	can improve	eyelid position
+blepharoplasty	is a type of	other adjustment of lid position
+blepharoplasty	used for	eyelid rejuvenation
+blepharoplasty	can remove	excess skin
+blepharoplasty	can reduce	puffiness
+blepharoplasty	can correct	bags under the eyes
+blepharoplasty	can improve	appearance
+blepharoptosis repair	is a type of	other adjustment of lid position
+blepharoptosis repair	used for	correcting droopy eyelids
+blepharoptosis repair	can improve	vision
+blepharoptosis repair	can enhance	appearance
+cantholysis	is a type of	other adjustment of lid position
+cantholysis	used for	canthal tendon dehiscence repair
+cantholysis	can reattach	detached canthal tendon
+cantholysis	can improve	eyelid position
+canthopexy	is a type of	other adjustment of lid position
+canthopexy	used for	lateral canthal support
+canthopexy	can strengthen	weakened canthal tendon
+canthopexy	can improve	eyelid position
+brow lift	is a type of	other adjustment of lid position
+brow lift	used for	eyebrow position correction
+brow lift	can elevate	sagging eyebrows
+brow lift	can improve	appearance
+orbicularis oculi muscle suspension	is a type of	other adjustment of lid position
+orbicularis oculi muscle suspension	used for	eyelid retraction correction
+orbicularis oculi muscle suspension	can enhance	eyelid opening
+orbicularis oculi muscle suspension	can improve	eyelid function
+orbicularis oculi muscle advancement	is a type of	other adjustment of lid position
+orbicularis oculi muscle advancement	used for	eyelid closure correction
+orbicularis oculi muscle advancement	can improve	eyelid closure
+orbicularis oculi muscle advancement	can enhance	eye protection
+levator muscle advancement	is a type of	other adjustment of lid position
+levator muscle advancement	used for	correcting ptosis
+levator muscle advancement	can improve	eyelid function
+levator muscle advancement	can enhance	vision
+levator muscle advancement	can improve	appearance
+levator muscle resection	is a type of	other adjustment of lid position
+levator muscle resection	used for	correcting ptosis
+levator muscle resection	can improve	eyelid function
+levator muscle resection	can enhance	vision
+levator muscle resection	can improve	appearance
+mullerectomy	is a type of	other adjustment of lid position
+mullerectomy	used for	eyelid retraction correction
+mullerectomy	can improve	eyelid position
+mullerectomy	can enhance	eye appearance
+punctal occlusion	is a type of	other adjustment of lid position
+punctal occlusion	used for	dry eye treatment
+punctal occlusion	can improve	tear film stability
+punctal occlusion	can reduce	eye dryness
+tarsorrhaphy	is a type of	other adjustment of lid position
+tarsorrhaphy	used for	eyelid closure augmentation
+tarsorrhaphy	can improve	eyelid closure
+tarsorrhaphy	can enhance	eye protection
+lid ptosis repair	is a type of	other adjustment of lid position
+lid ptosis repair	used for	correcting droopy eyelids
+lid ptosis repair	can improve	vision
+lid ptosis repair	can enhance	appearance
+upper eyelid blepharoplasty	is a type of	other adjustment of lid position
+upper eyelid blepharoplasty	used for	upper eyelid rejuvenation
+upper eyelid blepharoplasty	can remove	excess skin
+upper eyelid blepharoplasty	can enhance	eye appearance
+lower eyelid blepharoplasty	is a type of	other adjustment of lid position
+lower eyelid blepharoplasty	used for	lower eyelid rejuvenation
+lower eyelid blepharoplasty	can remove	fat deposits
+lower eyelid blepharoplasty	can reduce	bags under the eyes
+lower eyelid blepharoplasty	can improve	appearance

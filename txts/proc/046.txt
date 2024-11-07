@@ -1,0 +1,98 @@
+transposition of cranial nerves	is a	surgical procedure
+transposition of peripheral nerves	is a	surgical procedure
+transposition of cranial nerves	used for	nerve compression
+transposition of peripheral nerves	used for	nerve compression
+transposition of cranial nerves	can help with	pain management
+transposition of peripheral nerves	can help with	pain management
+nerve compression	can cause	numbness
+nerve compression	can cause	tingling
+nerve compression	can cause	weakness
+pain management	can involve	medication
+pain management	can involve	physical therapy
+pain management	can involve	nerve blocks
+numbness	can be a symptom of	nerve compression
+tingling	can be a symptom of	nerve compression
+weakness	can be a symptom of	nerve compression
+medication	can help with	pain management
+physical therapy	can help with	pain management
+nerve blocks	can help with	pain management
+nerve compression	can occur in	the spinal cord
+nerve compression	can occur in	the brain
+nerve compression	can occur in	the limbs
+medication	can involve	opioids
+medication	can involve	NSAIDs
+medication	can involve	antidepressants
+medication	can involve	anticonvulsants
+medication	can involve	muscle relaxants
+physical therapy	can involve	exercises
+physical therapy	can involve	stretching
+physical therapy	can involve	massage therapy
+physical therapy	can involve	electrical stimulation
+nerve blocks	can involve	local anesthetics
+nerve blocks	can involve	steroids
+nerve blocks	can involve	opioids
+nerve compression	can be caused by	tumors
+nerve compression	can be caused by	inflammation
+nerve compression	can be caused by	trauma
+nerve compression	can be caused by	degenerative diseases
+medication	can have side effects of	drowsiness
+medication	can have side effects of	nausea
+medication	can have side effects of	constipation
+medication	can have side effects of	dizziness
+medication	can have side effects of	dry mouth
+physical therapy	can be performed by	physical therapists
+physical therapy	can be performed by	occupational therapists
+physical therapy	can be performed by	chiropractors
+physical therapy	can be performed by	athletic trainers
+physical therapy	can be performed by	massage therapists
+massage therapy	can involve	deep tissue massage
+massage therapy	can involve	Swedish massage
+massage therapy	can involve	trigger point therapy
+massage therapy	can involve	hot stone massage
+nerve compression	can lead to	permanent damage
+nerve compression	can lead to	decreased mobility
+nerve compression	can lead to	muscle wasting
+nerve compression	can lead to	loss of sensation
+physical therapy	can be tailored to	individual needs
+physical therapy	can be tailored to	specific conditions
+physical therapy	can be tailored to	patient goals
+physical therapy	can be tailored to	functional abilities
+physical therapy	can be tailored to	pain levels
+nerve compression	can be diagnosed using	imaging tests
+nerve compression	can be diagnosed using	nerve conduction studies
+nerve compression	can be diagnosed using	electromyography
+nerve compression	can be diagnosed using	physical examination
+physical therapy	can be done in	outpatient settings
+physical therapy	can be done in	inpatient settings
+physical therapy	can be done in	home settings
+physical therapy	can be done in	clinic settings
+physical therapy	can be done in	virtual settings
+nerve compression	can be treated with	surgical intervention
+nerve compression	can be treated with	conservative treatment
+nerve compression	can be treated with	medication
+nerve compression	can be treated with	physical therapy
+nerve compression	can be treated with	nerve blocks
+nerve compression	can be treated with	radiofrequency ablation
+nerve compression	can be treated with	acupuncture
+nerve compression	can be treated with	chiropractic adjustments
+nerve compression	can be treated with	massage therapy
+nerve compression	can be caused by	herniated discs
+nerve compression	can be caused by	spinal stenosis
+nerve compression	can be caused by	carpal tunnel syndrome
+nerve compression	can be caused by	cubital tunnel syndrome
+nerve compression	can be caused by	sciatica
+physical therapy	can be beneficial for	post-surgical recovery
+physical therapy	can be beneficial for	pain relief
+physical therapy	can be beneficial for	improving range of motion
+physical therapy	can be beneficial for	strengthening muscles
+physical therapy	can be beneficial for	improving balance
+nerve compression	can lead to	disability
+nerve compression	can lead to	reduced quality of life
+nerve compression	can lead to	decreased independence
+nerve compression	can lead to	depression
+nerve compression	can lead to	anxiety
+physical therapy	can help with	rehabilitation
+physical therapy	can help with	preventing further injury
+physical therapy	can help with	reducing pain
+physical therapy	can help with	restoring function
+physical therapy	can help with	improving mobility

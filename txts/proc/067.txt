@@ -1,0 +1,80 @@
+excision	is a	surgical procedure
+thyroglossal duct	is a	anatomical structure
+thyroglossal tract	is a	anatomical structure
+excision	can treat	thyroglossal duct cyst
+excision	can remove	thyroglossal tract
+excision	may require	general anesthesia
+excision	performed by	surgeon
+excision	has risks of	infection
+excision	has risks of	bleeding
+excision	has risks of	scarring
+excision	may result in	voice changes
+excision	may result in	difficulty swallowing
+excision	may result in	numbness
+excision	may result in	recurrence
+excision	may result in	seroma formation
+excision	may result in	hematoma formation
+excision	may result in	damage to nearby structures
+excision	can be performed using	minimally invasive techniques
+excision	can be performed using	open surgery
+excision	can be performed using	robotic surgery
+excision	can be performed using	laser surgery
+excision	can be performed using	endoscopic techniques
+excision	can be performed using	laparoscopic techniques
+excision	can be performed using	microsurgical techniques
+excision	is indicated for	symptomatic thyroglossal duct cyst
+excision	is indicated for	infected thyroglossal duct cyst
+excision	is indicated for	suspicious thyroglossal duct cyst
+excision	is indicated for	swelling in the neck
+excision	is contraindicated in	unfit surgical candidates
+excision	is contraindicated in	patients with active infection
+excision	is contraindicated in	patients with bleeding disorders
+excision	is contraindicated in	patients with extensive scarring
+excision	is contraindicated in	patients with uncontrolled comorbidities
+excision	has a success rate of	high
+excision	has a success rate of	low
+excision	has a success rate of	moderate
+excision	has a success rate of	variable
+excision	requires	preoperative evaluation
+excision	requires	postoperative follow-up
+excision	should be performed by	experienced surgeons
+excision	can be combined with	thyroidectomy
+excision	can be combined with	neck dissection
+excision	can be combined with	lymph node biopsy
+excision	can be combined with	fine needle aspiration
+excision	is associated with	postoperative pain
+excision	is associated with	wound healing
+excision	is associated with	cosmetic outcomes
+excision	is associated with	patient satisfaction
+excision	may lead to	hypothyroidism
+excision	may lead to	hyperthyroidism
+excision	may lead to	functional voice impairment
+excision	should be followed by	histopathological examination
+excision	requires	rehabilitation
+excision	involves	dissection of surrounding tissues
+excision	involves	closure of the surgical wound
+excision	involves	removal of thyroglossal duct remnants
+excision	involves	placement of drains
+excision	involves	administration of anesthesia
+excision	involves	hemostasis techniques
+excision	involves	wound care
+excision	involves	monitoring for complications
+excision	may require	hospitalization
+excision	may require	outpatient care
+excision	may require	pain management
+excision	may require	physical therapy
+excision	may require	speech therapy
+excision	may require	dietary modifications
+excision	may require	postoperative imaging
+excision	may require	follow-up biopsies
+excision	can result in	complete remission
+excision	can result in	partial remission
+excision	can result in	no remission
+excision	can result in	complications
+excision	can result in	improved quality of life
+excision	can result in	reduced symptoms
+excision	can result in	improved functional outcomes
+excision	can result in	improved cosmetic outcomes
+excision	can result in	improved psychological well-being
+excision	can result in	decreased recurrence rates
+excision	can result in	decreased mortality rates

@@ -1,0 +1,100 @@
+Electronic Health Record
+Patient Demographics
+Vital Signs
+Bedside Measurements
+Laboratory Tests
+Clinical Procedures
+Medication Administration
+Caregiver Notes
+Imaging Reports
+Mortality Prediction
+Post-hospital Discharge
+Critical Care Units
+Health-related Data
+Patient History
+Admission Records
+Time Series Data
+Time-stamped Records
+Data De-identification
+Patient Identifiers
+Patient Monitoring
+Comorbidities
+Severity of Illness
+Diagnosis Codes
+International Classification of Diseases
+Intensive Care Unit
+Medical Interventions
+Drug Administration
+Medication Dosages
+Prescription Patterns
+Drug Interactions
+Medication History
+Adverse Drug Reactions
+Therapeutic Interventions
+Blood Pressure
+Heart Rate
+Respiratory Rate
+Oxygen Saturation
+Temperature
+Glasgow Coma Scale
+Blood Gas Analysis
+Fluid Balance
+Blood Chemistry
+Hematological Parameters
+Radiology Reports
+Imaging Studies
+Radiographic Findings
+Electrocardiogram Data
+Electroencephalogram Data
+Neurological Assessments
+Cognitive Function
+Patient Outcomes
+Length of Stay
+Hospital Readmission
+Discharge Planning
+Healthcare Utilization
+Follow-up Care
+Healthcare Providers
+Nursing Notes
+Physician Orders
+Speech Recognition
+Natural Language Processing
+Machine Learning Models
+Predictive Analytics
+Feature Engineering
+Model Interpretability
+Data Preprocessing
+Missing Data Handling
+Imputation Techniques
+Feature Selection
+Model Validation
+Model Calibration
+Evaluation Metrics
+Sensitivity and Specificity
+Receiver Operating Characteristic Curve
+Area Under the Curve
+Precision-Recall Curve
+Confusion Matrix
+Risk Stratification
+Early Warning Scores
+Severity Scores
+Apache II Score
+SOFA Score
+Charlson Comorbidity Index
+Readmission Risk
+Mortality Risk
+Patient Stratification
+Feature Importance
+Data Fusion
+Cross-validation
+Ensemble Learning
+Transfer Learning
+Explainable AI
+Model Generalization
+External Validation
+Cohort Analysis
+Patient Clustering
+Temporal Trends
+Data Privacy
+Health Informatics
+Clinical Decision Support Systems

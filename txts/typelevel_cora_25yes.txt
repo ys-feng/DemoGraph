@@ -1,0 +1,25 @@
+Markov Decision Processes (MDPs)
+Q-learning
+Policy Gradient Methods
+Temporal Difference Learning
+Deep Reinforcement Learning
+Monte Carlo Methods
+Actor-Critic Algorithms
+Exploration vs. Exploitation
+Value Function Approximation
+Bellman Equation
+SARSA (State-Action-Reward-State-Action)
+Environment Modeling
+Reward Shaping
+Off-Policy Learning
+On-Policy Learning
+Policy Iteration
+Value Iteration
+Deep Deterministic Policy Gradient
+Soft Actor-Critic
+Reinforcement Learning in Games
+Model-Based Reinforcement Learning
+Model-Free Reinforcement Learning
+Multi-Agent Reinforcement Learning
+Transfer Learning in Reinforcement Learning
+Meta-Learning in Reinforcement Learning

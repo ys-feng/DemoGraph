@@ -1,0 +1,200 @@
+Intubation	newrelationship	Mechanical Ventilation
+Intubation	newrelationship	Central Venous Catheterization
+Mechanical Ventilation	newrelationship	Central Venous Catheterization
+Mechanical Ventilation	newrelationship	Hemodialysis
+Central Venous Catheterization	newrelationship	Hemodialysis
+Central Venous Catheterization	newrelationship	Cardiopulmonary Resuscitation (CPR)
+Hemodialysis	newrelationship	Cardiopulmonary Resuscitation (CPR)
+Hemodialysis	newrelationship	Tracheostomy
+Cardiopulmonary Resuscitation (CPR)	newrelationship	Tracheostomy
+Cardiopulmonary Resuscitation (CPR)	newrelationship	Blood Transfusion
+Tracheostomy	newrelationship	Blood Transfusion
+Tracheostomy	newrelationship	Surgical Drain Management
+Blood Transfusion	newrelationship	Surgical Drain Management
+Blood Transfusion	newrelationship	Parenteral Nutrition
+Surgical Drain Management	newrelationship	Parenteral Nutrition
+Surgical Drain Management	newrelationship	Enteral Nutrition
+Parenteral Nutrition	newrelationship	Enteral Nutrition
+Parenteral Nutrition	newrelationship	Antibiotics
+Enteral Nutrition	newrelationship	Antibiotics
+Enteral Nutrition	newrelationship	Anticoagulants
+Antibiotics	newrelationship	Anticoagulants
+Antibiotics	newrelationship	Vasopressors
+Anticoagulants	newrelationship	Vasopressors
+Anticoagulants	newrelationship	Diuretics
+Vasopressors	newrelationship	Diuretics
+Vasopressors	newrelationship	Insulin Therapy
+Diuretics	newrelationship	Insulin Therapy
+Diuretics	newrelationship	Analgesics
+Insulin Therapy	newrelationship	Analgesics
+Insulin Therapy	newrelationship	Sedatives
+Analgesics	newrelationship	Sedatives
+Analgesics	newrelationship	Antiarrhythmics
+Sedatives	newrelationship	Antiarrhythmics
+Sedatives	newrelationship	Antihypertensives
+Antiarrhythmics	newrelationship	Antihypertensives
+Antiarrhythmics	newrelationship	Steroids
+Antihypertensives	newrelationship	Steroids
+Antihypertensives	newrelationship	Complete Blood Count (CBC)
+Steroids	newrelationship	Complete Blood Count (CBC)
+Steroids	newrelationship	Blood Chemistry Panel
+Complete Blood Count (CBC)	newrelationship	Blood Chemistry Panel
+Complete Blood Count (CBC)	newrelationship	Arterial Blood Gases (ABG)
+Blood Chemistry Panel	newrelationship	Arterial Blood Gases (ABG)
+Blood Chemistry Panel	newrelationship	Echocardiogram
+Arterial Blood Gases (ABG)	newrelationship	Echocardiogram
+Arterial Blood Gases (ABG)	newrelationship	Electrocardiogram (ECG)
+Echocardiogram	newrelationship	Electrocardiogram (ECG)
+Echocardiogram	newrelationship	Chest X-Ray
+Electrocardiogram (ECG)	newrelationship	Chest X-Ray
+Electrocardiogram (ECG)	newrelationship	CT Scan
+Chest X-Ray	newrelationship	CT Scan
+Chest X-Ray	newrelationship	MRI
+CT Scan	newrelationship	MRI
+CT Scan	newrelationship	Ultrasound
+MRI	newrelationship	Ultrasound
+MRI	newrelationship	Microbiological Cultures
+Ultrasound	newrelationship	Microbiological Cultures
+Ultrasound	newrelationship	Age
+Microbiological Cultures	newrelationship	Age
+Microbiological Cultures	newrelationship	Gender
+Age	newrelationship	Gender
+Age	newrelationship	Medical History
+Gender	newrelationship	Medical History
+Gender	newrelationship	Surgical History
+Medical History	newrelationship	Surgical History
+Medical History	newrelationship	Body Mass Index (BMI)
+Surgical History	newrelationship	Body Mass Index (BMI)
+Surgical History	newrelationship	Sepsis
+Body Mass Index (BMI)	newrelationship	Sepsis
+Body Mass Index (BMI)	newrelationship	Acute Respiratory Distress Syndrome (ARDS)
+Sepsis	newrelationship	Acute Respiratory Distress Syndrome (ARDS)
+Sepsis	newrelationship	Myocardial Infarction
+Acute Respiratory Distress Syndrome (ARDS)	newrelationship	Myocardial Infarction
+Acute Respiratory Distress Syndrome (ARDS)	newrelationship	Stroke
+Myocardial Infarction	newrelationship	Stroke
+Myocardial Infarction	newrelationship	Diabetes Mellitus
+Stroke	newrelationship	Diabetes Mellitus
+Stroke	newrelationship	Chronic Kidney Disease
+Diabetes Mellitus	newrelationship	Chronic Kidney Disease
+Diabetes Mellitus	newrelationship	Liver Cirrhosis
+Chronic Kidney Disease	newrelationship	Liver Cirrhosis
+Chronic Kidney Disease	newrelationship	Heart Failure
+Liver Cirrhosis	newrelationship	Heart Failure
+Liver Cirrhosis	newrelationship	Pneumonia
+Heart Failure	newrelationship	Pneumonia
+Heart Failure	newrelationship	COPD
+Pneumonia	newrelationship	COPD
+Pneumonia	newrelationship	Hypertension
+COPD	newrelationship	Hypertension
+COPD	newrelationship	Atrial Fibrillation
+Hypertension	newrelationship	Atrial Fibrillation
+Hypertension	newrelationship	Deep Vein Thrombosis
+Atrial Fibrillation	newrelationship	Deep Vein Thrombosis
+Atrial Fibrillation	newrelationship	Pulmonary Embolism
+Deep Vein Thrombosis	newrelationship	Pulmonary Embolism
+Deep Vein Thrombosis	newrelationship	Gastrointestinal Bleed
+Pulmonary Embolism	newrelationship	Gastrointestinal Bleed
+Pulmonary Embolism	newrelationship	Electronic Health Records (EHR)
+Gastrointestinal Bleed	newrelationship	Electronic Health Records (EHR)
+Gastrointestinal Bleed	newrelationship	Clinical Decision Support Systems
+Electronic Health Records (EHR)	newrelationship	Clinical Decision Support Systems
+Electronic Health Records (EHR)	newrelationship	Predictive Modeling
+Clinical Decision Support Systems	newrelationship	Predictive Modeling
+Clinical Decision Support Systems	newrelationship	Machine Learning in Healthcare
+Predictive Modeling	newrelationship	Machine Learning in Healthcare
+Predictive Modeling	newrelationship	Natural Language Processing (NLP)
+Machine Learning in Healthcare	newrelationship	Natural Language Processing (NLP)
+Machine Learning in Healthcare	newrelationship	Data Privacy and Security
+Natural Language Processing (NLP)	newrelationship	Data Privacy and Security
+Natural Language Processing (NLP)	newrelationship	Health Informatics
+Data Privacy and Security	newrelationship	Health Informatics
+Data Privacy and Security	newrelationship	Big Data Analytics
+Health Informatics	newrelationship	Big Data Analytics
+Health Informatics	newrelationship	Patient Data Standardization
+Big Data Analytics	newrelationship	Patient Data Standardization
+Big Data Analytics	newrelationship	Pain Management
+Patient Data Standardization	newrelationship	Pain Management
+Patient Data Standardization	newrelationship	Nutrition Management
+Pain Management	newrelationship	Nutrition Management
+Pain Management	newrelationship	Infection Control
+Nutrition Management	newrelationship	Infection Control
+Nutrition Management	newrelationship	Pressure Ulcer Prevention
+Infection Control	newrelationship	Pressure Ulcer Prevention
+Infection Control	newrelationship	Rehabilitation Services
+Pressure Ulcer Prevention	newrelationship	Rehabilitation Services
+Pressure Ulcer Prevention	newrelationship	Palliative Care
+Rehabilitation Services	newrelationship	Palliative Care
+Rehabilitation Services	newrelationship	Patient Education
+Palliative Care	newrelationship	Patient Education
+Palliative Care	newrelationship	Discharge Planning
+Patient Education	newrelationship	Discharge Planning
+Patient Education	newrelationship	Mental Health Care
+Discharge Planning	newrelationship	Mental Health Care
+Discharge Planning	newrelationship	Clinical Guidelines
+Mental Health Care	newrelationship	Clinical Guidelines
+Mental Health Care	newrelationship	Patient Safety
+Clinical Guidelines	newrelationship	Patient Safety
+Clinical Guidelines	newrelationship	Medication Errors
+Patient Safety	newrelationship	Medication Errors
+Patient Safety	newrelationship	Infection Rates
+Medication Errors	newrelationship	Infection Rates
+Medication Errors	newrelationship	Clinical Audit
+Infection Rates	newrelationship	Clinical Audit
+Infection Rates	newrelationship	Nursing Assessments
+Clinical Audit	newrelationship	Nursing Assessments
+Clinical Audit	newrelationship	Physical Therapy
+Nursing Assessments	newrelationship	Physical Therapy
+Nursing Assessments	newrelationship	Respiratory Therapy
+Physical Therapy	newrelationship	Respiratory Therapy
+Physical Therapy	newrelationship	Dialysis Management
+Respiratory Therapy	newrelationship	Dialysis Management
+Respiratory Therapy	newrelationship	Wound Care Nursing
+Dialysis Management	newrelationship	Wound Care Nursing
+Dialysis Management	newrelationship	Critical Care Nursing
+Wound Care Nursing	newrelationship	Critical Care Nursing
+Wound Care Nursing	newrelationship	Oncology
+Critical Care Nursing	newrelationship	Oncology
+Critical Care Nursing	newrelationship	Nephrology
+Oncology	newrelationship	Nephrology
+Oncology	newrelationship	Cardiology
+Nephrology	newrelationship	Cardiology
+Nephrology	newrelationship	Neurology
+Cardiology	newrelationship	Neurology
+Cardiology	newrelationship	Infectious Diseases
+Neurology	newrelationship	Infectious Diseases
+Neurology	newrelationship	Endocrinology
+Infectious Diseases	newrelationship	Endocrinology
+Infectious Diseases	newrelationship	Gastroenterology
+Endocrinology	newrelationship	Gastroenterology
+Endocrinology	newrelationship	Pulmonology
+Gastroenterology	newrelationship	Pulmonology
+Gastroenterology	newrelationship	Informed Consent
+Pulmonology	newrelationship	Informed Consent
+Pulmonology	newrelationship	Patient Confidentiality
+Informed Consent	newrelationship	Patient Confidentiality
+Informed Consent	newrelationship	Ethical Dilemmas in Healthcare
+Patient Confidentiality	newrelationship	Ethical Dilemmas in Healthcare
+Patient Confidentiality	newrelationship	Telemedicine
+Ethical Dilemmas in Healthcare	newrelationship	Telemedicine
+Ethical Dilemmas in Healthcare	newrelationship	Wearable Health Devices
+Telemedicine	newrelationship	Wearable Health Devices
+Telemedicine	newrelationship	Genomic Medicine
+Wearable Health Devices	newrelationship	Genomic Medicine
+Wearable Health Devices	newrelationship	Personalized Medicine
+Genomic Medicine	newrelationship	Personalized Medicine
+Genomic Medicine	newrelationship	AI in Diagnostic Imaging
+Personalized Medicine	newrelationship	AI in Diagnostic Imaging
+Personalized Medicine	newrelationship	Disease Surveillance
+AI in Diagnostic Imaging	newrelationship	Disease Surveillance
+AI in Diagnostic Imaging	newrelationship	Health Disparities
+Disease Surveillance	newrelationship	Health Disparities
+Disease Surveillance	newrelationship	Epidemiological Studies
+Health Disparities	newrelationship	Epidemiological Studies
+Health Disparities	newrelationship	Public Health Policy
+Epidemiological Studies	newrelationship	Public Health Policy
+Epidemiological Studies	newrelationship	Social Determinants of Health
+Public Health Policy	newrelationship	Social Determinants of Health
+Public Health Policy	newrelationship	Intubation
+Social Determinants of Health	newrelationship	Intubation
+Social Determinants of Health	newrelationship	Mechanical Ventilation

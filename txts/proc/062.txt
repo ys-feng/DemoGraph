@@ -1,0 +1,24 @@
+unilateral thyroid lobectomy	is a	surgical procedure
+unilateral thyroid lobectomy	used for	treatment
+thyroid gland	is located in	neck
+thyroid gland	produces	hormones
+unilateral thyroid lobectomy	removes	one lobe of thyroid gland
+unilateral thyroid lobectomy	can be performed for	benign tumors
+unilateral thyroid lobectomy	can be performed for	thyroid cancer
+unilateral thyroid lobectomy	can result in	hypothyroidism
+hypothyroidism	requires	hormone replacement therapy
+unilateral thyroid lobectomy	can lead to	voice changes
+unilateral thyroid lobectomy	can lead to	temporary or permanent nerve damage
+unilateral thyroid lobectomy	may cause	scar formation
+unilateral thyroid lobectomy	is performed under	general anesthesia
+unilateral thyroid lobectomy	has a	recovery period
+unilateral thyroid lobectomy	can have	complications
+unilateral thyroid lobectomy	can result in	excessive bleeding
+unilateral thyroid lobectomy	can result in	infection
+unilateral thyroid lobectomy	can result in	damage to surrounding structures
+unilateral thyroid lobectomy	can result in	blood clot formation
+unilateral thyroid lobectomy	can result in	difficulty speaking
+unilateral thyroid lobectomy	can result in	difficulty swallowing
+unilateral thyroid lobectomy	can result in	hoarseness
+unilateral thyroid lobectomy	can result in	pain and discomfort
+unilateral thyroid lobectomy	can result in	hypocalcemia

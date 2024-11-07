@@ -1,0 +1,143 @@
+sympathectomy	is a	surgical procedure
+ganglionectomy	is a	surgical procedure
+sympathectomy	used for	excessive sweating treatment
+sympathectomy	used for	Raynaud's disease treatment
+sympathectomy	used for	complex regional pain syndrome treatment
+sympathectomy	used for	hyperhidrosis treatment
+sympathectomy	used for	panic disorder treatment
+sympathectomy	used for	angina treatment
+sympathectomy	used for	peripheral vascular disease treatment
+sympathectomy	used for	vascular insufficiency treatment
+sympathectomy	used for	hyperhidrosis treatment
+ganglionectomy	used for	nerve pain relief
+ganglionectomy	used for	trigeminal neuralgia treatment
+ganglionectomy	used for	cluster headache treatment
+ganglionectomy	used for	facial pain relief
+ganglionectomy	used for	cancer pain relief
+ganglionectomy	used for	chronic pain relief
+ganglionectomy	used for	neuropathic pain relief
+ganglionectomy	used for	postherpetic neuralgia treatment
+ganglionectomy	used for	phantom limb pain relief
+ganglionectomy	used for	spinal cord injury pain relief
+ganglionectomy	used for	pelvic pain relief
+ganglionectomy	used for	occipital neuralgia treatment
+ganglionectomy	used for	neuralgia treatment
+ganglionectomy	used for	chronic migraine treatment
+ganglionectomy	used for	intercostal neuralgia treatment
+ganglionectomy	used for	chronic pelvic pain syndrome treatment
+ganglionectomy	used for	neuropathy treatment
+ganglionectomy	used for	peripheral neuropathy treatment
+ganglionectomy	used for	diabetic neuropathy treatment
+ganglionectomy	used for	brachial plexus injury pain relief
+ganglionectomy	used for	reflex sympathetic dystrophy treatment
+ganglionectomy	used for	thoracic outlet syndrome treatment
+ganglionectomy	used for	post-traumatic neuralgia treatment
+ganglionectomy	used for	sphenopalatine ganglion neuralgia treatment
+ganglionectomy	used for	head and neck pain relief
+ganglionectomy	used for	glossopharyngeal neuralgia treatment
+ganglionectomy	used for	occipital nerve stimulation
+ganglionectomy	used for	hypohidrosis treatment
+ganglionectomy	used for	pain management
+ganglionectomy	used for	chronic daily headache treatment
+ganglionectomy	used for	facial flushing treatment
+ganglionectomy	used for	central pain syndrome treatment
+ganglionectomy	used for	chronic regional pain syndrome treatment
+ganglionectomy	used for	chronic intractable headache treatment
+ganglionectomy	used for	intractable angina pectoris treatment
+ganglionectomy	used for	peripheral nerve injury pain relief
+ganglionectomy	used for	hyperhidrosis treatment
+ganglionectomy	used for	chronic pelvic pain treatment
+ganglionectomy	used for	relief from chronic facial pain
+ganglionectomy	used for	brachial plexopathy treatment
+ganglionectomy	used for	phantom limb pain relief
+ganglionectomy	used for	chronic daily headache treatment
+ganglionectomy	used for	migraines
+ganglionectomy	used for	pain in multiple sclerosis
+ganglionectomy	used for	post-herpetic neuralgia
+ganglionectomy	used for	cluster headaches
+ganglionectomy	used for	trigeminal neuralgia
+ganglionectomy	used for	reflex sympathetic dystrophy
+ganglionectomy	used for	vascular insufficiency
+ganglionectomy	used for	complex regional pain syndrome
+ganglionectomy	used for	intercostal neuralgia
+ganglionectomy	used for	sphenopalatine ganglion neuralgia
+ganglionectomy	used for	thoracic outlet syndrome
+ganglionectomy	used for	carpal tunnel syndrome
+ganglionectomy	used for	occipital neuralgia
+ganglionectomy	used for	peripheral vascular disease
+ganglionectomy	used for	peripheral neuropathy
+ganglionectomy	used for	diabetic neuropathy
+ganglionectomy	used for	glossopharyngeal neuralgia
+ganglionectomy	used for	chronic pain
+ganglionectomy	used for	vascular insufficiency treatment
+ganglionectomy	used for	thoracic outlet syndrome treatment
+ganglionectomy	used for	relief from chronic facial pain
+ganglionectomy	used for	brachial plexopathy treatment
+ganglionectomy	used for	autonomic disorders
+ganglionectomy	used for	chronic headache
+ganglionectomy	used for	shoulder pain
+ganglionectomy	used for	cancer pain
+ganglionectomy	used for	nerve pain
+ganglionectomy	used for	nerve damage
+ganglionectomy	used for	pain after surgery
+ganglionectomy	used for	spinal cord injury
+ganglionectomy	used for	cluster headache treatment
+ganglionectomy	used for	facial pain relief
+ganglionectomy	used for	occipital neuralgia treatment
+ganglionectomy	used for	intercostal neuralgia treatment
+ganglionectomy	used for	chronic pelvic pain syndrome treatment
+ganglionectomy	used for	neuropathy treatment
+ganglionectomy	used for	peripheral neuropathy treatment
+ganglionectomy	used for	diabetic neuropathy treatment
+ganglionectomy	used for	brachial plexus injury pain relief
+ganglionectomy	used for	reflex sympathetic dystrophy treatment
+ganglionectomy	used for	thoracic outlet syndrome treatment
+ganglionectomy	used for	post-traumatic neuralgia treatment
+ganglionectomy	used for	sphenopalatine ganglion neuralgia treatment
+ganglionectomy	used for	head and neck pain relief
+ganglionectomy	used for	glossopharyngeal neuralgia treatment
+ganglionectomy	used for	occipital nerve stimulation
+ganglionectomy	used for	hypohidrosis treatment
+ganglionectomy	used for	pain management
+ganglionectomy	used for	chronic daily headache treatment
+ganglionectomy	used for	facial flushing treatment
+ganglionectomy	used for	central pain syndrome treatment
+ganglionectomy	used for	chronic regional pain syndrome treatment
+ganglionectomy	used for	chronic intractable headache treatment
+ganglionectomy	used for	intractable angina pectoris treatment
+ganglionectomy	used for	peripheral nerve injury pain relief
+ganglionectomy	used for	chronic pelvic pain treatment
+ganglionectomy	used for	relief from chronic facial pain
+ganglionectomy	used for	brachial plexopathy treatment
+ganglionectomy	used for	phantom limb pain relief
+ganglionectomy	used for	chronic daily headache treatment
+ganglionectomy	used for	migraines
+ganglionectomy	used for	pain in multiple sclerosis
+ganglionectomy	used for	post-herpetic neuralgia
+ganglionectomy	used for	cluster headaches
+ganglionectomy	used for	trigeminal neuralgia
+ganglionectomy	used for	reflex sympathetic dystrophy
+ganglionectomy	used for	vascular insufficiency
+ganglionectomy	used for	complex regional pain syndrome
+ganglionectomy	used for	intercostal neuralgia
+ganglionectomy	used for	sphenopalatine ganglion neuralgia
+ganglionectomy	used for	thoracic outlet syndrome
+ganglionectomy	used for	carpal tunnel syndrome
+ganglionectomy	used for	occipital neuralgia
+ganglionectomy	used for	peripheral vascular disease
+ganglionectomy	used for	peripheral neuropathy
+ganglionectomy	used for	diabetic neuropathy
+ganglionectomy	used for	glossopharyngeal neuralgia
+ganglionectomy	used for	chronic pain
+ganglionectomy	used for	vascular insufficiency treatment
+ganglionectomy	used for	thoracic outlet syndrome treatment
+ganglionectomy	used for	relief from chronic facial pain
+ganglionectomy	used for	brachial plexopathy treatment
+ganglionectomy	used for	autonomic disorders
+ganglionectomy	used for	chronic headache
+ganglionectomy	used for	shoulder pain
+ganglionectomy	used for	cancer pain
+ganglionectomy	used for	nerve pain
+ganglionectomy	used for	nerve damage
+ganglionectomy	used for	pain after surgery
+ganglionectomy	used for	spinal cord injury

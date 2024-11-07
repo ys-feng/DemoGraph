@@ -1,0 +1,8 @@
+biopsy	is a	medical procedure
+biopsy	can be used for	diagnosis
+biopsy	can be performed on	cranial nerve
+biopsy	can be performed on	peripheral nerve
+biopsy	can be performed on	ganglion
+cranial nerve biopsy	can be performed using	closed percutaneous needle biopsy
+peripheral nerve biopsy	can be performed using	closed percutaneous needle biopsy
+ganglion biopsy	can be performed using	closed percutaneous needle biopsy

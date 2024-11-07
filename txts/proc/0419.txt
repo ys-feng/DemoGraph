@@ -1,0 +1,76 @@
+diagnostic procedures	on	nerves
+diagnostic procedures	on	ganglia
+diagnostic procedures	on	cranial nerves
+diagnostic procedures	on	peripheral nerves
+cranial nerves	are part of	nerves
+cranial nerves	control	various functions
+peripheral nerves	are part of	nerves
+peripheral nerves	control	sensory and motor functions
+ganglia	are part of	nerves
+ganglia	control	autonomic functions
+diagnostic procedures	can detect	nerve damage
+diagnostic procedures	can detect	nerve compression
+diagnostic procedures	can detect	nerve inflammation
+diagnostic procedures	can detect	nerve tumors
+diagnostic procedures	can detect	nerve disorders
+diagnostic procedures	can detect	nerve injuries
+diagnostic procedures	can detect	nerve abnormalities
+nerve damage	can cause	numbness
+nerve damage	can cause	weakness
+nerve damage	can cause	pain
+nerve damage	can cause	loss of sensation
+nerve damage	can cause	muscle weakness
+nerve compression	can cause	tingling
+nerve compression	can cause	numbness
+nerve compression	can cause	weakness
+nerve compression	can cause	pain
+nerve compression	can cause	muscle atrophy
+nerve compression	can cause	loss of function
+nerve inflammation	can cause	pain
+nerve inflammation	can cause	swelling
+nerve inflammation	can cause	sensitivity
+nerve inflammation	can cause	tingling
+nerve tumors	can cause	pain
+nerve tumors	can cause	numbness
+nerve tumors	can cause	weakness
+nerve tumors	can cause	loss of function
+nerve disorders	can cause	pain
+nerve disorders	can cause	weakness
+nerve disorders	can cause	loss of function
+nerve disorders	can cause	numbness
+nerve injuries	can cause	pain
+nerve injuries	can cause	loss of function
+nerve injuries	can cause	weakness
+nerve injuries	can cause	numbness
+nerve abnormalities	can cause	pain
+nerve abnormalities	can cause	weakness
+nerve abnormalities	can cause	loss of function
+nerve abnormalities	can cause	numbness
+diagnostic procedures	can help	determine treatment options
+diagnostic procedures	can help	monitor disease progression
+diagnostic procedures	can help	guide surgical interventions
+diagnostic procedures	can help	assess treatment effectiveness
+diagnostic procedures	can help	evaluate nerve function
+diagnostic procedures	can help	identify underlying causes
+diagnostic procedures	can help	rule out other conditions
+diagnostic procedures	can help	provide a diagnosis
+diagnostic procedures	are performed using	imaging techniques
+diagnostic procedures	are performed using	electrical tests
+diagnostic procedures	are performed using	nerve stimulation
+diagnostic procedures	are performed using	local anesthetics
+diagnostic procedures	are performed using	needle electrodes
+diagnostic procedures	are performed using	contrast agents
+diagnostic procedures	are performed using	video monitoring
+diagnostic procedures	are performed using	microscopic examination
+diagnostic procedures	are performed using	biopsy
+diagnostic procedures	are performed using	surgical exploration
+imaging techniques	can detect	nerve abnormalities
+electrical tests	can assess	nerve function
+nerve stimulation	can identify	nerve damage
+local anesthetics	can assess	nerve sensitivity
+needle electrodes	can measure	nerve conduction
+contrast agents	can enhance	visualization
+video monitoring	can assess	nerve responses
+microscopic examination	can detect	cellular changes
+biopsy	can provide	tissue samples
+surgical exploration	can identify	structural abnormalities

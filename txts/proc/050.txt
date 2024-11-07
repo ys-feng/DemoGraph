@@ -1,0 +1,135 @@
+division	is a	medical procedure
+division	performed on	sympathetic nerve or ganglion
+division	used for	pain management
+division	can alleviate	chronic pain
+division	can be done	surgically
+division	requires	anesthesia
+division	has	risks
+division	may cause	nerve damage
+division	may result in	bleeding
+division	may lead to	infection
+division	may require	follow-up care
+division	should be performed by	a qualified specialist
+division	requires	informed consent
+division	can be	effective
+division	may not be	a permanent solution
+division	may need to be	repeated
+division	is	invasive
+division	is	a last-resort treatment
+division	is	not suitable for everyone
+division	may have	side effects
+division	is	experimental in some cases
+division	is	covered by insurance
+division	may require	pre-authorization
+division	can be	expensive
+division	may be	time-consuming
+division	is	considered safe
+division	is	a specialized procedure
+division	is	performed by a surgeon
+division	is performed	under imaging guidance
+division	can be done	on various body parts
+division	is	minimally invasive
+division	has	high success rate
+division	is	a well-established procedure
+division	may be	combined with other treatments
+division	may require	hospitalization
+division	may be	outpatient procedure
+division	involves	cutting or blocking the nerves
+division	interrupts	pain signals
+division	may result in	numbness
+division	may improve	quality of life
+division	may allow	for reduced medication
+division	can provide	temporary relief
+division	may require	physical therapy
+division	may require	rehabilitation
+division	may cause	changes in sensation
+division	can be	an effective alternative to surgery
+division	may involve	radiofrequency ablation
+division	should be	discussed with a healthcare provider
+division	may be	customized to individual needs
+division	can be	a part of a comprehensive pain management plan
+division	may have	long-term benefits
+division	may have	short-term effects
+division	can be	a life-changing treatment
+division	may result in	improved functionality
+division	can be	life-saving
+division	may be	recommended after other treatments fail
+division	requires	follow-up appointments
+division	may take	time to see results
+division	can be	performed as an outpatient
+division	may require	a hospital stay
+division	can be	a major surgery
+division	may have	psychological impact
+division	may be	performed laparoscopically
+division	may be	performed robotically
+division	can be	a minimally invasive procedure
+division	may be	a treatment option for certain conditions
+division	may be	a treatment option for cancer
+division	may be	a treatment option for chronic migraines
+division	may be	a treatment option for trigeminal neuralgia
+division	may be	a treatment option for pelvic pain
+division	may be	a treatment option for refractory hypertension
+division	may be	a treatment option for complex regional pain syndrome
+division	may be	a treatment option for phantom limb pain
+division	may be	a treatment option for dystonia
+division	may be	a treatment option for spasticity
+division	may be	a treatment option for essential tremor
+division	may be	a treatment option for tremor associated with Parkinson's disease
+division	may be	a treatment option for excessive sweating
+division	may be	a treatment option for gastroesophageal reflux disease
+division	may be	a treatment option for low back pain
+division	may be	a treatment option for bladder dysfunction
+division	may be	a treatment option for blood pressure control
+division	may be	a treatment option for overactive bladder
+division	may be	a treatment option for heart rhythm disorders
+division	may be	a treatment option for facial pain
+division	may be	a treatment option for chronic constipation
+division	may be	a treatment option for ventricular tachycardia
+division	may be	a treatment option for arrhythmias
+division	may be	a treatment option for hyperhidrosis
+division	may be	a treatment option for Raynaud's phenomenon
+division	may be	a treatment option for vasospastic angina
+division	may be	a treatment option for spastic bladder
+division	may be	a treatment option for neurogenic bladder
+division	may be	a treatment option for hyperreflexia
+division	may be	a treatment option for cancer pain
+division	may be	a treatment option for peripheral neuropathy
+division	may be	a treatment option for complex partial seizures
+division	may be	a treatment option for upper limb spasticity
+division	may be	a treatment option for lower limb spasticity
+division	may be	a treatment option for primary hyperhidrosis
+division	may be	a treatment option for functional ovarian cysts
+division	may be	a treatment option for chronic pelvic pain
+division	may be	a treatment option for endometriosis
+division	may be	a treatment option for fallopian tube blockage
+division	may be	a treatment option for urinary incontinence
+division	may be	a treatment option for premature ejaculation
+division	may be	a treatment option for erectile dysfunction
+division	may be	a treatment option for stress urinary incontinence
+division	may be	a treatment option for overactive bladder syndrome
+division	may be	a treatment option for vulvodynia
+division	may be	a treatment option for vaginismus
+division	may be	a treatment option for gynecologic cancer
+division	may be	a treatment option for lymphedema
+division	may be	a treatment option for phantom limb syndrome
+division	may be	a treatment option for brachial plexus injury
+division	may be	a treatment option for post-herpetic neuralgia
+division	may be	a treatment option for chronic regional pain syndrome
+division	may be	a treatment option for trigeminal neuropathy
+division	may be	a treatment option for lumbar facet joint dysfunction
+division	may be	a treatment option for cervical facet joint dysfunction
+division	may be	a treatment option for posterior tibial neuralgia
+division	may be	a treatment option for glossopharyngeal neuralgia
+division	may be	a treatment option for carpal tunnel syndrome
+division	may be	a treatment option for cubital tunnel syndrome
+division	may be	a treatment option for thoracic outlet syndrome
+division	may be	a treatment option for ilioinguinal neuralgia
+division	may be	a treatment option for medial branch neuropathy
+division	may be	a treatment option for lumbar sympathetic block
+division	may be	a treatment option for thoracic sympathetic block
+division	may be	a treatment option for stellate ganglion block
+division	may be	a treatment option for coeliac plexus block
+division	may be	a treatment option for lumbar sympathetic plexus block
+division	may be	a treatment option for superior hypogastric plexus block
+division	may be	a treatment option for ganglion impar block
+division	may be	a treatment option for transcatheter renal denervation

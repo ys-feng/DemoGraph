@@ -1,0 +1,50 @@
+Backpropagation
+Activation functions
+Gradient descent
+Feature selection
+Ensemble methods
+Cross-validation
+Hyperparameter tuning
+Overfitting
+Underfitting
+Transfer learning
+Deep learning
+Convolutional neural networks (CNN)
+Recurrent neural networks (RNN)
+Reinforcement learning
+Markov decision processes
+Q-learning
+Policy gradients
+Bayesian methods
+Probabilistic graphical models
+Expectation-Maximization (EM)
+Genetic algorithms
+Evolutionary strategies
+Case-based reasoning
+Decision trees
+Support vector machines (SVM)
+Random forests
+Clustering
+Dimensionality reduction
+Latent Dirichlet Allocation (LDA)
+Word embeddings
+Natural Language Processing (NLP)
+Information retrieval
+Graph theory
+Network analysis
+Community detection
+Centrality measures
+Link prediction
+Semi-supervised learning
+Self-supervised learning
+Unsupervised learning
+Active learning
+Meta-learning
+Explainability
+Interpretability
+Bias and fairness
+Data preprocessing
+Feature engineering
+Imbalanced data
+Evaluation metrics
+Precision and recall

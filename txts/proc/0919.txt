@@ -1,0 +1,24 @@
+other diagnostic procedures on lacrimal system	is a	medical procedure
+other diagnostic procedures on lacrimal system	used for	diagnosis
+lacrimal syringing	is a type of	other diagnostic procedures on lacrimal system
+lacrimal syringing	can detect	blockages
+nasolacrimal duct probing	is a type of	other diagnostic procedures on lacrimal system
+nasolacrimal duct probing	can identify	lacrimal duct obstructions
+dacryocystography	is a type of	other diagnostic procedures on lacrimal system
+dacryocystography	used to visualize	tear drainage system
+lacrimal scintillography	is a type of	other diagnostic procedures on lacrimal system
+lacrimal scintillography	measures	tear drainage rate
+lacrimal endoscopy	is a type of	other diagnostic procedures on lacrimal system
+lacrimal endoscopy	can evaluate	lacrimal duct abnormalities
+lacrimal canalicular probing	is a type of	other diagnostic procedures on lacrimal system
+lacrimal canalicular probing	can identify	canalicular occlusion
+fluorescein	is used in	other diagnostic procedures on lacrimal system
+fluorescein	helps visualize	tear drainage pathway
+inferior meatal anesthetization	is a type of	other diagnostic procedures on lacrimal system
+inferior meatal anesthetization	numbs	nasal mucosa
+rose bengal test	is performed in	other diagnostic procedures on lacrimal system
+rose bengal test	assesses	ocular surface damage
+Jones test	is performed in	other diagnostic procedures on lacrimal system
+Jones test	evaluates	tear production
+dacryocystorhinostomy	is a type of	other diagnostic procedures on lacrimal system
+dacryocystorhinostomy	is a surgical procedure for	nasolacrimal duct obstruction
